@@ -1,0 +1,334 @@
+{
+  "id": "day-004",
+  "number": 4,
+  "theme": "Great books",
+  "title": "Saint Augustine, Confessions",
+  "questions": [
+    {
+      "id": "d004-q01",
+      "difficulty": "easy",
+      "question": "What was the name of Augustine's mother, who followed him from Africa to Italy and prayed for years for his conversion?",
+      "options": [
+        "Helena",
+        "Perpetua",
+        "Monica",
+        "Scholastica"
+      ],
+      "answer": 2,
+      "hint": "She is honoured as a saint herself. Her husband was called Patricius.",
+      "explanation": "Augustine writes about his mother all through the book, but he gives her name only once, in a prayer at the end of book 9. Patricius was a pagan for most of his life. Helena, a tempting wrong answer, was the mother of the emperor Constantine.",
+      "image": {
+        "src": "images/day-004/p01.jpg",
+        "alt": "A young man in a red tunic and an older woman in a white veil sit hand in hand and look up at the sky.",
+        "width": 1252,
+        "height": 1608,
+        "label": {
+          "artist": "Ary Scheffer",
+          "title": "Saint Augustine and Saint Monica",
+          "date": "about 1850",
+          "place": "Musée de la Vie romantique, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Scheffer,_Ary_-_Saint_Augustin_et_Sainte_Monique_-_88.45_-_Mus%C3%A9e_de_la_Vie_romantique.jpg"
+      },
+      "sources": [
+        { "label": "Catholic Encyclopedia (New Advent), St. Monica", "url": "https://www.newadvent.org/cathen/10482a.htm" },
+        { "label": "Vatican, Benedict XVI, General Audience of 9 January 2008", "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080109.html" },
+        { "label": "Project Gutenberg, Confessions, translated by E. B. Pusey", "url": "https://www.gutenberg.org/ebooks/3296" }
+      ]
+    },
+    {
+      "id": "d004-q02",
+      "difficulty": "easy",
+      "question": "Around what date did Augustine write the Confessions?",
+      "options": [
+        "About AD 200",
+        "About AD 400",
+        "About AD 600",
+        "About AD 800"
+      ],
+      "answer": 1,
+      "hint": "He wrote it in Latin as a new bishop, while there was still a Roman emperor in the West.",
+      "explanation": "Scholars date the work to about 397–400, soon after Augustine became bishop of Hippo, a port in Roman North Africa. He was in his forties. He died thirty years later, in 430, while the Vandals were besieging his city.",
+      "image": {
+        "src": "images/day-004/p02.jpg",
+        "alt": "An old bearded man with a halo, in a red robe, writes at a desk in a small vaulted cell. Torn pieces of paper lie on the floor.",
+        "width": 1280,
+        "height": 1987,
+        "label": {
+          "artist": "Sandro Botticelli",
+          "title": "Saint Augustine in His Study",
+          "date": "c. 1490–1494",
+          "place": "Uffizi Gallery, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_St_Augustin_dans_son_cabinet_de_travail.jpg"
+      },
+      "sources": [
+        { "label": "Vatican, Benedict XVI, General Audience of 20 February 2008", "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080220.html" },
+        { "label": "Stanford Encyclopedia of Philosophy, Augustine of Hippo", "url": "https://plato.stanford.edu/entries/augustine/" }
+      ]
+    },
+    {
+      "id": "d004-q03",
+      "difficulty": "medium",
+      "question": "In book 2 Augustine tells how, as a teenager, he and his friends robbed a fruit tree near his family's vineyard, only for the thrill. Which fruit?",
+      "options": [
+        "Pears",
+        "Apples",
+        "Figs",
+        "Pomegranates"
+      ],
+      "answer": 0,
+      "hint": "They went late one night, carried off huge loads, and threw most of the fruit to the pigs.",
+      "explanation": "Augustine says the pears did not even look or taste good, and that he had better fruit at home. What he enjoyed was doing wrong with his friends: alone, he says, he would never have done it. Many people remember the fruit as apples, as in pictures of Adam and Eve.",
+      "image": {
+        "src": "images/day-004/p03.jpg",
+        "alt": "A fresco of a busy street. On the left, parents hand a small boy to a teacher. On the right, a schoolmaster stands among his pupils.",
+        "width": 922,
+        "height": 798,
+        "label": {
+          "artist": "Benozzo Gozzoli",
+          "title": "The School of Tagaste (the young Augustine is taken to school)",
+          "date": "1464–1465",
+          "place": "Church of Sant'Agostino, San Gimignano"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Benozzo_Gozzoli_-_The_School_of_Tagaste_(scene_1,_north_wall)_-_WGA10285.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Confessions, translated by E. B. Pusey", "url": "https://www.gutenberg.org/ebooks/3296" },
+        { "label": "New Advent, Confessions, book II (another translation)", "url": "https://www.newadvent.org/fathers/110102.htm" }
+      ]
+    },
+    {
+      "id": "d004-q04",
+      "difficulty": "easy",
+      "question": "In a garden in Milan, Augustine hears a child's voice chanting the Latin words \"tolle, lege\". What do they mean?",
+      "options": [
+        "Know yourself",
+        "Seize the day",
+        "Remember you must die",
+        "Take up and read"
+      ],
+      "answer": 3,
+      "hint": "He could not tell if the voice was a boy's or a girl's, and he took the words as a command from God.",
+      "explanation": "Augustine picked up a book of Saint Paul's letters and read the first lines he saw, from the letter to the Romans. He says that all his doubt left him at once. This scene in book 8 is the turning point of the Confessions.",
+      "image": {
+        "src": "images/day-004/p04.jpg",
+        "alt": "A young man with a golden halo sits under a tree in a garden and hides his face in his hands. Another man stands near a pink house.",
+        "width": 1276,
+        "height": 784,
+        "label": {
+          "artist": "Fra Angelico and workshop",
+          "title": "The Conversion of Saint Augustine",
+          "date": "c. 1430–1435",
+          "place": "Musée Thomas-Henry, Cherbourg-en-Cotentin"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Fra_angelico_-_conversion_de_saint_augustin.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Confessions, translated by E. B. Pusey", "url": "https://www.gutenberg.org/ebooks/3296" },
+        { "label": "New Advent, Confessions, book VIII (another translation)", "url": "https://www.newadvent.org/fathers/110108.htm" },
+        { "label": "Wikipedia, Augustine of Hippo", "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo" }
+      ]
+    },
+    {
+      "id": "d004-q05",
+      "difficulty": "easy",
+      "question": "Which bishop of Milan impressed Augustine with his sermons and later baptised him?",
+      "options": [
+        "Jerome",
+        "Ambrose",
+        "Athanasius",
+        "John Chrysostom"
+      ],
+      "answer": 1,
+      "hint": "Augustine was surprised to see this man read without speaking the words aloud.",
+      "explanation": "Augustine came to Milan to teach rhetoric, and at first he went to hear Ambrose only because he was a famous speaker. He was baptised at Easter 387, together with his son Adeodatus and his friend Alypius.",
+      "image": {
+        "src": "images/day-004/p05.jpg",
+        "alt": "A fresco of a bishop in a white mitre who pours water over a young man kneeling in a stone font, while other people watch.",
+        "width": 679,
+        "height": 1172,
+        "label": {
+          "artist": "Benozzo Gozzoli",
+          "title": "The Baptism of Saint Augustine",
+          "date": "1464–1465",
+          "place": "Church of Sant'Agostino, San Gimignano"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:AugustineBaptism.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Augustine of Hippo", "url": "https://plato.stanford.edu/entries/augustine/" },
+        { "label": "Vatican, Benedict XVI, General Audience of 9 January 2008", "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080109.html" },
+        { "label": "New Advent, Confessions, book IX", "url": "https://www.newadvent.org/fathers/110109.htm" }
+      ]
+    },
+    {
+      "id": "d004-q06",
+      "difficulty": "medium",
+      "question": "In book 8 Augustine recalls a prayer of his youth: \"Give me chastity and continency, only ...\" How does it end in E. B. Pusey's translation?",
+      "options": [
+        "... not yet.",
+        "... in old age.",
+        "... if Thou wilt.",
+        "... for a season."
+      ],
+      "answer": 0,
+      "hint": "The young Augustine wanted to be good, but he was in no hurry.",
+      "explanation": "Augustine adds that he was afraid God would hear him too soon and cure him of desires that he still wanted to satisfy. The line is often quoted loosely as \"Lord, make me chaste, but not yet\". Another old translation has \"but not yet\" where Pusey has \"only not yet\".",
+      "image": {
+        "src": "images/day-004/p06.jpg",
+        "alt": "A bearded man in a bishop's robes sits writing at a desk in a large, bright study and looks up towards the window. A small white dog watches him.",
+        "width": 1280,
+        "height": 857,
+        "label": {
+          "artist": "Vittore Carpaccio",
+          "title": "Saint Augustine in His Study (The Vision of Saint Augustine)",
+          "date": "1502",
+          "place": "Scuola di San Giorgio degli Schiavoni, Venice"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_026.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Confessions, translated by E. B. Pusey", "url": "https://www.gutenberg.org/ebooks/3296" },
+        { "label": "New Advent, Confessions, book VIII (translated by J. G. Pilkington)", "url": "https://www.newadvent.org/fathers/110108.htm" }
+      ]
+    },
+    {
+      "id": "d004-q07",
+      "difficulty": "medium",
+      "question": "For about nine years before his conversion, Augustine was a \"hearer\", the lower rank of member, in which religious movement?",
+      "options": [
+        "Arianism",
+        "Donatism",
+        "Manichaeism",
+        "Pelagianism"
+      ],
+      "answer": 2,
+      "hint": "Its members were divided into the \"elect\" and the \"hearers\". It was a religion with Persian origins.",
+      "explanation": "Augustine says he was with them from his nineteenth year to his twenty-eighth. He lost his trust when their famous bishop Faustus came to Carthage and could not answer his questions. As a bishop he wrote against the Manichaeans, and also against the Donatists and the Pelagians.",
+      "image": {
+        "src": "images/day-004/p07.jpg",
+        "alt": "A fresco of a young man on horseback who rides through green hills with a group of men, with a city behind them. Two angels hold a Latin inscription.",
+        "width": 760,
+        "height": 720,
+        "label": {
+          "artist": "Benozzo Gozzoli",
+          "title": "Saint Augustine Departing for Milan",
+          "date": "1464–1465",
+          "place": "Church of Sant'Agostino, San Gimignano"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Benozzo_Gozzoli_-_St_Augustine_Departing_for_Milan_(scene_7,_south_wall)_-_WGA10292.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Augustine of Hippo", "url": "https://plato.stanford.edu/entries/augustine/" },
+        { "label": "Project Gutenberg, Confessions, translated by E. B. Pusey", "url": "https://www.gutenberg.org/ebooks/3296" },
+        { "label": "Catholic Encyclopedia (New Advent), Life of St. Augustine of Hippo", "url": "https://www.newadvent.org/cathen/02084a.htm" }
+      ]
+    },
+    {
+      "id": "d004-q08",
+      "difficulty": "hard",
+      "question": "Augustine was born in 354 in Thagaste, a small town in Roman North Africa. In which present-day country is it?",
+      "options": [
+        "Algeria",
+        "Egypt",
+        "Libya",
+        "Tunisia"
+      ],
+      "answer": 0,
+      "hint": "The town is now called Souk Ahras. Hippo, where he was bishop, is in the same country: today it is the port of Annaba.",
+      "explanation": "Thagaste is today the town of Souk Ahras in Algeria. Augustine calls his father \"a poor freeman\" of Thagaste, who still found the money to send him to study in Carthage. Carthage stood near modern Tunis, which is why many people guess Tunisia.",
+      "image": {
+        "src": "images/day-004/p08.jpg",
+        "alt": "A bearded bishop in a golden robe sits at a desk. He holds a pen in one hand and a burning heart in the other, and looks up at a light.",
+        "width": 1280,
+        "height": 1633,
+        "label": {
+          "artist": "Philippe de Champaigne",
+          "title": "Saint Augustine",
+          "date": "c. 1645–1650",
+          "place": "Los Angeles County Museum of Art"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Augustine of Hippo", "url": "https://plato.stanford.edu/entries/augustine/" },
+        { "label": "Internet Encyclopedia of Philosophy, Augustine", "url": "https://iep.utm.edu/augustin/" },
+        { "label": "Wikipedia, Augustine of Hippo", "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo" }
+      ]
+    },
+    {
+      "id": "d004-q09",
+      "difficulty": "hard",
+      "question": "After his baptism Augustine set out for Africa with his mother. In which Italian port did she die while they waited for a ship?",
+      "options": [
+        "Brindisi",
+        "Genoa",
+        "Naples",
+        "Ostia"
+      ],
+      "answer": 3,
+      "hint": "In a famous scene in book 9, mother and son stand there at a window that looks onto a garden, and talk about eternal life.",
+      "explanation": "Ostia was the harbour of ancient Rome, at the mouth of the Tiber. A few days after the talk at the window, Monica fell ill with a fever, and she died on the ninth day. She was in her fifty-sixth year, and Augustine in his thirty-third.",
+      "image": {
+        "src": "images/day-004/p09.jpg",
+        "alt": "A fresco of a woman dying in bed, with women and monks around her. Through the arches on the right, a ship sails away.",
+        "width": 835,
+        "height": 790,
+        "label": {
+          "artist": "Benozzo Gozzoli",
+          "title": "The Death of Saint Monica",
+          "date": "1464–1465",
+          "place": "Church of Sant'Agostino, San Gimignano"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Benozzo_Gozzoli_-_Death_of_St_Monica_(scene_13,_south_wall)_-_WGA10306.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Confessions, translated by E. B. Pusey", "url": "https://www.gutenberg.org/ebooks/3296" },
+        { "label": "Catholic Encyclopedia (New Advent), St. Monica", "url": "https://www.newadvent.org/cathen/10482a.htm" },
+        { "label": "New Advent, Confessions, book IX", "url": "https://www.newadvent.org/fathers/110109.htm" }
+      ]
+    },
+    {
+      "id": "d004-q10",
+      "difficulty": "hard",
+      "question": "Which Italian poet wrote that in 1336 he opened a small copy of the Confessions on the top of Mont Ventoux, in France?",
+      "options": [
+        "Dante",
+        "Petrarch",
+        "Boccaccio",
+        "Tasso"
+      ],
+      "answer": 1,
+      "hint": "He had lived in that part of France since he was a child, and he climbed the mountain with his younger brother.",
+      "explanation": "Petrarch says the book opened at a passage in book 10: people go to admire high mountains and the sea, but do not look at themselves. He closed it and did not speak again until he reached the bottom. The little book was a gift from his former confessor, to whom he wrote the letter.",
+      "image": {
+        "src": "images/day-004/p10.jpg",
+        "alt": "A drawing of a man in profile, wearing a hood and a cloak.",
+        "width": 1242,
+        "height": 1446,
+        "label": {
+          "artist": "Attributed to Altichiero",
+          "title": "Portrait of Petrarch, from a manuscript of his De viris illustribus",
+          "date": "1379",
+          "place": "Bibliothèque nationale de France, Paris (MS Latin 6069F)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Petrarch-bnf-lat-6069F-detail.jpg"
+      },
+      "sources": [
+        { "label": "Fordham University, Medieval Sourcebook: Petrarch, The Ascent of Mount Ventoux", "url": "https://sourcebooks.fordham.edu/source/petrarch-ventoux.asp" },
+        { "label": "Wikipedia, Ascent of Mont Ventoux", "url": "https://en.wikipedia.org/wiki/Ascent_of_Mont_Ventoux" }
+      ]
+    }
+  ]
+}

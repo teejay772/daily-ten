@@ -1,0 +1,420 @@
+{
+  "id": "day-006",
+  "number": 6,
+  "theme": "Geography",
+  "title": "The world map",
+  "questions": [
+    {
+      "id": "d006-q01",
+      "difficulty": "easy",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "answer": 2,
+      "hint": "It is a planned city. An American architect drew the plan for it in 1911 and 1912, and it got its name in 1913.",
+      "explanation": "Canberra was built to be the capital. Parliament chose the site in 1908 and met in Melbourne until it moved to the new city in 1927. Sydney and Melbourne are much larger, but neither is the capital.",
+      "image": {
+        "src": "images/day-006/p01.jpg",
+        "alt": "An old plan of a city with wide avenues, circles and a winding river, drawn in ink on a survey map.",
+        "width": 1280,
+        "height": 1266,
+        "label": {
+          "artist": "Walter Burley Griffin",
+          "title": "Competition plan for the federal capital of Australia, later named Canberra",
+          "date": "1911–1912",
+          "place": "National Archives of Australia"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Canberra_plan-WBG.jpg"
+      },
+      "sources": [
+        {
+          "label": "Parliamentary Education Office, Australian Parliament history timeline",
+          "url": "https://peo.gov.au/understand-our-parliament/history-of-parliament/history-milestones/australian-parliament-history-timeline"
+        },
+        {
+          "label": "Tourism Australia, Guide to Canberra",
+          "url": "https://www.australia.com/en/places/canberra-and-surrounds/guide-to-canberra.html"
+        },
+        {
+          "label": "Wikipedia, Canberra",
+          "url": "https://en.wikipedia.org/wiki/Canberra"
+        }
+      ]
+    },
+    {
+      "id": "d006-q02",
+      "difficulty": "easy",
+      "question": "Which is the highest mountain in Africa?",
+      "options": [
+        "Kilimanjaro",
+        "Mount Kenya",
+        "Mount Stanley",
+        "Ras Dashen"
+      ],
+      "answer": 0,
+      "hint": "It is an old volcano with three peaks. It stands alone, not in a mountain range, and its ice is shrinking.",
+      "explanation": "Kilimanjaro is in Tanzania and rises to 5,895 metres. It still has ice at the top, although it lies close to the equator. Mount Kenya is the second highest mountain in Africa, at 5,199 metres.",
+      "image": {
+        "src": "images/day-006/p02.jpg",
+        "alt": "A broad mountain seen from above, with a white cap of snow and a round crater at the top, and dark forest around it.",
+        "width": 1280,
+        "height": 960,
+        "label": {
+          "artist": "NASA (Landsat 5 satellite)",
+          "title": "Snow and ice on Kilimanjaro",
+          "date": "17 February 1993",
+          "place": "NASA Earth Observatory"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Snow_and_Ice_on_Kilimanjaro-1993.jpg"
+      },
+      "sources": [
+        {
+          "label": "NASA Earth Observatory, Mount Kilimanjaro, Tanzania",
+          "url": "https://science.nasa.gov/earth/earth-observatory/mount-kilimanjaro-tanzania-2720/"
+        },
+        {
+          "label": "Wikipedia, Mount Kilimanjaro",
+          "url": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
+        },
+        {
+          "label": "Wikipedia, Mount Kenya",
+          "url": "https://en.wikipedia.org/wiki/Mount_Kenya"
+        }
+      ]
+    },
+    {
+      "id": "d006-q03",
+      "difficulty": "easy",
+      "question": "To which country do the Azores islands belong?",
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "United Kingdom"
+      ],
+      "answer": 1,
+      "hint": "The islands lie about 1,400 km west of this country's mainland. Their largest town is Ponta Delgada.",
+      "explanation": "The Azores are nine volcanic islands in the middle of the North Atlantic. They are an autonomous region of Portugal. Portugal has one more autonomous region, and it is also a group of Atlantic islands: Madeira.",
+      "image": {
+        "src": "images/day-006/p03.jpg",
+        "alt": "Seven green islands of different shapes scattered over a dark ocean, seen from space.",
+        "width": 1280,
+        "height": 960,
+        "label": {
+          "artist": "NASA (Jeff Schmaltz, MODIS Rapid Response Team)",
+          "title": "The Azores seen from the Terra satellite",
+          "date": "2003",
+          "place": "NASA Visible Earth"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Azores_satellite_photo-NASA.jpg"
+      },
+      "sources": [
+        {
+          "label": "NASA Earth Observatory, São Miguel, Azores",
+          "url": "https://science.nasa.gov/earth/earth-observatory/sao-miguel-azores-150034/"
+        },
+        {
+          "label": "Wikipedia, Azores",
+          "url": "https://en.wikipedia.org/wiki/Azores"
+        }
+      ]
+    },
+    {
+      "id": "d006-q04",
+      "difficulty": "easy",
+      "question": "Which two seas does the Suez Canal connect?",
+      "options": [
+        "The Black Sea and the Caspian Sea",
+        "The Mediterranean Sea and the Red Sea",
+        "The Red Sea and the Arabian Sea",
+        "The Mediterranean Sea and the Black Sea"
+      ],
+      "answer": 1,
+      "hint": "The canal crosses Egypt from Port Said in the north to the city of Suez in the south.",
+      "explanation": "The canal opened in November 1869 after ten years of work, and it is about 193 km long. Ships sailing between Europe and Asia can use it and do not have to go around Africa.",
+      "image": {
+        "src": "images/day-006/p04.jpg",
+        "alt": "A thin dark line of water runs from a sea at the top to another sea at the bottom, through yellow desert and past green fields.",
+        "width": 1280,
+        "height": 2545,
+        "label": {
+          "artist": "NASA",
+          "title": "The Suez Canal from space (NASA World Wind, Landsat images)",
+          "date": "Undated",
+          "place": "NASA World Wind"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Suez_canal_30.55N_32.28E.jpg"
+      },
+      "sources": [
+        {
+          "label": "Suez Canal Authority, About the Suez Canal",
+          "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx"
+        },
+        {
+          "label": "NASA Earth Observatory, The New Suez Canal",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-new-suez-canal-87948/"
+        }
+      ]
+    },
+    {
+      "id": "d006-q05",
+      "difficulty": "medium",
+      "question": "Which strait connects the Black Sea to the Sea of Marmara?",
+      "options": [
+        "The Dardanelles",
+        "The Kerch Strait",
+        "The Strait of Gibraltar",
+        "The Bosporus"
+      ],
+      "answer": 3,
+      "hint": "A very large city stands on both of its shores, partly in Europe and partly in Asia.",
+      "explanation": "The Bosporus runs through Istanbul and is part of the border between Europe and Asia. The Dardanelles are at the other end of the Sea of Marmara and lead to the Aegean Sea. Together they are called the Turkish Straits.",
+      "image": {
+        "src": "images/day-006/p05.jpg",
+        "alt": "A narrow, winding channel of pale water joins two dark seas, with a large pink-grey city on both banks.",
+        "width": 960,
+        "height": 1116,
+        "label": {
+          "artist": "NASA (astronaut photograph ISS008-E-21752)",
+          "title": "Istanbul and the Bosporus from the International Space Station",
+          "date": "16 April 2004",
+          "place": "NASA Earth Observatory"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Istanbul_and_Bosporus_big.jpg"
+      },
+      "sources": [
+        {
+          "label": "NASA Earth Observatory, Bosporus Strait and Istanbul, Turkey",
+          "url": "https://science.nasa.gov/earth/earth-observatory/bosporus-strait-and-istanbul-turkey-2384"
+        },
+        {
+          "label": "Wikipedia, Bosporus",
+          "url": "https://en.wikipedia.org/wiki/Bosporus"
+        },
+        {
+          "label": "Wikipedia, Dardanelles",
+          "url": "https://en.wikipedia.org/wiki/Dardanelles"
+        }
+      ]
+    },
+    {
+      "id": "d006-q06",
+      "difficulty": "medium",
+      "question": "Which is the deepest lake in the world?",
+      "options": [
+        "Lake Baikal",
+        "Lake Superior",
+        "Lake Tanganyika",
+        "Lake Victoria"
+      ],
+      "answer": 0,
+      "hint": "It is a rift lake, long and narrow. It is also the oldest lake in the world, at about 25 million years.",
+      "explanation": "Lake Baikal, in Siberia, is more than 1,600 metres deep. It holds more than a fifth of the fresh water on the Earth's surface, more than all the Great Lakes of North America together. Lake Tanganyika, in Africa, is the second deepest.",
+      "image": {
+        "src": "images/day-006/p06.jpg",
+        "alt": "A long, curved, dark lake seen from space, with snow on the mountains around it.",
+        "width": 1280,
+        "height": 1656,
+        "label": {
+          "artist": "NASA (Jacques Descloitres, MODIS Land Rapid Response Team)",
+          "title": "Lake Baikal from the Terra satellite",
+          "date": "23 October 2001",
+          "place": "NASA Visible Earth"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Baikal.A2001296.0420.250m-NASA.jpg"
+      },
+      "sources": [
+        {
+          "label": "NASA Earth Observatory, Melting Ice on Lake Baikal",
+          "url": "https://science.nasa.gov/earth/earth-observatory/melting-ice-on-lake-baikal-83646"
+        },
+        {
+          "label": "Wikipedia, Lake Baikal",
+          "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+        },
+        {
+          "label": "Wikipedia, Lake Tanganyika",
+          "url": "https://en.wikipedia.org/wiki/Lake_Tanganyika"
+        }
+      ]
+    },
+    {
+      "id": "d006-q07",
+      "difficulty": "medium",
+      "question": "Which is the longest river in Europe?",
+      "options": [
+        "The Danube",
+        "The Dnieper",
+        "The Rhine",
+        "The Volga"
+      ],
+      "answer": 3,
+      "hint": "It never reaches the open ocean. It ends in a wide delta on the shore of an inland sea.",
+      "explanation": "The Volga flows for more than 3,500 km through Russia and ends in the Caspian Sea. Its delta is the largest in Europe. The Danube, which ends in the Black Sea, is the second longest river in Europe.",
+      "image": {
+        "src": "images/day-006/p07.jpg",
+        "alt": "A river splits into hundreds of small channels in a green, fan-shaped delta, seen from space.",
+        "width": 1280,
+        "height": 852,
+        "label": {
+          "artist": "NASA (astronaut photograph ISS048-E-63048)",
+          "title": "The Volga Delta from the International Space Station",
+          "date": "21 August 2016",
+          "place": "NASA Earth Observatory"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:ISS048-E-063048_lrg_(Volga_Delta).jpg"
+      },
+      "sources": [
+        {
+          "label": "NASA Earth Observatory, Volga River Delta",
+          "url": "https://science.nasa.gov/earth/earth-observatory/volga-river-delta-5650"
+        },
+        {
+          "label": "Wikipedia, Volga",
+          "url": "https://en.wikipedia.org/wiki/Volga"
+        },
+        {
+          "label": "Wikipedia, Danube",
+          "url": "https://en.wikipedia.org/wiki/Danube"
+        }
+      ]
+    },
+    {
+      "id": "d006-q08",
+      "difficulty": "medium",
+      "question": "Counting polar deserts, on which continent is the largest desert on Earth?",
+      "options": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "North America"
+      ],
+      "answer": 1,
+      "hint": "A desert is a place with very little rain or snow. It does not have to be hot or sandy.",
+      "explanation": "Antarctica is the driest continent. So little snow falls there that almost all of it counts as a desert, of about 14 million square kilometres. The Sahara, in Africa, is the largest hot desert, at about 9 million square kilometres.",
+      "image": {
+        "src": "images/day-006/p08.jpg",
+        "alt": "A wide, empty valley of grey stones and bare brown mountains under a blue sky.",
+        "width": 1280,
+        "height": 853,
+        "label": {
+          "artist": "David Saul",
+          "title": "Wright Valley, Antarctica, seen from the foot of Bull Pass",
+          "date": "17 January 2005",
+          "place": "Wikimedia Commons (released into the public domain by the photographer)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Wright_Valley_From_Bull_Pass.jpg"
+      },
+      "sources": [
+        {
+          "label": "Guinness World Records, Largest desert",
+          "url": "https://www.guinnessworldrecords.com/world-records/largest-desert-cold-"
+        },
+        {
+          "label": "Australian Antarctic Program, Weather",
+          "url": "https://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/"
+        },
+        {
+          "label": "Wikipedia, Sahara",
+          "url": "https://en.wikipedia.org/wiki/Sahara"
+        }
+      ]
+    },
+    {
+      "id": "d006-q09",
+      "difficulty": "hard",
+      "question": "Which is the largest country in Africa by area?",
+      "options": [
+        "Algeria",
+        "DR Congo",
+        "Libya",
+        "Sudan"
+      ],
+      "answer": 0,
+      "hint": "Its capital is on the Mediterranean coast, but the Sahara covers most of the country.",
+      "explanation": "Algeria covers about 2.38 million square kilometres. Sudan was the largest country in Africa until 2011, when its southern part became a new country, South Sudan. The Democratic Republic of the Congo is now the second largest.",
+      "image": {
+        "src": "images/day-006/p09.jpg",
+        "alt": "Africa seen from space, with pale desert in the north and dark green forest in the centre.",
+        "width": 1280,
+        "height": 1438,
+        "label": {
+          "artist": "NASA",
+          "title": "Africa from space (Blue Marble images)",
+          "date": "Undated",
+          "place": "NASA Blue Marble"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Africa_satellite_orthographic.jpg"
+      },
+      "sources": [
+        {
+          "label": "World Bank, Algeria overview",
+          "url": "https://www.worldbank.org/en/country/algeria/overview"
+        },
+        {
+          "label": "Wikipedia, List of African countries by area",
+          "url": "https://en.wikipedia.org/wiki/List_of_African_countries_by_area"
+        },
+        {
+          "label": "Wikipedia, Sudan",
+          "url": "https://en.wikipedia.org/wiki/Sudan"
+        }
+      ]
+    },
+    {
+      "id": "d006-q10",
+      "difficulty": "hard",
+      "question": "A doubly landlocked country has no sea coast, and all its neighbours are landlocked too. Only two exist. One is Uzbekistan. Which is the other?",
+      "options": [
+        "Andorra",
+        "Luxembourg",
+        "Liechtenstein",
+        "North Macedonia"
+      ],
+      "answer": 2,
+      "hint": "Its capital is Vaduz, and its head of state is a prince.",
+      "explanation": "Liechtenstein lies between Switzerland and Austria, and neither has a sea coast. Uzbekistan has five neighbours, all landlocked. From either country you must cross at least two borders to reach the ocean.",
+      "image": {
+        "src": "images/day-006/p10.jpg",
+        "alt": "A political map of Central Asia and the Caucasus, with each country in a different colour.",
+        "width": 1280,
+        "height": 954,
+        "label": {
+          "artist": "US Central Intelligence Agency",
+          "title": "The Caucasus and Central Asia, political map",
+          "date": "2000",
+          "place": "Perry-Castañeda Library Map Collection, University of Texas"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Caucasus_central_asia_political_map_2000.jpg"
+      },
+      "sources": [
+        {
+          "label": "Guinness World Records, Largest double landlocked country",
+          "url": "https://www.guinnessworldrecords.com/world-records/largest-double-landlocked-country"
+        },
+        {
+          "label": "Wikipedia, Liechtenstein",
+          "url": "https://en.wikipedia.org/wiki/Liechtenstein"
+        },
+        {
+          "label": "Wikipedia, Uzbekistan",
+          "url": "https://en.wikipedia.org/wiki/Uzbekistan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "day-005",
+  "number": 5,
+  "theme": "French history",
+  "title": "From Charlemagne to de Gaulle",
+  "questions": [
+    {
+      "id": "d005-q01",
+      "difficulty": "medium",
+      "question": "In which year was Charlemagne crowned emperor in Rome by Pope Leo III?",
+      "options": [
+        "732",
+        "800",
+        "843",
+        "962"
+      ],
+      "answer": 1,
+      "hint": "It happened on Christmas Day in St Peter's Basilica. By then Charlemagne had been king of the Franks for more than thirty years.",
+      "explanation": "Charlemagne had been king of the Franks since 768 and king of the Lombards since 774 when the Pope crowned him on Christmas Day 800. His empire did not last long: in 843 the Treaty of Verdun divided it among his grandsons.",
+      "image": {
+        "src": "images/day-005/p01.jpg",
+        "alt": "A medieval miniature: inside a large church a pope places a crown on a kneeling man in a blue cloak, with bishops and courtiers around them.",
+        "width": 1248,
+        "height": 1152,
+        "label": {
+          "artist": "Jean Fouquet",
+          "title": "The Coronation of Charlemagne, from the Grandes Chroniques de France",
+          "date": "about 1455–1460",
+          "place": "Bibliothèque nationale de France, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sacre_de_Charlemagne.jpg"
+      },
+      "sources": [
+        { "label": "BnF, Les Essentiels: L'Europe carolingienne", "url": "https://essentiels.bnf.fr/fr/histoire/moyen-age/0d425ac1-723b-46c0-9bb5-e987c3725f27-periode-carolingienne-8e-9e-siecles/article/2cd4ee64-a6ea-4ca7-b343-4739c0cd13f9-europe-carolingienne" },
+        { "label": "Larousse, Charlemagne", "url": "https://www.larousse.fr/encyclopedie/personnage/Charlemagne/112805" },
+        { "label": "Wikipedia, Charlemagne", "url": "https://en.wikipedia.org/wiki/Charlemagne" }
+      ]
+    },
+    {
+      "id": "d005-q02",
+      "difficulty": "easy",
+      "question": "Which city, besieged by the English, did Joan of Arc help to free in May 1429?",
+      "options": [
+        "Reims",
+        "Rouen",
+        "Compiègne",
+        "Orléans"
+      ],
+      "answer": 3,
+      "hint": "Her best-known nickname includes the name of this city.",
+      "explanation": "Joan entered Orléans on 29 April 1429, aged about seventeen, and the English lifted the siege on 8 May. In July she saw Charles VII crowned at Reims. Rouen is where she was burned at the stake on 30 May 1431.",
+      "image": {
+        "src": "images/day-005/p02.jpg",
+        "alt": "A young woman in armour holds up a white banner in front of a stone fortress, while soldiers attack with ladders, bows and pikes.",
+        "width": 1280,
+        "height": 1738,
+        "label": {
+          "artist": "Jules Eugène Lenepveu",
+          "title": "Joan of Arc at the Siege of Orléans",
+          "date": "about 1886–1890",
+          "place": "Panthéon, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Lenepveu,_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg"
+      },
+      "sources": [
+        { "label": "Larousse, sainte Jeanne d'Arc", "url": "https://www.larousse.fr/encyclopedie/personnage/sainte_Jeanne_dArc/125788" },
+        { "label": "Wikipedia, Joan of Arc", "url": "https://en.wikipedia.org/wiki/Joan_of_Arc" }
+      ]
+    },
+    {
+      "id": "d005-q03",
+      "difficulty": "medium",
+      "question": "Which French king signed the Edict of Nantes in 1598, giving Protestants the right to worship in certain places?",
+      "options": [
+        "Henry IV",
+        "Francis I",
+        "Charles IX",
+        "Louis XIII"
+      ],
+      "answer": 0,
+      "hint": "He had been the leader of the Protestant party, and he became a Catholic in 1593.",
+      "explanation": "Henry IV wanted to end the Wars of Religion. The edict gave Protestants civil equality with Catholics and freedom of worship in fixed places. In 1685 his grandson Louis XIV cancelled it, and many Protestants left France.",
+      "image": {
+        "src": "images/day-005/p03.jpg",
+        "alt": "A full-length portrait of a grey-bearded man in black clothes with a white ruff, one hand on a table covered in red cloth, before a green curtain.",
+        "width": 1280,
+        "height": 2014,
+        "label": {
+          "artist": "Frans Pourbus the Younger",
+          "title": "Henry IV, King of France, in Black Dress",
+          "date": "about 1610",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Henri-Pourbus.jpg"
+      },
+      "sources": [
+        { "label": "Musée protestant, The Edict of Nantes (1598)", "url": "https://museeprotestant.org/en/notice/the-edict-of-nantes-1598/" },
+        { "label": "Musée protestant, Henri IV (1553-1610)", "url": "https://museeprotestant.org/en/notice/henri-iv-1553-1610/" },
+        { "label": "Wikipedia, Edict of Nantes", "url": "https://en.wikipedia.org/wiki/Edict_of_Nantes" }
+      ]
+    },
+    {
+      "id": "d005-q04",
+      "difficulty": "hard",
+      "question": "In which year did Louis XIV move the French court and government to Versailles?",
+      "options": [
+        "1643",
+        "1661",
+        "1682",
+        "1715"
+      ],
+      "answer": 2,
+      "hint": "When the court moved in, the Hall of Mirrors was still being built.",
+      "explanation": "The court and the government moved to Versailles on 6 May 1682. The palace had started as a hunting lodge of his father, Louis XIII. 1643 is the year Louis XIV became king, and 1715 is the year he died, after 72 years on the throne.",
+      "image": {
+        "src": "images/day-005/p04.jpg",
+        "alt": "A view from above of a palace with courtyards and formal gardens. A long road with coaches and riders leads to its gate.",
+        "width": 1280,
+        "height": 929,
+        "label": {
+          "artist": "Pierre Patel",
+          "title": "View of the Palace and Gardens of Versailles from the Avenue de Paris",
+          "date": "about 1668",
+          "place": "Palace of Versailles"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_Patel.jpg"
+      },
+      "sources": [
+        { "label": "Palace of Versailles, The Palace", "url": "https://en.chateauversailles.fr/discover/estate/palace" },
+        { "label": "Palace of Versailles, Louis XIV", "url": "https://en.chateauversailles.fr/discover/history/great-characters/louis-xiv" },
+        { "label": "Palace of Versailles, The Hall of Mirrors", "url": "https://en.chateauversailles.fr/discover/estate/palace/hall-mirrors" },
+        { "label": "Wikipedia, Palace of Versailles", "url": "https://en.wikipedia.org/wiki/Palace_of_Versailles" }
+      ]
+    },
+    {
+      "id": "d005-q05",
+      "difficulty": "easy",
+      "question": "Which fortress and prison in Paris did a crowd storm on 14 July 1789?",
+      "options": [
+        "The Bastille",
+        "The Conciergerie",
+        "The Temple",
+        "The Grand Châtelet"
+      ],
+      "answer": 0,
+      "hint": "The crowd came to take the gunpowder stored inside. The governor, de Launay, was killed that day.",
+      "explanation": "The Bastille held only seven prisoners that day, four of them forgers. 14 July became France's national day in 1880. The date also recalls the Fête de la Fédération of 14 July 1790, a peaceful celebration of national unity.",
+      "image": {
+        "src": "images/day-005/p05.jpg",
+        "alt": "A watercolour of a stone fortress with tall round towers, covered in smoke. Soldiers and armed men crowd in front of its gate.",
+        "width": 1243,
+        "height": 902,
+        "label": {
+          "artist": "Jean-Pierre Houël",
+          "title": "The Storming of the Bastille",
+          "date": "1789",
+          "place": "Bibliothèque nationale de France, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Prise_de_la_Bastille.jpg"
+      },
+      "sources": [
+        { "label": "Élysée, La fête nationale du 14 juillet", "url": "https://www.elysee.fr/la-presidence/la-fete-nationale-du-14-juillet" },
+        { "label": "Wikipedia, Storming of the Bastille", "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille" }
+      ]
+    },
+    {
+      "id": "d005-q06",
+      "difficulty": "medium",
+      "question": "Whose fall on 9 Thermidor Year II (27 July 1794) brought the Terror to an end?",
+      "options": [
+        "Georges Danton",
+        "Jean-Paul Marat",
+        "Antoine Fouquier-Tinville",
+        "Maximilien Robespierre"
+      ],
+      "answer": 3,
+      "hint": "A lawyer and a leading member of the Jacobin Club, he was called \"the Incorruptible\".",
+      "explanation": "Robespierre was arrested with his supporters on 9 Thermidor and guillotined the next day, 28 July 1794, together with 21 of them. There was no trial. Thermidor was a summer month in the calendar of the Revolution.",
+      "image": {
+        "src": "images/day-005/p06.jpg",
+        "alt": "A portrait of a young man with powdered hair, in a striped brown coat with a wide collar and a white cravat.",
+        "width": 1280,
+        "height": 1583,
+        "label": {
+          "artist": "Unknown French painter",
+          "title": "Portrait of Maximilien de Robespierre",
+          "date": "about 1790",
+          "place": "Musée Carnavalet, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Robespierre.jpg"
+      },
+      "sources": [
+        { "label": "Larousse, journées des 9 et 10 thermidor an II", "url": "https://www.larousse.fr/encyclopedie/divers/journ%C3%A9es_des_9_et_10_thermidor_an_II/146561" },
+        { "label": "Assemblée nationale, 1793-1794: La Terreur", "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-terreur" },
+        { "label": "Musée Carnavalet, Portrait of Maximilien de Robespierre", "url": "https://www.carnavalet.paris.fr/en/collections/portrait-maximilien-de-robespierre-1758-1794" },
+        { "label": "Wikipedia, Maximilien Robespierre", "url": "https://en.wikipedia.org/wiki/Maximilien_Robespierre" }
+      ]
+    },
+    {
+      "id": "d005-q07",
+      "difficulty": "medium",
+      "question": "Where was Napoleon crowned Emperor of the French on 2 December 1804?",
+      "options": [
+        "Reims Cathedral",
+        "Notre-Dame de Paris",
+        "The Basilica of Saint-Denis",
+        "The Palace of Versailles"
+      ],
+      "answer": 1,
+      "hint": "Pope Pius VII travelled from Rome to be there. Napoleon did not use the church where French kings were traditionally crowned.",
+      "explanation": "French kings were crowned at Reims, but Napoleon chose Notre-Dame. With the Pope watching, he placed the crown on his own head and then crowned his wife Josephine. David's painting in the Louvre, almost ten metres wide, shows this second moment.",
+      "image": {
+        "src": "images/day-005/p07.jpg",
+        "alt": "A grand ceremony inside a church: a man in a red and white robe lifts a crown above a kneeling woman, watched by clergy and a large crowd.",
+        "width": 1280,
+        "height": 805,
+        "label": {
+          "artist": "Jacques-Louis David",
+          "title": "The Coronation of Napoleon",
+          "date": "1805–1807",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg"
+      },
+      "sources": [
+        { "label": "Fondation Napoléon, A close-up on the coronation of Napoleon I", "url": "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-the-coronation-of-napoleon-i/" },
+        { "label": "Wikipedia, Coronation of Napoleon", "url": "https://en.wikipedia.org/wiki/Coronation_of_Napoleon" }
+      ]
+    },
+    {
+      "id": "d005-q08",
+      "difficulty": "easy",
+      "question": "To which island did the British send Napoleon after his defeat at Waterloo in 1815?",
+      "options": [
+        "Elba",
+        "Corsica",
+        "Ascension Island",
+        "Saint Helena"
+      ],
+      "answer": 3,
+      "hint": "It was his second exile. He arrived there on a British ship in October 1815 and never left.",
+      "explanation": "After Waterloo (18 June 1815) Napoleon gave himself up to the British, who sent him to Saint Helena, a small island in the South Atlantic. He died there on 5 May 1821. Elba was his first exile, in 1814; he escaped from it in March 1815.",
+      "image": {
+        "src": "images/day-005/p08.jpg",
+        "alt": "A man in a long grey coat and a two-cornered hat stands alone on the deck of a sailing ship and looks out to sea. A group of officers watch him.",
+        "width": 1280,
+        "height": 852,
+        "label": {
+          "artist": "William Quiller Orchardson",
+          "title": "Napoleon on Board the Bellerophon",
+          "date": "about 1880",
+          "place": "Tate Britain, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Napoleon_on_Board_the_Bellerophon_-_Sir_William_Quiller_Orchardson.jpg"
+      },
+      "sources": [
+        { "label": "Fondation Napoléon, From Waterloo to the island of St Helena", "url": "https://www.napoleon.org/en/young-historians/napodoc/from-waterloo-to-the-island-of-st-helena/" },
+        { "label": "Fondation Napoléon, Island of St Helena", "url": "https://www.napoleon.org/en/magazine/places/island-of-st-helena/" },
+        { "label": "Wikipedia, Saint Helena", "url": "https://en.wikipedia.org/wiki/Saint_Helena" }
+      ]
+    },
+    {
+      "id": "d005-q09",
+      "difficulty": "hard",
+      "question": "In which Paris newspaper did Émile Zola publish his open letter \"J'Accuse…!\" on 13 January 1898?",
+      "options": [
+        "Le Figaro",
+        "Le Petit Journal",
+        "L'Aurore",
+        "La Libre Parole"
+      ],
+      "answer": 2,
+      "hint": "It was a young newspaper, founded only the year before, and Georges Clemenceau was its leading voice.",
+      "explanation": "The letter, addressed to President Félix Faure, defended Captain Alfred Dreyfus. Clemenceau chose the title. Zola was put on trial and convicted, and he went to England to avoid prison. Dreyfus was cleared and taken back into the army only in 1906.",
+      "image": {
+        "src": "images/day-005/p09.jpg",
+        "alt": "A man with dark hair and a beard sits sideways at a desk full of books and papers, holding a large open book. Prints hang on the wall.",
+        "width": 1280,
+        "height": 1646,
+        "label": {
+          "artist": "Édouard Manet",
+          "title": "Portrait of Émile Zola",
+          "date": "1868",
+          "place": "Musée d'Orsay, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_049.jpg"
+      },
+      "sources": [
+        { "label": "BnF, Les Essentiels: Zola et l'affaire Dreyfus", "url": "https://essentiels.bnf.fr/fr/article/2d28c8cd-9c39-45eb-92ae-9f5ad43dfce9-zola-et-affaire-dreyfus" },
+        { "label": "RetroNews (BnF), L'Aurore", "url": "https://www.retronews.fr/journaux/aurore-paris" },
+        { "label": "Wikipedia, J'Accuse...!", "url": "https://en.wikipedia.org/wiki/J%27Accuse...!" }
+      ]
+    },
+    {
+      "id": "d005-q10",
+      "difficulty": "easy",
+      "question": "In which year was the French Fifth Republic founded?",
+      "options": [
+        "1946",
+        "1958",
+        "1962",
+        "1968"
+      ],
+      "answer": 1,
+      "hint": "It was born during a crisis over Algeria, when Charles de Gaulle came back to power.",
+      "explanation": "Voters approved the new Constitution on 28 September 1958, with about four votes in five, and it was proclaimed on 4 October. In December de Gaulle was elected president by an electoral college. Since a referendum in 1962, the French elect their president directly.",
+      "image": {
+        "src": "images/day-005/p10.jpg",
+        "alt": "A black-and-white photograph of a man with a small moustache, in a military uniform and a cap decorated with oak leaves, his arms crossed.",
+        "width": 1280,
+        "height": 1891,
+        "label": {
+          "artist": "U.S. Office of War Information",
+          "title": "General Charles de Gaulle",
+          "date": "about 1942",
+          "place": "Library of Congress, Washington"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:De_Gaulle-OWI.jpg"
+      },
+      "sources": [
+        { "label": "Conseil constitutionnel, La naissance de la Constitution de la Ve République", "url": "https://www.conseil-constitutionnel.fr/media/44473" },
+        { "label": "Élysée, Charles de Gaulle", "url": "https://www.elysee.fr/en/charles-de-gaulle" },
+        { "label": "Élysée, Electing presidents of the French Republic", "url": "https://www.elysee.fr/en/french-presidency/electing-presidents-of-the-french-republic" },
+        { "label": "Wikipedia, French Fifth Republic", "url": "https://en.wikipedia.org/wiki/French_Fifth_Republic" }
+      ]
+    }
+  ]
+}

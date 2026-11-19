@@ -1,0 +1,414 @@
+{
+  "id": "day-007",
+  "number": 7,
+  "theme": "Geopolitics",
+  "title": "UN, NATO and the EU",
+  "questions": [
+    {
+      "id": "d007-q01",
+      "difficulty": "easy",
+      "question": "Which of these countries is NOT a permanent member of the UN Security Council?",
+      "options": [
+        "France",
+        "Russia",
+        "United Kingdom",
+        "Germany"
+      ],
+      "answer": 3,
+      "hint": "The permanent members are often called the P5. This country has asked for a permanent seat for many years, together with Brazil, India and Japan.",
+      "explanation": "The five permanent members are China, France, Russia, the United Kingdom and the United States. Each of them can block a decision with its veto. The Council has 15 members in all: the other ten are elected for two years.",
+      "image": {
+        "src": "images/day-007/p01.jpg",
+        "alt": "A large meeting room with a horseshoe-shaped table, rows of red seats and a big mural on the far wall.",
+        "width": 1280,
+        "height": 853,
+        "label": {
+          "artist": "US Department of State",
+          "title": "The chamber of the United Nations Security Council",
+          "date": "27 September 2018",
+          "place": "US Department of State photo collection"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:UN_Security_Council_-_2018_(31078373778).jpg"
+      },
+      "sources": [
+        {
+          "label": "United Nations, UN Charter, Chapter V: The Security Council",
+          "url": "https://www.un.org/en/about-us/un-charter/chapter-5"
+        },
+        {
+          "label": "Wikipedia, Permanent members of the United Nations Security Council",
+          "url": "https://en.wikipedia.org/wiki/Permanent_members_of_the_United_Nations_Security_Council"
+        },
+        {
+          "label": "Wikipedia, G4 nations",
+          "url": "https://en.wikipedia.org/wiki/G4_nations"
+        }
+      ]
+    },
+    {
+      "id": "d007-q02",
+      "difficulty": "easy",
+      "question": "In which year was the North Atlantic Treaty, the treaty that created NATO, signed in Washington?",
+      "options": [
+        "1945",
+        "1947",
+        "1949",
+        "1955"
+      ],
+      "answer": 2,
+      "hint": "The Soviet blockade of West Berlin was still going on. Later the same year, two German states were founded.",
+      "explanation": "Twelve countries signed the treaty on 4 April 1949: the United States, Canada and ten countries of Western Europe. 1955 is the year of the Warsaw Pact, the rival alliance led by the Soviet Union.",
+      "image": {
+        "src": "images/day-007/p02.jpg",
+        "alt": "A man signs a paper at a large desk while a group of men in suits stand behind him and watch.",
+        "width": 1280,
+        "height": 1017,
+        "label": {
+          "artist": "Abbie Rowe",
+          "title": "President Truman signs the document that puts the North Atlantic Treaty into effect",
+          "date": "24 August 1949",
+          "place": "US National Archives (NARA 200163)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Truman_signing_North_Atlantic_Treaty.jpg"
+      },
+      "sources": [
+        {
+          "label": "NATO, Founding treaty",
+          "url": "https://www.nato.int/cps/en/natohq/topics_67656.htm"
+        },
+        {
+          "label": "US Department of State, Office of the Historian: NATO, 1949",
+          "url": "https://history.state.gov/milestones/1945-1952/nato"
+        },
+        {
+          "label": "Wikipedia, Berlin Blockade",
+          "url": "https://en.wikipedia.org/wiki/Berlin_Blockade"
+        },
+        {
+          "label": "Wikipedia, Warsaw Pact",
+          "url": "https://en.wikipedia.org/wiki/Warsaw_Pact"
+        }
+      ]
+    },
+    {
+      "id": "d007-q03",
+      "difficulty": "easy",
+      "question": "What does Article 5 of the North Atlantic Treaty say?",
+      "options": [
+        "An attack on one member is an attack on all",
+        "Each member must spend 2% of its income on defence",
+        "New members need the agreement of all members",
+        "Members must not go to war with one another"
+      ],
+      "answer": 0,
+      "hint": "It has been used only once, after the attacks of 11 September 2001 on the United States.",
+      "explanation": "NATO calls this collective defence, and it is the heart of the treaty. If one member is attacked, each of the others must help it. The treaty itself is short: it has only 14 articles.",
+      "image": {
+        "src": "images/day-007/p03.jpg",
+        "alt": "A typed page with a red seal, a red, white and blue ribbon and two signatures.",
+        "width": 1280,
+        "height": 1712,
+        "label": {
+          "artist": "US Department of State",
+          "title": "Authentication page of an official copy of the North Atlantic Treaty, with the seal of the US Department of State",
+          "date": "4 April 1949",
+          "place": "US Diplomacy Center, Department of State"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:NATOTreatyCopyAuthenticationPage.jpg"
+      },
+      "sources": [
+        {
+          "label": "NATO, Collective defence and Article 5",
+          "url": "https://www.nato.int/cps/en/natohq/topics_110496.htm"
+        },
+        {
+          "label": "NATO, Founding treaty",
+          "url": "https://www.nato.int/cps/en/natohq/topics_67656.htm"
+        },
+        {
+          "label": "US Department of State, Office of the Historian: NATO, 1949",
+          "url": "https://history.state.gov/milestones/1945-1952/nato"
+        }
+      ]
+    },
+    {
+      "id": "d007-q04",
+      "difficulty": "medium",
+      "question": "Which of these countries was NOT one of the six that signed the Treaty of Rome in 1957?",
+      "options": [
+        "Luxembourg",
+        "United Kingdom",
+        "The Netherlands",
+        "West Germany"
+      ],
+      "answer": 1,
+      "hint": "The same six countries had already put their coal and steel industries together a few years earlier.",
+      "explanation": "Belgium, France, Italy, Luxembourg, the Netherlands and West Germany signed the treaty on 25 March 1957. It created the European Economic Community, which later grew into the European Union. The United Kingdom joined only in 1973 and left in 2020.",
+      "image": null,
+      "sources": [
+        {
+          "label": "European Union, History of the EU 1945–59",
+          "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_en"
+        },
+        {
+          "label": "European Parliament, Treaty of Rome (EEC)",
+          "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-rome"
+        },
+        {
+          "label": "European Union, History of the EU 1970–79",
+          "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1970-79_en"
+        },
+        {
+          "label": "European Union, History of the EU 2020–today",
+          "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2020-today_en"
+        }
+      ]
+    },
+    {
+      "id": "d007-q05",
+      "difficulty": "medium",
+      "question": "In which city was the Charter of the United Nations signed on 26 June 1945?",
+      "options": [
+        "San Francisco",
+        "London",
+        "New York",
+        "Washington, D.C."
+      ],
+      "answer": 0,
+      "hint": "Delegates from 50 countries met in this city from April to June 1945. They agreed on the text in its opera house.",
+      "explanation": "The Charter was signed in San Francisco at the end of a two-month conference. It came into force on 24 October 1945, which is now United Nations Day. The UN built its headquarters in New York a few years later.",
+      "image": {
+        "src": "images/day-007/p04.jpg",
+        "alt": "A man in a dark suit signs a large book at a round table, in front of a row of flags. A sign on the table says Australia.",
+        "width": 1280,
+        "height": 1690,
+        "label": {
+          "artist": "Australian Government, Department of Information",
+          "title": "Frank Forde signs the United Nations Charter for Australia",
+          "date": "26 June 1945",
+          "place": "Flinders University Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Frank_Forde_signing_the_UN_Charter.jpg"
+      },
+      "sources": [
+        {
+          "label": "United Nations, The San Francisco Conference",
+          "url": "https://www.un.org/en/about-us/history-of-the-un/san-francisco-conference"
+        },
+        {
+          "label": "United Nations, UN Charter",
+          "url": "https://www.un.org/en/about-us/un-charter"
+        },
+        {
+          "label": "US Department of State, Office of the Historian: The Formation of the United Nations, 1945",
+          "url": "https://history.state.gov/milestones/1937-1945/un"
+        }
+      ]
+    },
+    {
+      "id": "d007-q06",
+      "difficulty": "medium",
+      "question": "Which treaty, signed in 1992, created the European Union?",
+      "options": [
+        "The Treaty of Amsterdam",
+        "The Treaty of Lisbon",
+        "The Maastricht Treaty",
+        "The Treaty of Nice"
+      ],
+      "answer": 2,
+      "hint": "It set the rules for the future single currency, and it made the people of the member countries citizens of the Union.",
+      "explanation": "Twelve countries signed the treaty in the Dutch city of Maastricht on 7 February 1992, and it came into force on 1 November 1993. The treaties of Amsterdam, Nice and Lisbon came later and changed how the Union works.",
+      "image": null,
+      "sources": [
+        {
+          "label": "European Union, History of the EU 1990–99",
+          "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1990-99_en"
+        },
+        {
+          "label": "European Parliament, Maastricht Treaty",
+          "url": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/maastricht-treaty"
+        },
+        {
+          "label": "Wikipedia, Maastricht Treaty",
+          "url": "https://en.wikipedia.org/wiki/Maastricht_Treaty"
+        }
+      ]
+    },
+    {
+      "id": "d007-q07",
+      "difficulty": "medium",
+      "question": "As of November 2026, which country is the newest member of NATO?",
+      "options": [
+        "Finland",
+        "Montenegro",
+        "North Macedonia",
+        "Sweden"
+      ],
+      "answer": 3,
+      "hint": "It gave up a long policy of military non-alignment and joined in March 2024.",
+      "explanation": "Sweden became the 32nd member of NATO on 7 March 2024. Finland had joined eleven months earlier, on 4 April 2023. The two countries applied on the same day, 18 May 2022.",
+      "image": {
+        "src": "images/day-007/p05.jpg",
+        "alt": "Many national flags on tall poles around a dark metal sculpture of a four-pointed star.",
+        "width": 1280,
+        "height": 857,
+        "label": {
+          "artist": "US Department of Defense (Senior Master Sgt. Adrian Cadiz)",
+          "title": "Flags of the member countries at NATO headquarters, Brussels",
+          "date": "11 February 2016",
+          "place": "US Department of Defense"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:160211-D-DT527-007_NATO_country_flags_wave_at_the_entrance_of_NATO_headquarters_in_Brussels_2016.JPG"
+      },
+      "sources": [
+        {
+          "label": "NATO, NATO member countries",
+          "url": "https://www.nato.int/cps/en/natohq/topics_52044.htm"
+        },
+        {
+          "label": "NATO, Enlargement and Article 10",
+          "url": "https://www.nato.int/cps/en/natohq/topics_49212.htm"
+        },
+        {
+          "label": "Wikipedia, Member states of NATO",
+          "url": "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+        }
+      ]
+    },
+    {
+      "id": "d007-q08",
+      "difficulty": "hard",
+      "question": "As of November 2026, how many member states does the United Nations have?",
+      "options": [
+        "189",
+        "193",
+        "195",
+        "197"
+      ],
+      "answer": 1,
+      "hint": "The newest member is an African country that became independent in 2011.",
+      "explanation": "South Sudan became the 193rd member on 14 July 2011, and no country has joined since then. The UN started in 1945 with 51 members. The Holy See and Palestine are observer states, not members; with them the total is 195.",
+      "image": {
+        "src": "images/day-007/p06.png",
+        "alt": "A light blue flag with a white map of the world between two olive branches.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "United Nations (drawing by Wikimedia Commons contributors)",
+          "title": "Flag of the United Nations",
+          "date": "In use since the 1940s",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Nations.svg"
+      },
+      "sources": [
+        {
+          "label": "United Nations, Member States",
+          "url": "https://www.un.org/en/about-us/member-states"
+        },
+        {
+          "label": "United Nations, About us",
+          "url": "https://www.un.org/en/about-us"
+        },
+        {
+          "label": "United Nations, Non-member States",
+          "url": "https://www.un.org/en/about-us/non-member-states"
+        },
+        {
+          "label": "Wikipedia, Member states of the United Nations",
+          "url": "https://en.wikipedia.org/wiki/Member_states_of_the_United_Nations"
+        }
+      ]
+    },
+    {
+      "id": "d007-q09",
+      "difficulty": "hard",
+      "question": "As of November 2026, which of these European Union countries has kept its own national currency?",
+      "options": [
+        "Bulgaria",
+        "Croatia",
+        "Denmark",
+        "Estonia"
+      ],
+      "answer": 2,
+      "hint": "Its voters said no to the euro in a referendum in 2000, and the country has a legal opt-out.",
+      "explanation": "Denmark is the only EU country with an opt-out from the euro. Every other member is expected to adopt it when it is ready. The euro is now the currency of 21 of the 27 EU countries: Bulgaria joined in 2026, Croatia in 2023 and Estonia in 2011.",
+      "image": {
+        "src": "images/day-007/p07.png",
+        "alt": "A yellow euro sign on a dark blue square.",
+        "width": 1280,
+        "height": 1280,
+        "label": {
+          "artist": "European Commission",
+          "title": "The euro symbol",
+          "date": "Undated",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Euro_symbol.svg"
+      },
+      "sources": [
+        {
+          "label": "European Union, Countries using the euro",
+          "url": "https://european-union.europa.eu/institutions-law-budget/euro/countries-using-euro_en"
+        },
+        {
+          "label": "European Central Bank, Our money",
+          "url": "https://www.ecb.europa.eu/euro/intro/html/index.en.html"
+        },
+        {
+          "label": "Wikipedia, 2000 Danish euro referendum",
+          "url": "https://en.wikipedia.org/wiki/2000_Danish_euro_referendum"
+        }
+      ]
+    },
+    {
+      "id": "d007-q10",
+      "difficulty": "hard",
+      "question": "This flag was first adopted in 1955 by an organisation that is not the European Union. Which one?",
+      "options": [
+        "The Western European Union",
+        "The Council of Europe",
+        "The European Free Trade Association",
+        "The European Coal and Steel Community"
+      ],
+      "answer": 1,
+      "hint": "It was founded in 1949 and is based in Strasbourg. It looks after the European Court of Human Rights.",
+      "explanation": "The Council of Europe is a human rights organisation, separate from the EU and with more member countries. EU leaders adopted the same flag in 1985. The twelve stars are a symbol of unity; the number has nothing to do with the number of members.",
+      "image": {
+        "src": "images/day-007/p08.png",
+        "alt": "A dark blue flag with a circle of twelve gold stars.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Council of Europe (drawing by Wikimedia Commons contributors)",
+          "title": "The European flag",
+          "date": "Design adopted in 1955",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Europe.svg"
+      },
+      "sources": [
+        {
+          "label": "European Union, European flag",
+          "url": "https://european-union.europa.eu/principles-countries-history/symbols/european-flag_en"
+        },
+        {
+          "label": "European Union, History of the EU 1945–59",
+          "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_en"
+        },
+        {
+          "label": "Wikipedia, Council of Europe",
+          "url": "https://en.wikipedia.org/wiki/Council_of_Europe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "day-003",
+  "number": 3,
+  "theme": "Italian history",
+  "title": "From Rome to the Republic",
+  "questions": [
+    {
+      "id": "d003-q01",
+      "difficulty": "easy",
+      "question": "Who is regarded as the first Roman emperor, ruling from 27 BC?",
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero",
+        "Trajan"
+      ],
+      "answer": 1,
+      "hint": "He won the battle of Actium against Mark Antony and Cleopatra in 31 BC.",
+      "explanation": "Julius Caesar was a dictator, never an emperor. Augustus, born Octavius, was Caesar's great-nephew and heir. The Senate gave him the name Augustus in 27 BC, and he ruled until he died at Nola in AD 14.",
+      "image": {
+        "src": "images/day-003/p01.jpg",
+        "alt": "An oval cameo: the white profile of a young man with a laurel wreath, carved on a dark red stone.",
+        "width": 850,
+        "height": 1130,
+        "label": {
+          "artist": "Unknown Roman gem carver",
+          "title": "Sardonyx cameo portrait of the Emperor Augustus",
+          "date": "about AD 41–54",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sardonyx_cameo_portrait_of_the_Emperor_Augustus_MET_DP155547.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Augusto: il fondatore dell'impero", "url": "https://www.treccani.it/enciclopedia/augusto-il-fondatore-dell-impero_(Storia-della-civilt%C3%A0-europea-a-cura-di-Umberto-Eco)/" },
+        { "label": "Treccani, Romano, Impero", "url": "https://www.treccani.it/enciclopedia/eol-romano-impero/" },
+        { "label": "Wikipedia, Augustus", "url": "https://en.wikipedia.org/wiki/Augustus" }
+      ]
+    },
+    {
+      "id": "d003-q02",
+      "difficulty": "medium",
+      "question": "Which general deposed the boy emperor Romulus Augustulus in 476, an event traditionally seen as the end of the Western Roman Empire?",
+      "options": [
+        "Alaric",
+        "Attila",
+        "Theodoric the Great",
+        "Odoacer"
+      ],
+      "answer": 3,
+      "hint": "He did not take the title of emperor. He ruled Italy as a king until 493.",
+      "explanation": "Historians treat 476 as a conventional date for the end of the empire in the West. Odoacer ruled Italy for seventeen years as king of the barbarian peoples settled there. In 493 Theodoric killed him in Ravenna and ruled in his place.",
+      "image": {
+        "src": "images/day-003/p02.jpg",
+        "alt": "An engraving: a youth in a rich robe hands a crown to an armed, bearded warrior, with soldiers and standards around them.",
+        "width": 1097,
+        "height": 1129,
+        "label": {
+          "artist": "B. Mörlins",
+          "title": "Romulus Augustulus resigns the crown to Odoacer",
+          "date": "19th century",
+          "place": "Illustration from J. C. Ridpath, Cyclopedia of Universal History"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Romulus_Augustulus_and_Odoacer.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Odoacre", "url": "https://www.treccani.it/enciclopedia/odoacre/" },
+        { "label": "Treccani, Romano, Impero", "url": "https://www.treccani.it/enciclopedia/eol-romano-impero/" },
+        { "label": "Wikipedia, Odoacer", "url": "https://en.wikipedia.org/wiki/Odoacer" }
+      ]
+    },
+    {
+      "id": "d003-q03",
+      "difficulty": "medium",
+      "question": "The flag of the Italian Navy carries the arms of four medieval maritime republics: Venice, Genoa, Pisa and which other?",
+      "options": [
+        "Amalfi",
+        "Ancona",
+        "Gaeta",
+        "Ragusa"
+      ],
+      "answer": 0,
+      "hint": "It is a small town on a steep coast south of Naples. The Normans conquered it in the 12th century.",
+      "explanation": "Amalfi's arms are the white eight-pointed cross on blue, at the bottom left of the shield. The Navy has used this emblem since 1947. Ancona, Gaeta and Ragusa were maritime republics too, but they are not on the flag.",
+      "image": {
+        "src": "images/day-003/p03.jpg",
+        "alt": "A green, white and red flag. In the centre a gold crown sits above a shield divided into four coloured quarters.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Italian Navy (drawing by Wikimedia Commons user F l a n k e r)",
+          "title": "Naval ensign of Italy",
+          "date": "Adopted in 1947",
+          "place": "Flown on the ships of the Italian Navy"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Naval_ensign_of_Italy.svg"
+      },
+      "sources": [
+        { "label": "Legislative decree no. 1305 of 9 November 1947 (text at Edizioni Europee)", "url": "https://www.edizionieuropee.it/LAW/HTML/1/zn13_01_005.html" },
+        { "label": "Treccani, Amalfi", "url": "https://www.treccani.it/enciclopedia/amalfi/" },
+        { "label": "Wikipedia, Maritime republics", "url": "https://en.wikipedia.org/wiki/Maritime_republics" }
+      ]
+    },
+    {
+      "id": "d003-q04",
+      "difficulty": "hard",
+      "question": "In 1478 plotters attacked Lorenzo de' Medici, \"il Magnifico\", in Florence cathedral and killed his brother Giuliano. Which rival family gave the plot its name?",
+      "options": [
+        "The Strozzi",
+        "The Albizzi",
+        "The Pazzi",
+        "The Rucellai"
+      ],
+      "answer": 2,
+      "hint": "Pope Sixtus IV supported this family against the Medici. After the plot failed, the family was banished from Florence.",
+      "explanation": "The attack came during Mass on 26 April 1478. Giuliano was killed, but Lorenzo was only wounded and escaped. The people of Florence took the side of the Medici, the plotters were executed, and Lorenzo's power became stronger than before.",
+      "image": {
+        "src": "images/day-003/p04.jpg",
+        "alt": "A man with long dark hair, in a blue robe with fur cuffs, leans on a stone ledge beside antique vases and masks.",
+        "width": 1270,
+        "height": 1602,
+        "label": {
+          "artist": "Giorgio Vasari",
+          "title": "Portrait of Lorenzo de' Medici, the Magnificent",
+          "date": "about 1533–1534",
+          "place": "Uffizi Gallery, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici,_the_Magnificent_(1449%E2%80%931492),_by_Giorgio_Vasari_-_Uffizi_Gallery.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Pazzi, congiura dei", "url": "https://www.treccani.it/enciclopedia/congiura-dei-pazzi_(Dizionario-di-Storia)/" },
+        { "label": "Treccani, Medici, Lorenzo de', detto il Magnifico", "url": "https://www.treccani.it/enciclopedia/medici-lorenzo-de-detto-il-magnifico/" },
+        { "label": "Wikipedia, Pazzi conspiracy", "url": "https://en.wikipedia.org/wiki/Pazzi_conspiracy" }
+      ]
+    },
+    {
+      "id": "d003-q05",
+      "difficulty": "easy",
+      "question": "Who led the Expedition of the Thousand, which conquered the Kingdom of the Two Sicilies in 1860?",
+      "options": [
+        "Giuseppe Garibaldi",
+        "Camillo Benso di Cavour",
+        "Giuseppe Mazzini",
+        "Victor Emmanuel II"
+      ],
+      "answer": 0,
+      "hint": "His volunteers wore red shirts, and they landed at Marsala in Sicily.",
+      "explanation": "About a thousand volunteers sailed from Quarto, near Genoa, on the night of 5 May 1860 and landed at Marsala on 11 May. After Sicily they took Naples. On 26 October Garibaldi met King Victor Emmanuel II at Teano and handed his power over to him.",
+      "image": {
+        "src": "images/day-003/p05.jpg",
+        "alt": "A bearded man in a red shirt stands on a rocky shore with a sword and a green, white and red flag. Behind him boats bring soldiers to land.",
+        "width": 1280,
+        "height": 1832,
+        "label": {
+          "artist": "Gerolamo Induno",
+          "title": "Garibaldi at Marsala",
+          "date": "1861",
+          "place": "Museo Nazionale del Risorgimento Italiano, Turin"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Garibaldi_in_Marsala.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Mille, spedizione dei", "url": "https://www.treccani.it/enciclopedia/spedizione-dei-mille_(Dizionario-di-Storia)/" },
+        { "label": "Treccani, Garibaldi, Giuseppe", "url": "https://www.treccani.it/enciclopedia/giuseppe-garibaldi/" },
+        { "label": "Wikipedia, Expedition of the Thousand", "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand" }
+      ]
+    },
+    {
+      "id": "d003-q06",
+      "difficulty": "easy",
+      "question": "In which year was the Kingdom of Italy proclaimed, with Victor Emmanuel II as its first king?",
+      "options": [
+        "1859",
+        "1860",
+        "1861",
+        "1870"
+      ],
+      "answer": 2,
+      "hint": "Cavour was head of the government at the time, and he died a few months later in the same year.",
+      "explanation": "On 17 March 1861 a law gave Victor Emmanuel II, until then King of Sardinia, the title of King of Italy. In 1860 Garibaldi was still fighting in the south. Cavour died on 6 June 1861, less than three months after the proclamation.",
+      "image": {
+        "src": "images/day-003/p06.jpg",
+        "alt": "A portrait of a stout man with small round glasses and side whiskers, in a black coat and a white shirt.",
+        "width": 1280,
+        "height": 1574,
+        "label": {
+          "artist": "Francesco Hayez",
+          "title": "Portrait of Camillo Benso, Count of Cavour",
+          "date": "1864",
+          "place": "Pinacoteca di Brera, Milan"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Camillo_Benso_di_Cavour_1864_by_Francesco_Hayez_041.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Cavour, Camillo Benso conte di", "url": "https://www.treccani.it/enciclopedia/camillo-benso-conte-di-cavour/" },
+        { "label": "Treccani, Dizionario Biografico, Cavour", "url": "https://www.treccani.it/enciclopedia/camillo-benso-conte-di-cavour_(Dizionario-Biografico)/" },
+        { "label": "Wikipedia, Proclamation of the Kingdom of Italy", "url": "https://en.wikipedia.org/wiki/Proclamation_of_the_Kingdom_of_Italy" }
+      ]
+    },
+    {
+      "id": "d003-q07",
+      "difficulty": "medium",
+      "question": "Which city was the first capital of the Kingdom of Italy, from 1861 to 1865?",
+      "options": [
+        "Florence",
+        "Rome",
+        "Milan",
+        "Turin"
+      ],
+      "answer": 3,
+      "hint": "It had been the capital of the House of Savoy since the 16th century.",
+      "explanation": "Turin was the capital until 1865, then Florence took its place until 1871. Rome could not be chosen in 1861: the Pope still ruled it, and it became part of Italy only in 1870. The news of the move to Florence caused protests in Turin.",
+      "image": {
+        "src": "images/day-003/p07.jpg",
+        "alt": "A painting of a wide square full of people. Tall poles carry long coloured banners, and a carriage passes a pavilion with golden domes.",
+        "width": 1280,
+        "height": 819,
+        "label": {
+          "artist": "Carlo Bossoli",
+          "title": "Victor Emmanuel II at the opening of Parliament in Turin, 2 April 1860",
+          "date": "about 1860",
+          "place": "Museo Nazionale del Risorgimento Italiano, Turin"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Apertura_del_Primo_Parlamento_del_Regno_d%27_Italia.png"
+      },
+      "sources": [
+        { "label": "Treccani, Torino", "url": "https://www.treccani.it/enciclopedia/torino/" },
+        { "label": "Treccani, Firenze", "url": "https://www.treccani.it/enciclopedia/firenze/" },
+        { "label": "Wikipedia, Turin", "url": "https://en.wikipedia.org/wiki/Turin" }
+      ]
+    },
+    {
+      "id": "d003-q08",
+      "difficulty": "medium",
+      "question": "In which year did the March on Rome bring Benito Mussolini to power?",
+      "options": [
+        "1919",
+        "1922",
+        "1925",
+        "1929"
+      ],
+      "answer": 1,
+      "hint": "It happened at the end of October. Pius XI had become pope in February of the same year.",
+      "explanation": "On 28 October 1922 the government of Luigi Facta decided to declare a state of siege, but King Victor Emmanuel III refused to sign the decree. Mussolini did not march: he waited in Milan and reached Rome on 30 October, when the king formally asked him to form a government.",
+      "image": {
+        "src": "images/day-003/p08.jpg",
+        "alt": "A black-and-white photograph of a man in a dark overcoat and hat, standing on a pavement with a walking stick. Palm trees are behind him.",
+        "width": 1280,
+        "height": 1729,
+        "label": {
+          "artist": "Bain News Service",
+          "title": "Benito Mussolini",
+          "date": "1923",
+          "place": "Library of Congress, Washington (George Grantham Bain Collection)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Benito_Mussolini_LCCN2014717611_(cropped).jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Marcia su Roma", "url": "https://www.treccani.it/enciclopedia/marcia-su-roma_(Dizionario-di-Storia)/" },
+        { "label": "Wikipedia, March on Rome", "url": "https://en.wikipedia.org/wiki/March_on_Rome" },
+        { "label": "The Holy See, Pius XI", "url": "https://www.vatican.va/content/pius-xi/en.html" }
+      ]
+    },
+    {
+      "id": "d003-q09",
+      "difficulty": "easy",
+      "question": "What did Italian voters decide in the referendum of 2 June 1946?",
+      "options": [
+        "To replace the monarchy with a republic",
+        "To keep the monarchy under the House of Savoy",
+        "To approve a new written constitution",
+        "To accept the peace treaty with the Allies"
+      ],
+      "answer": 0,
+      "hint": "The date is now Italy's national day.",
+      "explanation": "The republic won with about 12.7 million votes against 10.7 million for the monarchy, or 54.3% of the valid votes. About 89% of the voters took part. On the same day Italians also elected the Constituent Assembly, which then wrote the new Constitution.",
+      "image": {
+        "src": "images/day-003/p09.jpg",
+        "alt": "A green, white and red flag with a royal crown above a red shield with a white cross and a blue border.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Kingdom of Italy (drawing by Wikimedia Commons user F l a n k e r)",
+          "title": "State flag of the Kingdom of Italy",
+          "date": "1861–1946",
+          "place": "Used by the Kingdom of Italy until 1946"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Italy_(1861-1946)_crowned.svg"
+      },
+      "sources": [
+        { "label": "Camera dei deputati, Il Referendum istituzionale e l'elezione dell'Assemblea costituente", "url": "https://legislature.camera.it/cost_reg_funz/345/4762/4763/documentotesto.asp" },
+        { "label": "Wikipedia, 1946 Italian institutional referendum", "url": "https://en.wikipedia.org/wiki/1946_Italian_institutional_referendum" }
+      ]
+    },
+    {
+      "id": "d003-q10",
+      "difficulty": "hard",
+      "question": "On which date did the Constitution of the Italian Republic come into force?",
+      "options": [
+        "22 December 1947",
+        "27 December 1947",
+        "1 January 1948",
+        "18 April 1948"
+      ],
+      "answer": 2,
+      "hint": "Enrico De Nicola signed it as provisional head of state, a few days after the final vote of the Constituent Assembly.",
+      "explanation": "Three dates belong to the Constitution. The Constituent Assembly approved the text on 22 December 1947. Enrico De Nicola promulgated it on 27 December. It came into force on 1 January 1948, and only this last date answers the question.",
+      "image": {
+        "src": "images/day-003/p10.jpg",
+        "alt": "An emblem: a white five-pointed star on a grey cogwheel, between an olive branch and an oak branch, above a red ribbon with white letters.",
+        "width": 1280,
+        "height": 1457,
+        "label": {
+          "artist": "Paolo Paschetto (drawing by Wikimedia Commons user F l a n k e r)",
+          "title": "Emblem of the Italian Republic",
+          "date": "Adopted in 1948",
+          "place": "Official symbol of the Italian Republic"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Emblem_of_Italy.svg"
+      },
+      "sources": [
+        { "label": "Camera dei deputati, I lavori dell'Assemblea costituente", "url": "https://legislature.camera.it/cost_reg_funz/345/4762/4764/documentotesto.asp" },
+        { "label": "Wikipedia, Constitution of Italy", "url": "https://en.wikipedia.org/wiki/Constitution_of_Italy" }
+      ]
+    }
+  ]
+}

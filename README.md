@@ -2,7 +2,7 @@
 
 A daily trivia game for two players on one shared screen. Ten questions a day, each with a hint and four answers. Both players lock in an answer in secret, then reveal it. The game keeps a score for each day and an all-time score.
 
-Themes rotate through art history, literature, Italian history, great books, French history, geography and geopolitics. Day 1 is Rembrandt and Van Gogh.
+Themes rotate through art history, literature, Italian history, great books, French history, geography and geopolitics. The first week is ready: Rembrandt and Van Gogh, *Pride and Prejudice*, Italian history from Rome to the Republic, Augustine's *Confessions*, French history from Charlemagne to de Gaulle, the world map, and the UN, NATO and the EU.
 
 ## Play
 

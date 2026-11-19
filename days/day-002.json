@@ -1,0 +1,330 @@
+{
+  "id": "day-002",
+  "number": 2,
+  "theme": "Literature",
+  "title": "Jane Austen, Pride and Prejudice",
+  "questions": [
+    {
+      "id": "d002-q01",
+      "difficulty": "easy",
+      "question": "The first sentence of the novel says that a single man with a good fortune \"must be in want of\" what?",
+      "options": [
+        "An heir",
+        "A wife",
+        "An estate",
+        "A profession"
+      ],
+      "answer": 1,
+      "hint": "Mrs Bennet has five good reasons to agree with this sentence.",
+      "explanation": "The sentence is ironic. In the story it is the neighbours, and above all Mrs Bennet, who want a rich single man as a husband for one of their daughters. The man who has just arrived is Mr Bingley.",
+      "image": {
+        "src": "images/day-002/p01.jpg",
+        "alt": "A pen drawing of a man reading in an armchair with his back to a woman in a spotted dress. A cat sleeps on a cushion.",
+        "width": 730,
+        "height": 950,
+        "label": {
+          "artist": "Hugh Thomson",
+          "title": "Mr and Mrs Bennet, illustration for chapter 1 of Pride and Prejudice",
+          "date": "1894",
+          "place": "George Allen edition, London; copy in the Lilly Library, Indiana University"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Thomson-PP03.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Pride and Prejudice (full text)", "url": "https://www.gutenberg.org/ebooks/1342" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q02",
+      "difficulty": "easy",
+      "question": "What is the name of Mr Darcy's great estate in Derbyshire?",
+      "options": [
+        "Longbourn",
+        "Netherfield",
+        "Rosings Park",
+        "Pemberley"
+      ],
+      "answer": 3,
+      "hint": "Elizabeth visits it as a tourist with her aunt and uncle, thinking that the owner is away.",
+      "explanation": "The housekeeper shows Elizabeth the house and speaks very well of her master. Then Elizabeth meets Darcy himself in the grounds. Longbourn is the Bennets' own home, and Rosings Park belongs to Darcy's aunt, Lady Catherine de Bourgh.",
+      "image": {
+        "src": "images/day-002/p02.jpg",
+        "alt": "A pen drawing of a young woman in a bonnet who stands in a gallery and looks up at a large portrait of a man.",
+        "width": 1118,
+        "height": 1850,
+        "label": {
+          "artist": "C. E. Brock",
+          "title": "\"She stood several minutes before the picture, in earnest contemplation\", illustration for Pride and Prejudice",
+          "date": "1895",
+          "place": "Macmillan edition, London; copy in the British Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_She_stood_several_minutes_before_the_picture,_in_earnest_contemplation.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Pride and Prejudice (full text)", "url": "https://www.gutenberg.org/ebooks/1342" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q03",
+      "difficulty": "easy",
+      "question": "Which of the five Bennet sisters runs away with the officer George Wickham?",
+      "options": [
+        "Lydia",
+        "Kitty",
+        "Mary",
+        "Jane"
+      ],
+      "answer": 0,
+      "hint": "She is the youngest of the five, and she has followed the regiment to Brighton.",
+      "explanation": "Lydia is fifteen when the story begins. Her note says they are going to Gretna Green, in Scotland, to marry. In fact the couple hide in London, and it is Mr Darcy who finds them and pays for the marriage.",
+      "image": {
+        "src": "images/day-002/p03.jpg",
+        "alt": "A pen drawing of a young woman who sits on a table and shows her hand to three servants in caps and aprons.",
+        "width": 1096,
+        "height": 1795,
+        "label": {
+          "artist": "C. E. Brock",
+          "title": "\"She went after dinner to show her ring and boast of being married to Mrs. Hill and the two housemaids\", illustration for Pride and Prejudice",
+          "date": "1895",
+          "place": "Macmillan edition, London; copy in the British Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_She_went_after_dinner_to_show_her_ring_and_boast_of_being_married_to_Mrs._Hill_and_the_two_housemaids.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Pride and Prejudice (full text)", "url": "https://www.gutenberg.org/ebooks/1342" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q04",
+      "difficulty": "medium",
+      "question": "At the first ball, a man will not dance with Elizabeth. He calls her \"tolerable\", but \"not handsome enough to tempt me\". Who is he?",
+      "options": [
+        "Mr Darcy",
+        "Mr Bingley",
+        "Mr Wickham",
+        "Mr Collins"
+      ],
+      "answer": 0,
+      "hint": "Elizabeth hears the remark herself, and it shapes her opinion of him for half the book.",
+      "explanation": "Darcy says it to his friend Mr Bingley, who wants him to dance. Elizabeth tells the story to her friends as a joke, but she does not forget it. Mr Wickham and Mr Collins have not yet appeared in the story at this point.",
+      "image": {
+        "src": "images/day-002/p04.jpg",
+        "alt": "A pen drawing of two men talking at a ball. One of them looks over his shoulder at a young woman who sits alone with a fan.",
+        "width": 912,
+        "height": 1790,
+        "label": {
+          "artist": "C. E. Brock",
+          "title": "\"She is tolerable; but not handsome enough to tempt me\", illustration for Pride and Prejudice",
+          "date": "1895",
+          "place": "Macmillan edition, London; copy in the British Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_She_is_tolerable;_but_not_handsome_enough_to_tempt_me.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Pride and Prejudice (full text)", "url": "https://www.gutenberg.org/ebooks/1342" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q05",
+      "difficulty": "easy",
+      "question": "Which actor played Mr Darcy in the BBC's 1995 television series of Pride and Prejudice?",
+      "options": [
+        "Hugh Grant",
+        "Laurence Olivier",
+        "Colin Firth",
+        "Matthew Macfadyen"
+      ],
+      "answer": 2,
+      "hint": "He played opposite Jennifer Ehle as Elizabeth. One scene, in which his Mr Darcy comes out of a lake in a wet shirt, became famous.",
+      "explanation": "The six-part series was written by Andrew Davies, and the BBC says that ten million people watched the last episode. Laurence Olivier played Darcy in the 1940 film, and Matthew Macfadyen in the 2005 film with Keira Knightley.",
+      "image": {
+        "src": "images/day-002/p05.jpg",
+        "alt": "A pen drawing of a man in a tailcoat who stands and speaks, with one hand open, to a seated woman. She looks up at him.",
+        "width": 1095,
+        "height": 1635,
+        "label": {
+          "artist": "C. E. Brock",
+          "title": "\"You must allow me to tell you how ardently I admire and love you\", illustration for Pride and Prejudice",
+          "date": "1895",
+          "place": "Macmillan edition, London; copy in the British Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Illustration_by_C_E_Brock_for_Pride_and_Prejudice_-_You_must_allow_me_to_tell_you_how_ardently_I_admire_and_love_you.jpg"
+      },
+      "sources": [
+        { "label": "BBC, History of the BBC: Pride and Prejudice, 24 September 1995", "url": "https://www.bbc.com/historyofthebbc/anniversaries/september/pride-and-prejudice" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q06",
+      "difficulty": "medium",
+      "question": "Mr Bennet's estate, Longbourn, is entailed: it must pass to a male relative. Who will inherit it when he dies?",
+      "options": [
+        "Mr Wickham",
+        "Colonel Fitzwilliam",
+        "Mr Bingley",
+        "Mr Collins"
+      ],
+      "answer": 3,
+      "hint": "He is a distant cousin and a clergyman, and he comes to Longbourn hoping to marry one of the daughters.",
+      "explanation": "Mr Collins proposes to Elizabeth, who refuses him. A few days later he is engaged to her friend Charlotte Lucas. Because of the entail, he could turn Mrs Bennet and her daughters out of the house as soon as Mr Bennet is dead.",
+      "image": {
+        "src": "images/day-002/p06.jpg",
+        "alt": "A pen drawing of a man in a long dark coat who sits with a book in one hand and raises the other hand in protest.",
+        "width": 985,
+        "height": 1600,
+        "label": {
+          "artist": "Hugh Thomson",
+          "title": "\"Protested that he never read novels\", drawing for Pride and Prejudice",
+          "date": "1894",
+          "place": "Houghton Library, Harvard University"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Houghton_Typ_805.94.8320_-_Pride_and_Prejudice,_1894,_Hugh_Thomson_-_Protested.jpg"
+      },
+      "sources": [
+        { "label": "Project Gutenberg, Pride and Prejudice (full text)", "url": "https://www.gutenberg.org/ebooks/1342" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q07",
+      "difficulty": "medium",
+      "question": "In which year was Pride and Prejudice first published?",
+      "options": [
+        "1797",
+        "1811",
+        "1813",
+        "1818"
+      ],
+      "answer": 2,
+      "hint": "It came out during the Regency, while Britain was still at war with Napoleon.",
+      "explanation": "The first edition went on sale in January 1813, in three volumes, for 18 shillings. Austen's name was not on it. The title page said only that it was by the author of Sense and Sensibility, her first published novel, which had come out in 1811.",
+      "image": {
+        "src": "images/day-002/p07.jpg",
+        "alt": "A pencil and watercolour sketch of a woman in a white cap, with dark curls, sitting with her arms folded.",
+        "width": 1280,
+        "height": 1651,
+        "label": {
+          "artist": "Cassandra Austen",
+          "title": "Portrait of Jane Austen, her sister",
+          "date": "c. 1810",
+          "place": "National Portrait Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg"
+      },
+      "sources": [
+        { "label": "Jane Austen Society of North America, Pride and Prejudice", "url": "https://jasna.org/austen/works/pride-prejudice/" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" }
+      ]
+    },
+    {
+      "id": "d002-q08",
+      "difficulty": "hard",
+      "question": "Jane Austen wrote the first version of the novel in 1796 and 1797, when she was about 21. What did she call it then?",
+      "options": [
+        "Elinor and Marianne",
+        "First Impressions",
+        "Lady Susan",
+        "The Watsons"
+      ],
+      "answer": 1,
+      "hint": "The first title names the very thing that misleads Elizabeth about both Darcy and Wickham.",
+      "explanation": "In November 1797 her father offered \"First Impressions\" to a London publisher, who said no by return of post. \"Elinor and Marianne\" is the tempting wrong answer: it was the working title of another early novel, the one that became Sense and Sensibility.",
+      "image": {
+        "src": "images/day-002/p08.jpg",
+        "alt": "The hand-lettered title page of an 1894 edition of Pride and Prejudice, with a small drawing of a peacock.",
+        "width": 1130,
+        "height": 1850,
+        "label": {
+          "artist": "Hugh Thomson",
+          "title": "Title page of the \"Peacock\" edition of Pride and Prejudice",
+          "date": "1894",
+          "place": "George Allen edition, London; copy in the Lilly Library, Indiana University"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Thomson-PP02.jpg"
+      },
+      "sources": [
+        { "label": "Jane Austen Society of North America, Pride and Prejudice", "url": "https://jasna.org/austen/works/pride-prejudice/" },
+        { "label": "Wikipedia, Jane Austen", "url": "https://en.wikipedia.org/wiki/Jane_Austen" },
+        { "label": "Wikipedia, Sense and Sensibility", "url": "https://en.wikipedia.org/wiki/Sense_and_Sensibility" }
+      ]
+    },
+    {
+      "id": "d002-q09",
+      "difficulty": "medium",
+      "question": "Jane Austen died in July 1817, aged 41. In which English city is she buried?",
+      "options": [
+        "Bath",
+        "Canterbury",
+        "Southampton",
+        "Winchester"
+      ],
+      "answer": 3,
+      "hint": "She had moved there about two months before, to be near her doctor. The city is in Hampshire, the county where she was born.",
+      "explanation": "Austen lies in Winchester Cathedral. Her gravestone says nothing about her books, and a brass plaque was added in 1872 to put that right. Bath and Southampton are cities where she lived before she moved to the village of Chawton in 1809.",
+      "image": {
+        "src": "images/day-002/p09.jpg",
+        "alt": "An old engraving of the west front of a large Gothic cathedral, with one great window above the doorways.",
+        "width": 1280,
+        "height": 1642,
+        "label": {
+          "artist": "Unknown engraver",
+          "title": "Winchester Cathedral, the west front",
+          "date": "1833",
+          "place": "Printed in The Penny Magazine, London, 31 August 1833"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Penny_Magazine_1833_333_Winchester_Cathedral.jpg"
+      },
+      "sources": [
+        { "label": "Winchester Cathedral, Famous people", "url": "https://www.winchester-cathedral.org.uk/explore/famous-people/" },
+        { "label": "Jane Austen Society of North America, About Jane Austen", "url": "https://jasna.org/austen/" }
+      ]
+    },
+    {
+      "id": "d002-q10",
+      "difficulty": "hard",
+      "question": "Austen sold the copyright of Pride and Prejudice to her publisher for one fixed sum. How much was she paid?",
+      "options": [
+        "£10",
+        "£110",
+        "£140",
+        "£450"
+      ],
+      "answer": 1,
+      "hint": "It was a single payment, and less than the £150 she had asked for.",
+      "explanation": "The publisher, Thomas Egerton, kept all the profit, which one scholar puts at about £450 from the first two editions alone. The other sums are real too: a publisher paid £10 for her novel \"Susan\" in 1803, and Sense and Sensibility earned her £140.",
+      "image": {
+        "src": "images/day-002/p10.jpg",
+        "alt": "The printed title page of volume 1 of Pride and Prejudice, on yellowed paper, dated 1813.",
+        "width": 1215,
+        "height": 2040,
+        "label": {
+          "artist": "Printed for Thomas Egerton, London",
+          "title": "Title page of the first edition of Pride and Prejudice, volume 1",
+          "date": "1813",
+          "place": "Lilly Library, Indiana University"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:PrideAndPrejudiceTitlePage.jpg"
+      },
+      "sources": [
+        { "label": "Jane Austen Society of North America, Pride and Prejudice", "url": "https://jasna.org/austen/works/pride-prejudice/" },
+        { "label": "Wikipedia, Pride and Prejudice", "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice" },
+        { "label": "Wikipedia, Jane Austen", "url": "https://en.wikipedia.org/wiki/Jane_Austen" }
+      ]
+    }
+  ]
+}

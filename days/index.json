@@ -6,6 +6,48 @@
       "theme": "Art history",
       "title": "Rembrandt and Van Gogh",
       "file": "days/day-001.json"
+    },
+    {
+      "id": "day-002",
+      "number": 2,
+      "theme": "Literature",
+      "title": "Jane Austen, Pride and Prejudice",
+      "file": "days/day-002.json"
+    },
+    {
+      "id": "day-003",
+      "number": 3,
+      "theme": "Italian history",
+      "title": "From Rome to the Republic",
+      "file": "days/day-003.json"
+    },
+    {
+      "id": "day-004",
+      "number": 4,
+      "theme": "Great books",
+      "title": "Saint Augustine, Confessions",
+      "file": "days/day-004.json"
+    },
+    {
+      "id": "day-005",
+      "number": 5,
+      "theme": "French history",
+      "title": "From Charlemagne to de Gaulle",
+      "file": "days/day-005.json"
+    },
+    {
+      "id": "day-006",
+      "number": 6,
+      "theme": "Geography",
+      "title": "The world map",
+      "file": "days/day-006.json"
+    },
+    {
+      "id": "day-007",
+      "number": 7,
+      "theme": "Geopolitics",
+      "title": "UN, NATO and the EU",
+      "file": "days/day-007.json"
     }
   ]
 }
