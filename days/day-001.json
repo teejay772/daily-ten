@@ -1,0 +1,314 @@
+{
+  "id": "day-001",
+  "number": 1,
+  "theme": "Art history",
+  "title": "Rembrandt and Van Gogh",
+  "questions": [
+    {
+      "id": "d001-q01",
+      "difficulty": "easy",
+      "question": "Rembrandt's The Night Watch (1642) is a group portrait. Who are the people in it?",
+      "options": [
+        "Surgeons of the Amsterdam surgeons' guild",
+        "Members of an Amsterdam civic guard company",
+        "Directors of the Dutch East India Company",
+        "Dutch naval officers before a sea battle"
+      ],
+      "answer": 1,
+      "hint": "They carry muskets, pikes and a banner, but they are citizens of one city district, led by a captain dressed in black.",
+      "explanation": "Rembrandt never called it \"The Night Watch\"; the name is first recorded in 1797. The Rijksmuseum credits him with being the first to paint a group portrait in which the sitters are in action.",
+      "image": {
+        "src": "images/day-001/p01.jpg",
+        "alt": "A crowd of armed men in 17th-century dress, led by a man in black with a red sash and a man in pale yellow.",
+        "width": 1280,
+        "height": 1041,
+        "label": {
+          "artist": "Rembrandt van Rijn",
+          "title": "The Night Watch",
+          "date": "1642",
+          "place": "Rijksmuseum, Amsterdam, on loan from the City of Amsterdam"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "Rijksmuseum", "url": "https://www.rijksmuseum.nl/en/collection/SK-C-5" },
+        { "label": "Rijksmuseum, 10 things about The Night Watch", "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch" }
+      ]
+    },
+    {
+      "id": "d001-q02",
+      "difficulty": "hard",
+      "question": "In 1715 The Night Watch was moved to Amsterdam's Town Hall. What was done to the painting so that it would fit its new place?",
+      "options": [
+        "It was split into two separate paintings",
+        "A smaller copy was hung in its place",
+        "Pieces were cut off the canvas",
+        "A wall of the hall was demolished"
+      ],
+      "answer": 2,
+      "hint": "Look at the left edge of the picture: the scene once continued further.",
+      "explanation": "Strips were cut from the canvas so that it would fit between two doors, the widest from the left side, and they have never been found. A small 17th-century copy attributed to Gerrit Lundens shows the full composition.",
+      "image": {
+        "src": "images/day-001/p01.jpg",
+        "alt": "A crowd of armed men in 17th-century dress, led by a man in black with a red sash and a man in pale yellow.",
+        "width": 1280,
+        "height": 1041,
+        "label": {
+          "artist": "Rembrandt van Rijn",
+          "title": "The Night Watch",
+          "date": "1642",
+          "place": "Rijksmuseum, Amsterdam, on loan from the City of Amsterdam"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "Rijksmuseum, 10 things about The Night Watch", "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch" },
+        { "label": "Wikipedia, The Night Watch", "url": "https://en.wikipedia.org/wiki/The_Night_Watch" }
+      ]
+    },
+    {
+      "id": "d001-q03",
+      "difficulty": "medium",
+      "question": "Who commissioned Rembrandt's The Anatomy Lesson of Dr Nicolaes Tulp (1632)?",
+      "options": [
+        "The Surgeons' Guild of Amsterdam",
+        "The medical faculty of Leiden University",
+        "The stadtholder's court in The Hague",
+        "The family of the dead man"
+      ],
+      "answer": 0,
+      "hint": "The men watching are not students; they belonged to the professional body that paid for the picture.",
+      "explanation": "Rembrandt was about 25 and had just moved to Amsterdam. The body is that of Aris Kindt, a criminal who had been hanged. The painting now hangs in the Mauritshuis in The Hague.",
+      "image": {
+        "src": "images/day-001/p02.jpg",
+        "alt": "Men in black with white ruffs gather around a body on a table while one of them demonstrates on its arm.",
+        "width": 1280,
+        "height": 964,
+        "label": {
+          "artist": "Rembrandt van Rijn",
+          "title": "The Anatomy Lesson of Dr Nicolaes Tulp",
+          "date": "1632",
+          "place": "Mauritshuis, The Hague"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "Mauritshuis text on Google Arts & Culture", "url": "https://artsandculture.google.com/asset/de-anatomische-les-van-dr-nicolaes-tulp-rijn-rembrandt-van/NgHTJ5BKCD6gEg" },
+        { "label": "Leiden University", "url": "https://www.universiteitleiden.nl/en/dossiers/rembrandt-and-leiden-university/seven-canvases/the-anatomy-lesson-of-dr-nicolaes-tulp" }
+      ]
+    },
+    {
+      "id": "d001-q04",
+      "difficulty": "medium",
+      "question": "This painting, Rembrandt's only seascape, was stolen in 1990 and is still missing. Which museum was it taken from?",
+      "options": [
+        "The Metropolitan Museum of Art, New York",
+        "The Isabella Stewart Gardner Museum, Boston",
+        "The National Gallery, London",
+        "The Art Institute of Chicago"
+      ],
+      "answer": 1,
+      "hint": "It is a small museum in a New England city, built to look like a Venetian palace.",
+      "explanation": "On 18 March 1990 two men dressed as police officers took 13 works. None has been recovered. The empty frames still hang in the museum, which offers a reward of 10 million dollars.",
+      "image": {
+        "src": "images/day-001/p03.jpg",
+        "alt": "A sailing boat crowded with men is thrown about by a huge wave under a dark sky.",
+        "width": 1280,
+        "height": 1591,
+        "label": {
+          "artist": "Rembrandt van Rijn",
+          "title": "Christ in the Storm on the Sea of Galilee",
+          "date": "1633",
+          "place": "Stolen in 1990 from the Isabella Stewart Gardner Museum, Boston; whereabouts unknown"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "Isabella Stewart Gardner Museum", "url": "https://www.gardnermuseum.org/theft" },
+        { "label": "Wikipedia, The Storm on the Sea of Galilee", "url": "https://en.wikipedia.org/wiki/The_Storm_on_the_Sea_of_Galilee" }
+      ]
+    },
+    {
+      "id": "d001-q05",
+      "difficulty": "medium",
+      "question": "Rembrandt painted this self-portrait in 1659. What had happened to him in the years just before?",
+      "options": [
+        "He had been made court painter in The Hague",
+        "He had returned from years of study in Italy",
+        "He had just married Saskia van Uylenburgh",
+        "He had gone insolvent and lost his house"
+      ],
+      "answer": 3,
+      "hint": "The large Amsterdam house he had moved into in 1639 was no longer his.",
+      "explanation": "Rembrandt declared himself insolvent in 1656, and his house and collection were sold to pay his creditors. He never travelled abroad, and he painted himself throughout his life: around 40 painted self-portraits are known.",
+      "image": {
+        "src": "images/day-001/p04.jpg",
+        "alt": "An older man in a dark beret and brown coat looks directly at the viewer.",
+        "width": 1280,
+        "height": 1658,
+        "label": {
+          "artist": "Rembrandt van Rijn",
+          "title": "Self-Portrait",
+          "date": "1659",
+          "place": "National Gallery of Art, Washington, Andrew W. Mellon Collection"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "National Gallery of Art text on Google Arts & Culture", "url": "https://artsandculture.google.com/asset/self-portrait/-gHQe8vbiHn2xw" },
+        { "label": "Wikipedia, Rembrandt", "url": "https://en.wikipedia.org/wiki/Rembrandt" }
+      ]
+    },
+    {
+      "id": "d001-q06",
+      "difficulty": "medium",
+      "question": "Where in the Netherlands did Van Gogh paint The Potato Eaters in 1885?",
+      "options": [
+        "Zundert",
+        "The Hague",
+        "Nuenen",
+        "Amsterdam"
+      ],
+      "answer": 2,
+      "hint": "A village in Brabant where his father was the pastor in the 1880s. It is not the village where Vincent was born.",
+      "explanation": "Van Gogh meant the picture as a showpiece, but it was criticised for its dark colours and clumsy figures. Two years later he still told his sister it was the best thing he had done.",
+      "image": {
+        "src": "images/day-001/p05.jpg",
+        "alt": "Five people sit around a small table under an oil lamp, sharing a meal.",
+        "width": 1280,
+        "height": 905,
+        "label": {
+          "artist": "Vincent van Gogh",
+          "title": "The Potato Eaters",
+          "date": "1885",
+          "place": "Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "Van Gogh Museum", "url": "https://www.vangoghmuseum.nl/en/collection/s0005V1962" }
+      ]
+    },
+    {
+      "id": "d001-q07",
+      "difficulty": "easy",
+      "question": "Van Gogh painted his Sunflowers in Arles in August 1888 to decorate his house before a fellow painter came to stay. Who was the guest?",
+      "options": [
+        "Paul Cézanne",
+        "Henri de Toulouse-Lautrec",
+        "Georges Seurat",
+        "Paul Gauguin"
+      ],
+      "answer": 3,
+      "hint": "The two shared the Yellow House in the autumn of 1888, until a violent quarrel just before Christmas.",
+      "explanation": "Van Gogh hung two of the sunflower pictures in the guest room. He painted seven versions of sunflowers in a vase in 1888 and 1889; one was destroyed in the Second World War.",
+      "image": {
+        "src": "images/day-001/p06.jpg",
+        "alt": "A vase of sunflowers, some in full bloom and some wilting, against a yellow wall.",
+        "width": 1280,
+        "height": 1615,
+        "label": {
+          "artist": "Vincent van Gogh",
+          "title": "Sunflowers",
+          "date": "1888",
+          "place": "National Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "National Gallery, London", "url": "https://www.nationalgallery.org.uk/paintings/vincent-van-gogh-sunflowers" }
+      ]
+    },
+    {
+      "id": "d001-q08",
+      "difficulty": "easy",
+      "question": "In Self-Portrait with Bandaged Ear (1889), what hangs on the wall behind Van Gogh?",
+      "options": [
+        "One of his Sunflowers paintings",
+        "A Japanese print",
+        "A portrait of Gauguin",
+        "A map of Provence"
+      ],
+      "answer": 1,
+      "hint": "He collected hundreds of these, and admired their bold colours.",
+      "explanation": "The injured ear was his left one. It looks like the right because he painted himself in a mirror. He made the picture in January 1889, about a week after leaving hospital.",
+      "image": {
+        "src": "images/day-001/p07.jpg",
+        "alt": "A man in a green coat and a fur cap, with a bandage over his ear. An easel and a picture are behind him.",
+        "width": 1280,
+        "height": 1556,
+        "label": {
+          "artist": "Vincent van Gogh",
+          "title": "Self-Portrait with Bandaged Ear",
+          "date": "1889",
+          "place": "The Courtauld, London (Samuel Courtauld Trust)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "The Courtauld", "url": "https://courtauld.ac.uk/highlights/self-portrait-with-bandaged-ear/" }
+      ]
+    },
+    {
+      "id": "d001-q09",
+      "difficulty": "easy",
+      "question": "Where was Van Gogh living when he painted The Starry Night in June 1889?",
+      "options": [
+        "In the Yellow House in Arles",
+        "In his brother Theo's flat in Paris",
+        "In an asylum at Saint-Rémy-de-Provence",
+        "At an inn in Auvers-sur-Oise"
+      ],
+      "answer": 2,
+      "hint": "He had left Arles the month before, and the window of his room had iron bars.",
+      "explanation": "The sky is based on the view from his window, but the village is invented, and its church spire looks more Dutch than Provençal. The painting has been at the Museum of Modern Art in New York since 1941.",
+      "image": {
+        "src": "images/day-001/p08.jpg",
+        "alt": "A swirling night sky with a crescent moon above a village, and a dark cypress in the foreground.",
+        "width": 1280,
+        "height": 1013,
+        "label": {
+          "artist": "Vincent van Gogh",
+          "title": "The Starry Night",
+          "date": "1889",
+          "place": "The Museum of Modern Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "MoMA text on Google Arts & Culture", "url": "https://artsandculture.google.com/asset/the-starry-night/bgEuwDxel93-Pg" },
+        { "label": "Wikipedia, The Starry Night", "url": "https://en.wikipedia.org/wiki/The_Starry_Night" }
+      ]
+    },
+    {
+      "id": "d001-q10",
+      "difficulty": "medium",
+      "question": "Which popular claim about Wheatfield with Crows (1890) does the Van Gogh Museum call a persistent myth?",
+      "options": [
+        "That it was his last painting",
+        "That Gauguin painted the crows",
+        "That it was painted from his asylum window",
+        "That it was sold for a high price in his lifetime"
+      ],
+      "answer": 0,
+      "hint": "The myth is about when he painted it.",
+      "explanation": "Van Gogh painted it in Auvers-sur-Oise in July 1890, in the last weeks of his life, but he made several more works after it. He died on 29 July 1890, aged 37.",
+      "image": {
+        "src": "images/day-001/p09.jpg",
+        "alt": "A path winds through a golden field under a dark blue sky scattered with black birds.",
+        "width": 1280,
+        "height": 609,
+        "label": {
+          "artist": "Vincent van Gogh",
+          "title": "Wheatfield with Crows",
+          "date": "1890",
+          "place": "Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain."
+      },
+      "sources": [
+        { "label": "Van Gogh Museum", "url": "https://www.vangoghmuseum.nl/en/collection/s0149V1962" }
+      ]
+    }
+  ]
+}
