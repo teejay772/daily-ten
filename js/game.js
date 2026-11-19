@@ -23,6 +23,9 @@ export function lockIn(session, player, option) {
   if (session.phase !== 'answering') return session;
   if (!PLAYERS.includes(player)) return session;
   if (!Number.isInteger(option) || option < 0 || option > 3) return session;
+  // A locked answer is hidden, so a stray key press must not be able to change it.
+  // The player has to choose "Change" (unlock) first.
+  if (session.picks[player] !== null) return session;
   return {
     ...session,
     picks: { ...session.picks, [player]: option },

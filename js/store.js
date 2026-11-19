@@ -89,14 +89,19 @@ export function nextUnplayedDay(state, dayList) {
 
 export function summary(state) {
   const out = { daysPlayed: state.history.length, points: { a: 0, b: 0 }, dayWins: { a: 0, b: 0, ties: 0 }, byTheme: {} };
+  // A Map, because a theme may be any text, including names such as "constructor"
+  // that already mean something on a plain object.
+  const themes = new Map();
   for (const entry of state.history) {
     out.points.a += entry.totals.a;
     out.points.b += entry.totals.b;
     if (entry.totals.a > entry.totals.b) out.dayWins.a += 1;
     else if (entry.totals.b > entry.totals.a) out.dayWins.b += 1;
     else out.dayWins.ties += 1;
-    out.byTheme[entry.theme] ??= { a: { correct: 0, total: 0 }, b: { correct: 0, total: 0 } };
-    const theme = out.byTheme[entry.theme];
+    if (!themes.has(entry.theme)) {
+      themes.set(entry.theme, { a: { correct: 0, total: 0 }, b: { correct: 0, total: 0 } });
+    }
+    const theme = themes.get(entry.theme);
     for (const r of entry.results) {
       for (const p of ['a', 'b']) {
         theme[p].total += 1;
@@ -104,6 +109,7 @@ export function summary(state) {
       }
     }
   }
+  out.byTheme = Object.fromEntries(themes);
   return out;
 }
 

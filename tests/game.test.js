@@ -123,3 +123,12 @@ test('number keys map to the two players', () => {
   assert.deepEqual(keyToPick('0'), { player: 'b', option: 3 });
   for (const key of ['5', '6', 'a', 'Enter', '', '12']) assert.equal(keyToPick(key), null);
 });
+
+test('a locked player must unlock before anything about their answer can change', () => {
+  let s = lockIn(createSession(day), 'a', 1);
+  s = openHint(s);
+  assert.equal(lockIn(s, 'a', 1), s, 'pressing the same key again');
+  assert.equal(lockIn(s, 'a', 2), s, 'bumping a different key');
+  assert.equal(s.picks.a, 1);
+  assert.equal(s.hintUsed.a, false);
+});

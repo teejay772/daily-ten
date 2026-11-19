@@ -143,3 +143,21 @@ test('a wrong or damaged backup is refused with a readable message', () => {
     assert.throws(() => importBackup(text), pattern, text.slice(0, 30));
   }
 });
+
+test('theme names that collide with built-in object properties are counted like any other', () => {
+  let state = emptyState();
+  const odd = ['__proto__', 'constructor', 'toString'];
+  odd.forEach((theme, i) => {
+    state = play(state, { id: `day-odd-${i}`, number: i + 1, theme, title: 'Odd' }, 4, 2);
+  });
+  const s = summary(state);
+  assert.deepEqual(Object.keys(s.byTheme).sort(), [...odd].sort());
+  for (const theme of odd) {
+    assert.ok(Object.hasOwn(s.byTheme, theme), theme);
+    assert.deepEqual(
+      Object.getOwnPropertyDescriptor(s.byTheme, theme).value,
+      { a: { correct: 4, total: 10 }, b: { correct: 2, total: 10 } },
+      theme,
+    );
+  }
+});
