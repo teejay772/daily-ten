@@ -103,6 +103,16 @@ export function themeMenu(state, dayList) {
   });
 }
 
+// Whether the home screen offers the choice of theme and topic. It is closed only while a
+// paused day holds at least one answered question, so that those answers cannot be lost.
+// A day opened by mistake, with nothing answered yet, does not lock the players in.
+export function canChoose(state, dayList) {
+  if (dayList.length === 0) return false;
+  const paused = state.inProgress;
+  if (!paused || !dayList.some((d) => d.id === paused.dayId)) return true;
+  return !(Array.isArray(paused.results) && paused.results.length > 0);
+}
+
 // The number the players see for a day. Days can be played in any order, so this is
 // their own count, not the day's number in the catalogue.
 export function playerDayNumber(state, dayId) {

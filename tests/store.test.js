@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   STORAGE_KEY, emptyState, loadState, saveState, recordDay,
-  nextUnplayedDay, summary, exportBackup, importBackup, themeMenu, playerDayNumber,
+  nextUnplayedDay, summary, exportBackup, importBackup, themeMenu, playerDayNumber, canChoose,
 } from '../js/store.js';
 
 const fakeStorage = () => {
@@ -140,6 +140,22 @@ test("a day's number for the players is its place in their own history", () => {
   state = play(state, dayList[0], 5, 5);
   assert.equal(playerDayNumber(state, 'day-001'), 2);
   assert.equal(playerDayNumber(state, 'day-002'), 3);
+});
+
+test('choosing is closed only while a paused day holds answers', () => {
+  const paused = (dayId, answered) => ({
+    ...finished(dayId, 0, 0), index: answered, phase: 'answering',
+    results: finished(dayId, 0, 0).results.slice(0, answered),
+  });
+  assert.equal(canChoose(emptyState(), dayList), true);
+  assert.equal(canChoose({ ...emptyState(), inProgress: paused('day-001', 3) }, dayList), false);
+  assert.equal(canChoose({ ...emptyState(), inProgress: paused('day-001', 0) }, dayList), true,
+    'a day opened by mistake, with nothing answered, does not lock the players in');
+  assert.equal(canChoose({ ...emptyState(), inProgress: paused('day-999', 3) }, dayList), true,
+    'a paused day that is no longer in the index');
+  assert.equal(canChoose({ ...emptyState(), inProgress: { dayId: 'day-001' } }, dayList), true,
+    'a damaged paused day with no list of results');
+  assert.equal(canChoose(emptyState(), []), false, 'nothing to choose from');
 });
 
 test('the summary adds up points, day wins, ties and accuracy by theme', () => {

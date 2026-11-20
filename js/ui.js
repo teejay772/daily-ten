@@ -7,8 +7,9 @@ import {
 } from './game.js';
 import {
   emptyState, saveState, recordDay, nextUnplayedDay, summary, exportBackup, importBackup,
-  themeMenu, playerDayNumber,
+  themeMenu, playerDayNumber, canChoose,
 } from './store.js';
+import { latestOnly } from './latest.js';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
 const PLAYERS = ['a', 'b'];
@@ -93,11 +94,16 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
     persist();
   }
 
+  // Two taps can start two loads. Only the day asked for last may open.
+  const beginOpening = latestOnly();
+
   async function openDay(entry, { practice = false, session = null } = {}) {
+    const stillWanted = beginOpening();
     app.pickedTheme = null;
     app.homeError = null;
     try {
       const day = await loadDay(entry);
+      if (!stillWanted()) return;
       const usable = session && session.dayId === day.id && session.index < day.questions.length
         && session.phase !== 'finished';
       app.day = day;
@@ -107,6 +113,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
       go('question');
     } catch (error) {
       console.error(error);
+      if (!stillWanted()) return;
       app.homeError = `"${entry.title}" could not be loaded. Check your connection and try again.`;
       go('home');
     }
@@ -249,7 +256,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
   }
 
   function chooseCard() {
-    if (dayList.length === 0 || pausedDay()) return null;
+    if (!canChoose(app.state, dayList)) return null;
     const menu = themeMenu(app.state, dayList);
     const picked = menu.find((t) => t.theme === app.pickedTheme) || null;
     return h('section', { class: 'card choose' },
