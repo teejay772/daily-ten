@@ -2,7 +2,10 @@
 
 A daily trivia game for two players on one shared screen. Ten questions a day, each with a hint and four answers. Both players lock in an answer in secret, then reveal it. The game keeps a score for each day and an all-time score.
 
-Themes rotate through art history, literature, Italian history, great books, French history, geography and geopolitics. The first week is ready: Rembrandt and Van Gogh, *Pride and Prejudice*, Italian history from Rome to the Republic, Augustine's *Confessions*, French history from Charlemagne to de Gaulle, the world map, and the UN, NATO and the EU.
+Themes rotate through art history, literature, Italian history, great books, French history, geography and geopolitics. Two weeks are ready.
+
+- Week 1: Rembrandt and Van Gogh, *Pride and Prejudice*, Italian history from Rome to the Republic, Augustine's *Confessions*, French history from Charlemagne to de Gaulle, the world map, and the UN, NATO and the EU.
+- Week 2: Florence in the 1400s, Shakespeare's tragedies, the medieval communes and maritime republics, Dante's *Inferno*, the Hundred Years' War and Joan of Arc, the countries and capitals of Asia, and the UN and the world after 1945.
 
 ## Play
 
@@ -48,4 +51,4 @@ Then open `http://localhost:4173`.
 
 ## Images
 
-Every image is a faithful reproduction of a public-domain work, taken from Wikimedia Commons. The artist, title, date and holding museum are shown under each picture after the answer is revealed.
+Every image comes from Wikimedia Commons and is in the public domain or released under CC0. Most are faithful reproductions of old works; a few are photographs released by their photographers. The artist, title, date and place are shown under each picture after the answer is revealed, and each day file keeps the link to the Commons page.

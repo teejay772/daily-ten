@@ -1,0 +1,344 @@
+{
+  "id": "day-012",
+  "number": 12,
+  "theme": "French history",
+  "title": "The Hundred Years' War and Joan of Arc",
+  "questions": [
+    {
+      "id": "d012-q01",
+      "difficulty": "easy",
+      "question": "Which weapon gave the English their great victories at Crécy in 1346 and Agincourt in 1415?",
+      "options": [
+        "The cannon",
+        "The crossbow",
+        "The longbow",
+        "The pike"
+      ],
+      "answer": 2,
+      "hint": "It was made of yew wood. In England, men had to practise with it on Sundays and holidays.",
+      "explanation": "At Crécy the English archers shot much faster than the crossbowmen from Genoa who fought for France. The French knights charged again and again and were shot down. The same thing happened at Agincourt, in the mud, 69 years later.",
+      "image": {
+        "src": "images/day-012/p01.jpg",
+        "alt": "A painting: a knight in black armour stands on a muddy battlefield and looks down at a dead man and fallen horses, under a stormy sky full of crows.",
+        "width": 1280,
+        "height": 835,
+        "label": {
+          "artist": "Julian Russell Story",
+          "title": "The Black Prince at Crécy",
+          "date": "1888",
+          "place": "Telfair Museums, Savannah"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Black_Prince_at_Cr%C3%A9cy.jpg"
+      },
+      "sources": [
+        { "label": "Essex Record Office blog, The essentials of archery", "url": "https://www.essexrecordofficeblog.co.uk/tag/archery/" },
+        { "label": "Historic UK, The Longbow", "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Longbow/" },
+        { "label": "English Heritage, Medieval: War", "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/war/" },
+        { "label": "Wikipedia, English longbow", "url": "https://en.wikipedia.org/wiki/English_longbow" }
+      ]
+    },
+    {
+      "id": "d012-q02",
+      "difficulty": "easy",
+      "question": "Which English king won the battle of Agincourt in 1415?",
+      "options": [
+        "Edward III",
+        "Richard II",
+        "Henry V",
+        "Henry VIII"
+      ],
+      "answer": 2,
+      "hint": "Shakespeare wrote a play about him, with the speech \"We few, we happy few, we band of brothers\".",
+      "explanation": "The battle was fought on 25 October 1415, the feast of Saint Crispin. The English army was smaller, tired and sick, but the French knights were trapped in a muddy field between two woods. Thousands of French nobles were killed or captured.",
+      "image": {
+        "src": "images/day-012/p02.jpg",
+        "alt": "A medieval miniature: two armies face each other in a field. Archers in the front rows shoot at close range, with knights and lances behind them.",
+        "width": 1280,
+        "height": 853,
+        "label": {
+          "artist": "Unknown illuminator",
+          "title": "The Battle of Agincourt",
+          "date": "about 1470–1480",
+          "place": "Bibliothèque nationale de France, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Schlacht_von_Azincourt.jpg"
+      },
+      "sources": [
+        { "label": "Westminster Abbey, Henry V and Catherine de Valois", "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/henry-v-and-catherine-de-valois" },
+        { "label": "MIT Shakespeare, Henry V, Act 4 Scene 3", "url": "https://shakespeare.mit.edu/henryv/henryv.4.3.html" },
+        { "label": "Herodote.net, 25 octobre 1415, Azincourt", "url": "https://www.herodote.net/25_octobre_1415-evenement-14151025.php" },
+        { "label": "Wikipedia, Battle of Agincourt", "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt" }
+      ]
+    },
+    {
+      "id": "d012-q03",
+      "difficulty": "easy",
+      "question": "Which French port did Edward III take in 1347, after a siege of eleven months? It stayed English until 1558.",
+      "options": [
+        "Boulogne",
+        "Calais",
+        "Cherbourg",
+        "Dunkirk"
+      ],
+      "answer": 1,
+      "hint": "It is the main French port for the crossing to England. Rodin made a famous group of statues of six of its citizens.",
+      "explanation": "Six leading citizens came out with ropes around their necks to offer their lives for the town. The story says that Queen Philippa asked the king to spare them. When France took the town back in 1558, England lost its last land in France.",
+      "image": {
+        "src": "images/day-012/p03.jpg",
+        "alt": "A painting: a queen in a white dress pleads with a king in dark armour, while barefoot men with ropes round their necks and bound hands stand before them.",
+        "width": 1280,
+        "height": 968,
+        "label": {
+          "artist": "Benjamin West",
+          "title": "Queen Philippa Interceding for the Lives of the Burghers of Calais",
+          "date": "1788",
+          "place": "Detroit Institute of Arts"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Benjamin_West_-_Queen_Philippa_Interceding_for_the_Lives_of_the_Burghers_of_Calais_-_89.73_-_Detroit_Institute_of_Arts.jpg"
+      },
+      "sources": [
+        { "label": "Herodote.net, 3 août 1347, Capitulation de Calais", "url": "https://www.herodote.net/3_aout_1347-evenement-13470803.php" },
+        { "label": "BnF Essentiels, La guerre de Cent Ans", "url": "https://essentiels.bnf.fr/fr/histoire/moyen-age/0ca78c4f-42f0-4b81-866f-247b8f0d57a9-derniers-feux-moyen-age-14e-15e-siecles/article/6e6e48ab-6af5-4e58-8167-e2914a0b0098-guerre-cent-ans" },
+        { "label": "Larousse, guerre de Cent Ans", "url": "https://www.larousse.fr/encyclopedie/divers/guerre_de_Cent_Ans/112327" },
+        { "label": "Wikipedia, Siege of Calais (1346–1347)", "url": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1346%E2%80%931347)" }
+      ]
+    },
+    {
+      "id": "d012-q04",
+      "difficulty": "easy",
+      "question": "After Orléans, Joan of Arc led the Dauphin Charles across enemy country to be crowned king of France in July 1429. In which city?",
+      "options": [
+        "Reims",
+        "Rouen",
+        "Paris",
+        "Bourges"
+      ],
+      "answer": 0,
+      "hint": "French kings had been crowned in its cathedral for centuries, in memory of the baptism of Clovis there.",
+      "explanation": "Charles VII was crowned in Reims cathedral on 17 July 1429, with Joan standing near him and holding her banner. Until then his enemies called him \"the king of Bourges\", after the town where he held court. The coronation made him the true king in the eyes of the French.",
+      "image": {
+        "src": "images/day-012/p04.jpg",
+        "alt": "A painting: a young woman in armour, with a halo, stands by an altar holding a banner, one hand on the altar. A monk and a page pray behind her.",
+        "width": 1280,
+        "height": 1725,
+        "label": {
+          "artist": "Jean-Auguste-Dominique Ingres",
+          "title": "Joan of Arc at the Coronation of Charles VII",
+          "date": "1854",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg"
+      },
+      "sources": [
+        { "label": "Herodote.net, 17 juillet 1429, sacre de Charles VII", "url": "https://www.herodote.net/17_juillet_1429-evenement-14290717.php" },
+        { "label": "Catholic Encyclopedia (New Advent), St. Joan of Arc", "url": "https://www.newadvent.org/cathen/08409c.htm" },
+        { "label": "Larousse, cathédrale Notre-Dame de Reims", "url": "https://www.larousse.fr/encyclopedie/divers/cath%C3%A9drale_Notre-Dame_de_Reims/182248" }
+      ]
+    },
+    {
+      "id": "d012-q05",
+      "difficulty": "medium",
+      "question": "In 1337 Edward III of England claimed the crown of France. Through which relative did he claim it?",
+      "options": [
+        "His father",
+        "His grandmother",
+        "His wife",
+        "His mother"
+      ],
+      "answer": 3,
+      "hint": "She was Isabella, daughter of King Philip IV \"the Fair\" of France.",
+      "explanation": "Isabella was the daughter of Philip IV, so Edward was that king's grandson. But the French nobles had chosen Philip of Valois, a nephew of Philip IV, and said that the crown could not pass through a woman. Later this rule was called the Salic law.",
+      "image": {
+        "src": "images/day-012/p05.jpg",
+        "alt": "A medieval miniature: a young crowned man in a red and gold robe kneels and places his hands in those of a crowned king in a blue robe with gold lilies, watched by courtiers.",
+        "width": 1280,
+        "height": 812,
+        "label": {
+          "artist": "Unknown illuminator",
+          "title": "Edward III of England pays homage to Philip VI of France in 1329",
+          "date": "late 14th century",
+          "place": "From a manuscript of the Grandes Chroniques de France"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Homage_d%27Edouard_III.jpg"
+      },
+      "sources": [
+        { "label": "Larousse, guerre de Cent Ans", "url": "https://www.larousse.fr/encyclopedie/divers/guerre_de_Cent_Ans/112327" },
+        { "label": "Larousse, Philippe VI de Valois", "url": "https://www.larousse.fr/encyclopedie/personnage/Philippe_VI_de_Valois/137971" },
+        { "label": "Larousse, Édouard III", "url": "https://www.larousse.fr/encyclopedie/personnage/%C3%89douard_III/117679" },
+        { "label": "Wikipedia, English claims to the French throne", "url": "https://en.wikipedia.org/wiki/English_claims_to_the_French_throne" }
+      ]
+    },
+    {
+      "id": "d012-q06",
+      "difficulty": "medium",
+      "question": "Which king of France was taken prisoner by the English at the battle of Poitiers in 1356?",
+      "options": [
+        "Philip VI",
+        "John II",
+        "Charles V",
+        "Charles VI"
+      ],
+      "answer": 1,
+      "hint": "He was called \"the Good\". He was held in London while France tried to collect a huge ransom.",
+      "explanation": "John II was captured by the army of the Black Prince, the son of Edward III. His ransom was set at three million gold crowns, and the first coin called a franc was struck in 1360 to help pay it. When his son Louis, a hostage in his place, ran away, John went back to London of his own free will, and he died there in 1364.",
+      "image": {
+        "src": "images/day-012/p06.jpg",
+        "alt": "A medieval miniature: a crowned king in a blue coat covered with gold lilies stands among soldiers in white armour with lances, with dead men at his feet.",
+        "width": 1280,
+        "height": 1326,
+        "label": {
+          "artist": "Giac Master",
+          "title": "The Battle of Poitiers and the capture of John II, from Froissart's Chronicles",
+          "date": "about 1412–1414",
+          "place": "Bibliothèque municipale, Besançon"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Bataille_de_Poitiers_-_BM_Besan%C3%A7on_Ms864_f172.jpg"
+      },
+      "sources": [
+        { "label": "Larousse, Jean II le Bon", "url": "https://www.larousse.fr/encyclopedie/personnage/Jean_II_le_Bon/125713" },
+        { "label": "Herodote.net, 19 septembre 1356, Poitiers", "url": "https://www.herodote.net/19_septembre_1356-evenement-13560919.php" },
+        { "label": "Herodote.net, 8 mai 1360, Brétigny", "url": "https://www.herodote.net/8_mai_1360-evenement-13600508.php" }
+      ]
+    },
+    {
+      "id": "d012-q07",
+      "difficulty": "medium",
+      "question": "Joan of Arc was captured outside Compiègne in May 1430. The soldiers who took her served which duke, an ally of the English?",
+      "options": [
+        "The Duke of Bedford",
+        "The Duke of Brittany",
+        "The Duke of Normandy",
+        "The Duke of Burgundy"
+      ],
+      "answer": 3,
+      "hint": "His lands included Flanders, and his court was one of the richest in Europe. The English paid a very large sum to get Joan from his men.",
+      "explanation": "France was also in a civil war: the Burgundians sided with England against the party of Charles VII. They sold Joan to the English, who had her tried for heresy by a Church court at Rouen. In 1435 the duke, Philip the Good, made peace with Charles VII, and the English cause was lost.",
+      "image": {
+        "src": "images/day-012/p07.jpg",
+        "alt": "A painting: soldiers in helmets seize a young woman in a red dress on horseback, while two boys and a dog look on.",
+        "width": 1280,
+        "height": 933,
+        "label": {
+          "artist": "Adolphe Alexandre Dillens",
+          "title": "The Capture of Joan of Arc",
+          "date": "1847–1852",
+          "place": "Hermitage Museum, Saint Petersburg"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Adolphe_Alexandre_Dillens_-_Capture_of_Joan_of_Arc_-_WGA06347.jpg"
+      },
+      "sources": [
+        { "label": "Herodote.net, 23 mai 1430, capture de Jeanne d'Arc", "url": "https://www.herodote.net/23_mai_1430-evenement-14300523.php" },
+        { "label": "Catholic Encyclopedia (New Advent), St. Joan of Arc", "url": "https://www.newadvent.org/cathen/08409c.htm" },
+        { "label": "Larousse, sainte Jeanne d'Arc", "url": "https://www.larousse.fr/encyclopedie/personnage/sainte_Jeanne_dArc/125788" }
+      ]
+    },
+    {
+      "id": "d012-q08",
+      "difficulty": "medium",
+      "question": "The Hundred Years' War is usually said to have ended with the French victory at Castillon. In which year?",
+      "options": [
+        "1435",
+        "1453",
+        "1475",
+        "1492"
+      ],
+      "answer": 1,
+      "hint": "In the same year, far away, Constantinople fell to the Ottoman Turks.",
+      "explanation": "At Castillon, near Bordeaux, French cannon destroyed the English army and killed its old commander, John Talbot. In France, England kept only Calais. So the \"Hundred\" Years' War lasted 116 years, from 1337 to 1453, with long truces in between.",
+      "image": {
+        "src": "images/day-012/p08.jpg",
+        "alt": "A medieval miniature of a battle: soldiers in armour fight beside a cannon and a white horse lies on the ground. A blue flag with gold lilies flies near a pink castle.",
+        "width": 1280,
+        "height": 994,
+        "label": {
+          "artist": "Unknown illuminator",
+          "title": "The death of Talbot at the Battle of Castillon, from the Vigiles de Charles VII",
+          "date": "about 1484",
+          "place": "Bibliothèque nationale de France, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ais_5054,_fol._229v,_Bataille_de_Castillon_1453_-_d%C3%A9tail.jpg"
+      },
+      "sources": [
+        { "label": "Herodote.net, 17 juillet 1453, Castillon", "url": "https://www.herodote.net/17_juillet_1453-evenement-14530717.php" },
+        { "label": "BnF Essentiels, La guerre de Cent Ans", "url": "https://essentiels.bnf.fr/fr/histoire/moyen-age/0ca78c4f-42f0-4b81-866f-247b8f0d57a9-derniers-feux-moyen-age-14e-15e-siecles/article/6e6e48ab-6af5-4e58-8167-e2914a0b0098-guerre-cent-ans" },
+        { "label": "Larousse, guerre de Cent Ans", "url": "https://www.larousse.fr/encyclopedie/divers/guerre_de_Cent_Ans/112327" }
+      ]
+    },
+    {
+      "id": "d012-q09",
+      "difficulty": "hard",
+      "question": "Which treaty of 1420 made Henry V of England the heir to the French throne and gave him the French king's daughter as his wife?",
+      "options": [
+        "The Treaty of Troyes",
+        "The Treaty of Arras",
+        "The Treaty of Brétigny",
+        "The Treaty of Picquigny"
+      ],
+      "answer": 0,
+      "hint": "It was signed in a cathedral city of Champagne, and it pushed aside the king's own son, the future Charles VII.",
+      "explanation": "King Charles VI suffered from attacks of madness, and his queen and the Burgundians made the treaty in his name. Henry V married Catherine of Valois, but he died in 1422, less than two months before Charles VI. His baby son, Henry VI, was then called king of both England and France.",
+      "image": {
+        "src": "images/day-012/p09.jpg",
+        "alt": "A medieval miniature: under a row of Gothic arches a bishop joins the hands of a crowned man in a white and gold cloak and a crowned woman in a gold dress.",
+        "width": 1268,
+        "height": 1500,
+        "label": {
+          "artist": "Unknown illuminator",
+          "title": "The marriage of Henry V of England and Catherine of Valois",
+          "date": "before 1494",
+          "place": "British Library, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Marriage_of_henry_and_Catherine.jpg"
+      },
+      "sources": [
+        { "label": "Westminster Abbey, Henry V and Catherine de Valois", "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/henry-v-and-catherine-de-valois" },
+        { "label": "Herodote.net, 21 mai 1420, traité de Troyes", "url": "https://www.herodote.net/21_mai_1420-evenement-14200521.php" },
+        { "label": "Herodote.net, Charles VI le Fou (1368-1422)", "url": "https://www.herodote.net/Artisan_involontaire_des_malheurs_de_la_France-synthese-2323.php" },
+        { "label": "Wikipedia, Treaty of Troyes", "url": "https://en.wikipedia.org/wiki/Treaty_of_Troyes" }
+      ]
+    },
+    {
+      "id": "d012-q10",
+      "difficulty": "hard",
+      "question": "In which year did the Catholic Church declare Joan of Arc a saint?",
+      "options": [
+        "1456",
+        "1869",
+        "1909",
+        "1920"
+      ],
+      "answer": 3,
+      "hint": "It happened under Pope Benedict XV. France and the Vatican, which had broken off relations in 1904, were making peace with each other at the time.",
+      "explanation": "Joan was burned in 1431. A second Church trial cleared her name in 1456. The bishop of Orléans asked Rome to open her cause in 1869, and she was beatified in 1909. She became a saint on 16 May 1920, and in the same year the French parliament created a national day in her honour, on the second Sunday of May.",
+      "image": {
+        "src": "images/day-012/p10.jpg",
+        "alt": "A miniature on a gold background: a young woman in armour with long hair holds a sword and a white banner with three small figures.",
+        "width": 1280,
+        "height": 1907,
+        "label": {
+          "artist": "Unknown artist",
+          "title": "Joan of Arc, miniature",
+          "date": "date uncertain, perhaps the second half of the 15th century",
+          "place": "Archives nationales, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Joan_of_Arc_miniature_graded.jpg"
+      },
+      "sources": [
+        { "label": "Vatican, Benedict XV, bull Divina disponente (16 May 1920)", "url": "https://www.vatican.va/content/benedict-xv/la/bulls/documents/hf_ben-xv_bulls_19200516_divina-disponente.html" },
+        { "label": "Catholic Encyclopedia (New Advent), St. Joan of Arc", "url": "https://www.newadvent.org/cathen/08409c.htm" },
+        { "label": "BnF Essentiels, Jeanne d'Arc, héroïne nationale", "url": "https://essentiels.bnf.fr/fr/focus/b2bdc336-e593-4120-b97e-838345773ba4-jeanne-arc-heroine-nationale-1" },
+        { "label": "Wikipedia, Canonization of Joan of Arc", "url": "https://en.wikipedia.org/wiki/Canonization_of_Joan_of_Arc" }
+      ]
+    }
+  ]
+}

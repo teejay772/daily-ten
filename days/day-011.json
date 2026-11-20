@@ -1,0 +1,340 @@
+{
+  "id": "day-011",
+  "number": 11,
+  "theme": "Great books",
+  "title": "Dante, Inferno",
+  "questions": [
+    {
+      "id": "d011-q01",
+      "difficulty": "easy",
+      "question": "Which ancient poet guides Dante through Hell?",
+      "options": [
+        "Homer",
+        "Horace",
+        "Ovid",
+        "Virgil"
+      ],
+      "answer": 3,
+      "hint": "He wrote the Aeneid, whose hero also goes down to the world of the dead.",
+      "explanation": "Dante calls Virgil his master and his author. Virgil can lead him through Hell and Purgatory but not into Paradise, because he was not a Christian. Homer, Horace and Ovid are in the poem too: Dante meets them in Limbo, the first circle.",
+      "image": {
+        "src": "images/day-011/p01.jpg",
+        "alt": "A painting: two men stand in a small boat on a dark, stormy lake, one in a red hood and one in a brown cloak with a crown of leaves. Naked figures cling to the boat.",
+        "width": 1280,
+        "height": 958,
+        "label": {
+          "artist": "Eugène Delacroix",
+          "title": "The Barque of Dante",
+          "date": "1822",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 1 (text, translations, commentary)", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-1/" },
+        { "label": "Digital Dante, Inferno 2", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-2/" },
+        { "label": "Digital Dante, Inferno 4", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-4/" }
+      ]
+    },
+    {
+      "id": "d011-q02",
+      "difficulty": "easy",
+      "question": "The Inferno begins with Dante lost, \"midway upon the journey of our life\". Where does he find himself?",
+      "options": [
+        "In a dark wood",
+        "On a stormy sea",
+        "In an empty desert",
+        "At the mouth of a cave"
+      ],
+      "answer": 0,
+      "hint": "He has lost \"the straight way\". When he tries to climb a sunny hill, three wild animals drive him back.",
+      "explanation": "The journey is set in the spring of 1300, in the days around Easter. Dante was then almost 35, half of the 70 years that the Bible gives to a human life. A leopard, a lion and a she-wolf block his way before Virgil comes to help him.",
+      "image": {
+        "src": "images/day-011/p02.jpg",
+        "alt": "A portrait in profile of a man with a long curved nose, in a red robe and a red cap with a crown of laurel leaves.",
+        "width": 850,
+        "height": 1296,
+        "label": {
+          "artist": "Attributed to Sandro Botticelli",
+          "title": "Portrait of Dante",
+          "date": "about 1495",
+          "place": "Private collection, Cologny (Geneva)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Dante_Alighieri%27s_portrait_by_Sandro_Botticelli.jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 1", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-1/" },
+        { "label": "Digital Dante, Inferno 21 (dating of the journey)", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-21/" },
+        { "label": "Treccani, Divina Commedia (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/divina-commedia/" },
+        { "label": "Wikipedia, Inferno (Dante)", "url": "https://en.wikipedia.org/wiki/Inferno_(Dante)" }
+      ]
+    },
+    {
+      "id": "d011-q03",
+      "difficulty": "easy",
+      "question": "How many circles does Dante's Hell have?",
+      "options": [
+        "3",
+        "7",
+        "9",
+        "12"
+      ],
+      "answer": 2,
+      "hint": "Hell is shaped like a funnel that gets narrower towards the centre of the Earth. Limbo is the first circle, and the traitors are in the last.",
+      "explanation": "The circles go down like a funnel to the centre of the Earth, and the sins get worse on the way down. The number is not chance: nine is three times three, and three is the number of the Trinity. The whole Comedy has three parts and is written in groups of three lines.",
+      "image": {
+        "src": "images/day-011/p03.jpg",
+        "alt": "A fresco: a man in a red robe holds an open book. Behind him are a gate where people walk down into the earth, a mountain with terraces, and a walled city with a large dome.",
+        "width": 1280,
+        "height": 962,
+        "label": {
+          "artist": "Domenico di Michelino",
+          "title": "Dante and the Divine Comedy",
+          "date": "1465",
+          "place": "Florence Cathedral"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Dante_Domenico_di_Michelino_Duomo_Florence.jpg"
+      },
+      "sources": [
+        { "label": "Danteworlds (Univ. of Texas), Dante's Hell overview", "url": "https://danteworlds.laits.utexas.edu/textpopup/inf0000.html" },
+        { "label": "Digital Dante, Inferno 11 (structure of Hell)", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-11/" },
+        { "label": "Digital Dante, Inferno 32", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-32/" }
+      ]
+    },
+    {
+      "id": "d011-q04",
+      "difficulty": "easy",
+      "question": "In Dante's time serious books were written in Latin. In which language did he write the Comedy?",
+      "options": [
+        "French",
+        "Provençal",
+        "Sicilian",
+        "Tuscan"
+      ],
+      "answer": 3,
+      "hint": "He chose the language he had spoken since childhood in his own city, not the language of the schools and the Church.",
+      "explanation": "Dante wrote in the spoken language of Florence, and his poem helped to make Tuscan the base of modern Italian. This is why he is called the father of the Italian language. He even wrote a book, in Latin, to show that the Italian vernacular could be a language for great poetry.",
+      "image": {
+        "src": "images/day-011/p04.jpg",
+        "alt": "A fresco: a man in a red robe and a crown of laurel reads two large books at a desk, inside a square frame surrounded by gold ornament.",
+        "width": 800,
+        "height": 1026,
+        "label": {
+          "artist": "Luca Signorelli",
+          "title": "Dante Alighieri",
+          "date": "1499–1502",
+          "place": "Chapel of San Brizio, Orvieto Cathedral"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_-_Dante_Alighieri_-_WGA21236.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Dante (Enciclopedia dell'Italiano)", "url": "https://www.treccani.it/enciclopedia/dante_(Enciclopedia-dell'Italiano)/" },
+        { "label": "Treccani, De vulgari eloquentia (Enciclopedia Dantesca)", "url": "https://www.treccani.it/enciclopedia/de-vulgari-eloquentia_(Enciclopedia-Dantesca)/" },
+        { "label": "Treccani, Dante Alighieri (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/dante-alighieri/" }
+      ]
+    },
+    {
+      "id": "d011-q05",
+      "difficulty": "medium",
+      "question": "In the second circle Francesca da Rimini tells Dante how she and Paolo fell in love. What were they doing when they first kissed?",
+      "options": [
+        "Praying in a chapel",
+        "Reading a love story",
+        "Walking in a rose garden",
+        "Dancing at a wedding feast"
+      ],
+      "answer": 1,
+      "hint": "Francesca was married to Paolo's brother, who killed them both. An Italian saying that begins \"Galeotto fu...\" comes from her speech.",
+      "explanation": "They were reading the story of Lancelot and Queen Guinevere. \"That day we read no further,\" Francesca says. The second circle holds the lustful, who are blown about for ever by a storm. Dante is so moved by her story that he faints.",
+      "image": {
+        "src": "images/day-011/p05.jpg",
+        "alt": "A painting: the pale spirits of a man and a woman float in the dark, holding each other, wrapped in a white cloth. Two men watch from the right.",
+        "width": 1280,
+        "height": 905,
+        "label": {
+          "artist": "Ary Scheffer",
+          "title": "The Ghosts of Paolo and Francesca Appear to Dante and Virgil",
+          "date": "1855",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:1855_Ary_Scheffer_-_The_Ghosts_of_Paolo_and_Francesca_Appear_to_Dante_and_Virgil.jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 5", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-5/" },
+        { "label": "Treccani, Francesca da Rimini (Enciclopedia Dantesca)", "url": "https://www.treccani.it/enciclopedia/francesca-da-rimini_(Enciclopedia-Dantesca)/" },
+        { "label": "Danteworlds, Circle 2", "url": "https://danteworlds.laits.utexas.edu/circle2.html" }
+      ]
+    },
+    {
+      "id": "d011-q06",
+      "difficulty": "medium",
+      "question": "In Dante's poem, the ferryman Charon carries the souls of the damned across a river into Hell. Which river?",
+      "options": [
+        "The Acheron",
+        "The Lethe",
+        "The Phlegethon",
+        "The Styx"
+      ],
+      "answer": 0,
+      "hint": "It is the first of the rivers of Hell, just inside the gate. In Greek its name was linked with pain and sorrow.",
+      "explanation": "Charon has eyes like burning coals and beats the slow souls with his oar. Many people expect the Styx, but in Dante the Styx is a marsh further down, in the fifth circle. Dante puts the Lethe, the river of forgetting, far away, on top of Mount Purgatory.",
+      "image": {
+        "src": "images/day-011/p06.jpg",
+        "alt": "An engraving: a strong old man with wild hair and a beard rows a small boat across dark water under high cliffs.",
+        "width": 1232,
+        "height": 1556,
+        "label": {
+          "artist": "Gustave Doré",
+          "title": "Charon, illustration for canto 3 of the Inferno",
+          "date": "1861",
+          "place": "Engraving for an illustrated edition of the Inferno"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_(Canto_III_-_Charon).jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 3", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-3/" },
+        { "label": "Digital Dante, Inferno 7", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-7/" },
+        { "label": "Digital Dante, Inferno 14", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-14/" }
+      ]
+    },
+    {
+      "id": "d011-q07",
+      "difficulty": "medium",
+      "question": "In canto 26 a hero of the Trojan War, wrapped in a flame, tells how he sailed beyond the Pillars of Hercules and died at sea. Who is he?",
+      "options": [
+        "Achilles",
+        "Aeneas",
+        "Ulysses",
+        "Jason"
+      ],
+      "answer": 2,
+      "hint": "He urges his old crew on with the words: \"You were not made to live like brutes, but to follow virtue and knowledge.\"",
+      "explanation": "Ulysses is in Hell for his tricks, above all the wooden horse of Troy. Dante could not read Homer, who was not yet translated, so he invented a new ending. His Ulysses never goes home: he sails out into the ocean until a whirlwind sinks his ship.",
+      "image": {
+        "src": "images/day-011/p07.jpg",
+        "alt": "An engraving: two men in long robes stand on a ledge of rock inside a deep, dark gorge and look down at flames burning below.",
+        "width": 1280,
+        "height": 1593,
+        "label": {
+          "artist": "Gustave Doré",
+          "title": "Dante and Virgil above the flames of the false counsellors, illustration for canto 26 of the Inferno",
+          "date": "designed in 1861",
+          "place": "Engraving from an edition printed in Berlin in 1870"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Inferno_Canto_26_(148619124).jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 26", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-26/" },
+        { "label": "Treccani, Omero (Enciclopedia Dantesca)", "url": "https://www.treccani.it/enciclopedia/omero_(Enciclopedia-Dantesca)/" },
+        { "label": "Treccani, Ulisse (Enciclopedia Dantesca)", "url": "https://www.treccani.it/enciclopedia/ulisse_(Enciclopedia-Dantesca)/" }
+      ]
+    },
+    {
+      "id": "d011-q08",
+      "difficulty": "medium",
+      "question": "What does Dante find at the very bottom of Hell, where the worst sinners are punished?",
+      "options": [
+        "A lake of fire",
+        "A lake of ice",
+        "A pit of snakes",
+        "A wall of darkness"
+      ],
+      "answer": 1,
+      "hint": "The place is called Cocytus. The beating of Satan's wings keeps it the way it is.",
+      "explanation": "The traitors are frozen in the ice of Cocytus, some up to the neck and some completely covered. For Dante betrayal is a cold sin, the opposite of love, so the centre of Hell is the place farthest from the warmth of God. The wind from Satan's wings keeps the lake frozen.",
+      "image": {
+        "src": "images/day-011/p08.jpg",
+        "alt": "A drawing on parchment of a huge funnel cut open, with rings one below the other, each full of tiny figures, narrowing to a point at the bottom.",
+        "width": 1280,
+        "height": 894,
+        "label": {
+          "artist": "Sandro Botticelli",
+          "title": "The Map of Hell",
+          "date": "about 1480–1490",
+          "place": "Vatican Apostolic Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 32", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-32/" },
+        { "label": "Digital Dante, Inferno 34", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-34/" },
+        { "label": "Digital Dante, Inferno 9", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-9/" }
+      ]
+    },
+    {
+      "id": "d011-q09",
+      "difficulty": "hard",
+      "question": "At the centre of Hell, Satan has three faces and chews a traitor in each mouth. Two of them are Judas and Brutus. Who is the third?",
+      "options": [
+        "Cain",
+        "Cassius",
+        "Nero",
+        "Pontius Pilate"
+      ],
+      "answer": 1,
+      "hint": "He and Brutus led the plot against the same man, in Rome, on the Ides of March.",
+      "explanation": "Judas betrayed Christ; Brutus and Cassius betrayed Julius Caesar. For Dante the Roman Empire was part of God's plan, so the murder of Caesar was almost as bad as the betrayal of Christ. To leave Hell, Dante and Virgil climb along Satan's hairy body.",
+      "image": {
+        "src": "images/day-011/p09.jpg",
+        "alt": "An engraving: a giant with huge bat wings sits waist-deep in a lake and bites a human figure. Two small men watch from the shore.",
+        "width": 1280,
+        "height": 990,
+        "label": {
+          "artist": "Gustave Doré",
+          "title": "Lucifer, illustration for canto 34 of the Inferno",
+          "date": "1861",
+          "place": "Engraving for an illustrated edition of the Inferno"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Dore_Lucifer.jpg"
+      },
+      "sources": [
+        { "label": "Digital Dante, Inferno 34", "url": "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-34/" },
+        { "label": "Danteworlds, Circle 9", "url": "https://danteworlds.laits.utexas.edu/circle9.html" },
+        { "label": "Treccani, Cesare, Gaio Giulio (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/gaio-giulio-cesare/" }
+      ]
+    },
+    {
+      "id": "d011-q10",
+      "difficulty": "hard",
+      "question": "Dante called his poem simply the \"Comedy\". Which later writer was the first to call it \"divine\"?",
+      "options": [
+        "Boccaccio",
+        "Chaucer",
+        "Machiavelli",
+        "Petrarch"
+      ],
+      "answer": 0,
+      "hint": "He wrote a life of Dante, and in 1373 he gave the first public lectures on the poem in Florence. His own masterpiece is a book of a hundred tales.",
+      "explanation": "Boccaccio used the word in his life of Dante. It reached a title page only in 1555, in an edition printed in Venice. Dante never went back to Florence: he was exiled in 1302 and died in Ravenna in 1321.",
+      "image": {
+        "src": "images/day-011/p10.jpg",
+        "alt": "A detail of an old fresco: the profile of a young man with a strong nose, in a dark red cloak and a red and yellow cap.",
+        "width": 490,
+        "height": 656,
+        "label": {
+          "artist": "Attributed to Giotto and his workshop",
+          "title": "Portrait of Dante, detail of a fresco",
+          "date": "about 1335, much restored in the 19th century",
+          "place": "Chapel of the Podestà, Bargello Museum, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Dante_Portrait_by_Giotto.png"
+      },
+      "sources": [
+        { "label": "Treccani, Divina Commedia (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/divina-commedia/" },
+        { "label": "Treccani, Dolce, Lodovico (Dizionario Biografico)", "url": "https://www.treccani.it/enciclopedia/lodovico-dolce_(Dizionario-Biografico)/" },
+        { "label": "Treccani, Lectura Dantis (Enciclopedia Dantesca)", "url": "https://www.treccani.it/enciclopedia/lectura-dantis_(Enciclopedia-Dantesca)/" },
+        { "label": "Wikipedia, Divine Comedy", "url": "https://en.wikipedia.org/wiki/Divine_Comedy" }
+      ]
+    }
+  ]
+}

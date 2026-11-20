@@ -1,0 +1,341 @@
+{
+  "id": "day-009",
+  "number": 9,
+  "theme": "Literature",
+  "title": "Shakespeare's tragedies",
+  "questions": [
+    {
+      "id": "d009-q01",
+      "difficulty": "easy",
+      "question": "In which tragedy does the hero begin a famous speech with the words \"To be, or not to be\"?",
+      "options": [
+        "Macbeth",
+        "Hamlet",
+        "King Lear",
+        "Othello"
+      ],
+      "answer": 1,
+      "hint": "The hero is a young prince. His father, the king, has just died, and his uncle now wears the crown.",
+      "explanation": "Hamlet asks himself whether it is better to live and suffer or to die. It may be the best-known line in English drama. Hamlet is also Shakespeare's longest play, with a little more than 4,000 lines.",
+      "image": {
+        "src": "images/day-009/p01.jpg",
+        "alt": "A portrait of a man with a high forehead, dark hair, a beard and a gold earring, in a black coat with a white collar.",
+        "width": 1280,
+        "height": 1631,
+        "label": {
+          "artist": "Attributed to John Taylor",
+          "title": "William Shakespeare (the \"Chandos portrait\")",
+          "date": "about 1600–1610",
+          "place": "National Portrait Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Shakespeare.jpg"
+      },
+      "sources": [
+        { "label": "Folger Shakespeare, Hamlet 3.1", "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/1/" },
+        { "label": "Folger, Shakespeare FAQ (longest play)", "url": "https://www.folger.edu/explore/shakespeares-works/frequently-asked-questions/" },
+        { "label": "MIT Shakespeare, Hamlet full text", "url": "https://shakespeare.mit.edu/hamlet/full.html" }
+      ]
+    },
+    {
+      "id": "d009-q02",
+      "difficulty": "easy",
+      "question": "In which Italian city does Shakespeare set most of Romeo and Juliet?",
+      "options": [
+        "Mantua",
+        "Padua",
+        "Venice",
+        "Verona"
+      ],
+      "answer": 3,
+      "hint": "The city stands on the river Adige. Tourists there visit a house with a small stone balcony.",
+      "explanation": "The two lovers belong to enemy families, the Montagues and the Capulets. Romeo is sent away to Mantua after he kills Juliet's cousin Tybalt. Juliet is very young: her father says she is not yet fourteen.",
+      "image": {
+        "src": "images/day-009/p02.jpg",
+        "alt": "A painting: at dawn a young man climbing over a stone balcony kisses a young woman in a long white dress.",
+        "width": 1000,
+        "height": 1449,
+        "label": {
+          "artist": "Frank Dicksee",
+          "title": "Romeo and Juliet",
+          "date": "1884",
+          "place": "Southampton City Art Gallery"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Frank_Bernard_Dicksee_-_Romeo_and_Juliet,_1884.jpg"
+      },
+      "sources": [
+        { "label": "MIT Shakespeare, Romeo and Juliet full text", "url": "https://shakespeare.mit.edu/romeo_juliet/full.html" },
+        { "label": "Shakespeare Birthplace Trust, Romeo and Juliet summary", "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/romeo-and-juliet/" },
+        { "label": "Folger, Romeo and Juliet", "url": "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/" }
+      ]
+    },
+    {
+      "id": "d009-q03",
+      "difficulty": "easy",
+      "question": "In Macbeth, a general murders King Duncan and takes the crown. Of which country does he become king?",
+      "options": [
+        "Denmark",
+        "England",
+        "Scotland",
+        "Northumbria"
+      ],
+      "answer": 2,
+      "hint": "Three witches meet him on a heath and tell him he will be king. Shakespeare wrote the play soon after a king from this country came to the English throne.",
+      "explanation": "There was a real King Macbeth, who ruled Scotland from 1040 to 1057. Shakespeare wrote the play around 1606, three years after James VI of Scotland became King James I of England. Many actors think it is bad luck to say its name in a theatre, and call it \"the Scottish play\".",
+      "image": {
+        "src": "images/day-009/p03.jpg",
+        "alt": "A painting: two warriors on horseback stop in front of three wild old women, who raise their arms towards them on a dark heath.",
+        "width": 800,
+        "height": 597,
+        "label": {
+          "artist": "Théodore Chassériau",
+          "title": "Macbeth and Banquo Meeting the Witches on the Heath",
+          "date": "1855",
+          "place": "Musée d'Orsay, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:MacbethAndBanquo-Witches.jpg"
+      },
+      "sources": [
+        { "label": "Royal.uk, Macbeth (r. 1040-1057)", "url": "https://www.royal.uk/macbeth-r-1040-1057" },
+        { "label": "Royal.uk, James I", "url": "https://www.royal.uk/james-i" },
+        { "label": "Folger, Macbeth", "url": "https://www.folger.edu/explore/shakespeares-works/macbeth/" },
+        { "label": "Wikipedia, Macbeth", "url": "https://en.wikipedia.org/wiki/Macbeth" }
+      ]
+    },
+    {
+      "id": "d009-q04",
+      "difficulty": "easy",
+      "question": "In Othello, which character makes Othello believe that his wife Desdemona has been unfaithful?",
+      "options": [
+        "Iago",
+        "Cassio",
+        "Roderigo",
+        "Brabantio"
+      ],
+      "answer": 0,
+      "hint": "He is Othello's ensign, and he is angry that another man got the promotion he wanted.",
+      "explanation": "Iago uses a lost handkerchief as false proof. Othello, a general in the service of Venice, kills Desdemona and then, when he learns the truth, kills himself. It is Iago who calls jealousy \"the green-eyed monster\".",
+      "image": {
+        "src": "images/day-009/p04.jpg",
+        "alt": "A painting: a bearded man in a striped green cloak with a red sash sits on a balustrade and talks to a young woman in a pale dress, in a garden.",
+        "width": 1280,
+        "height": 1549,
+        "label": {
+          "artist": "Frederick Richard Pickersgill",
+          "title": "Othello and Desdemona",
+          "date": "1859",
+          "place": "Private collection"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Frederick_Richard_Pickersgill_-_Othello_and_Desdemona.jpg"
+      },
+      "sources": [
+        { "label": "Shakespeare Birthplace Trust, Othello summary", "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/othello-moor-venice/" },
+        { "label": "MIT Shakespeare, Othello full text", "url": "https://shakespeare.mit.edu/othello/full.html" },
+        { "label": "Folger, Othello", "url": "https://www.folger.edu/explore/shakespeares-works/othello/" }
+      ]
+    },
+    {
+      "id": "d009-q05",
+      "difficulty": "medium",
+      "question": "King Lear asks his three daughters to say how much they love him. Which daughter refuses to flatter him and is sent away with nothing?",
+      "options": [
+        "Goneril",
+        "Regan",
+        "Gertrude",
+        "Cordelia"
+      ],
+      "answer": 3,
+      "hint": "She is the youngest of the three. The king of France marries her although she has no dowry.",
+      "explanation": "Goneril and Regan flatter their father, receive half the kingdom each, and then shut their doors on him in a storm. Cordelia comes back with an army to save him. The ending is so dark that for about 150 years theatres played a version with a happy ending.",
+      "image": {
+        "src": "images/day-009/p05.jpg",
+        "alt": "A wide painting of a royal court: a young woman in a pale dress stands in the centre and looks back at two women in red and black on the left, while an old man is led away on the right.",
+        "width": 1280,
+        "height": 541,
+        "label": {
+          "artist": "Edwin Austin Abbey",
+          "title": "King Lear, Act I, Scene I (Cordelia's Farewell)",
+          "date": "1897–1898",
+          "place": "Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Edwin_Austin_Abbey_King_Lear,_Act_I,_Scene_I_The_Metropolitan_Museum_of_Art.jpg"
+      },
+      "sources": [
+        { "label": "Shakespeare Birthplace Trust, King Lear summary", "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/king-lear/" },
+        { "label": "RSC, King Lear stage history", "url": "https://www.rsc.org.uk/king-lear/about-the-play/stage-history" },
+        { "label": "MIT Shakespeare, King Lear full text", "url": "https://shakespeare.mit.edu/lear/full.html" }
+      ]
+    },
+    {
+      "id": "d009-q06",
+      "difficulty": "medium",
+      "question": "In Julius Caesar, who speaks to the crowd at Caesar's funeral, beginning \"Friends, Romans, countrymen, lend me your ears\"?",
+      "options": [
+        "Mark Antony",
+        "Marcus Brutus",
+        "Caius Cassius",
+        "Octavius Caesar"
+      ],
+      "answer": 0,
+      "hint": "He was Caesar's friend and not one of the killers. In his speech he says again and again that the killers are \"honourable men\".",
+      "explanation": "Brutus speaks first and wins the crowd. Then Antony turns the people against the killers without ever attacking them openly. Shakespeare took the story from the Greek writer Plutarch, whose Lives he read in an English translation.",
+      "image": {
+        "src": "images/day-009/p06.jpg",
+        "alt": "A painting: in a great hall men in togas attack a man in a red cloak with daggers, at the foot of a tall statue, while others run away.",
+        "width": 1280,
+        "height": 726,
+        "label": {
+          "artist": "Vincenzo Camuccini",
+          "title": "The Death of Julius Caesar",
+          "date": "1804–1805",
+          "place": "Galleria Nazionale d'Arte Moderna, Rome"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg"
+      },
+      "sources": [
+        { "label": "MIT Shakespeare, Julius Caesar full text", "url": "https://shakespeare.mit.edu/julius_caesar/full.html" },
+        { "label": "Shakespeare Birthplace Trust, Julius Caesar summary", "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/julius-caesar/" },
+        { "label": "Internet Shakespeare Editions, Plutarch introduction", "url": "https://internetshakespeare.uvic.ca/doc/Plutarch_Intro/index.html" }
+      ]
+    },
+    {
+      "id": "d009-q07",
+      "difficulty": "medium",
+      "question": "In the graveyard scene, Hamlet picks up a skull and says, \"Alas, poor Yorick!\" Who was Yorick?",
+      "options": [
+        "Hamlet's first teacher",
+        "The old king's jester",
+        "A soldier killed in war",
+        "The gravedigger's father"
+      ],
+      "answer": 1,
+      "hint": "Hamlet knew him as a small child and remembers riding on his back. He has been dead for twenty-three years.",
+      "explanation": "Hamlet calls him \"a fellow of infinite jest\". People often quote the line as \"Alas, poor Yorick, I knew him well\", but Hamlet says \"I knew him, Horatio\". A moment later a funeral arrives, and Hamlet learns that the new grave is for Ophelia.",
+      "image": {
+        "src": "images/day-009/p07.jpg",
+        "alt": "A painting: a gravedigger standing in an open grave holds up a skull to two men in dark cloaks, under a stormy evening sky.",
+        "width": 1280,
+        "height": 1596,
+        "label": {
+          "artist": "Eugène Delacroix",
+          "title": "Hamlet and Horatio in the Graveyard",
+          "date": "1839",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Hamlet_und_Horatio_auf_dem_Friedhof_(Eug%C3%A8ne_Ferdinand_Victor_Delacroix).jpg"
+      },
+      "sources": [
+        { "label": "Folger Shakespeare, Hamlet 5.1", "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/1/" },
+        { "label": "MIT Shakespeare, Hamlet full text", "url": "https://shakespeare.mit.edu/hamlet/full.html" },
+        { "label": "Internet Shakespeare Editions, Hamlet Q1 scene 16", "url": "https://internetshakespeare.uvic.ca/doc/Ham_Q1M/scene/16/index.html" }
+      ]
+    },
+    {
+      "id": "d009-q08",
+      "difficulty": "medium",
+      "question": "Giuseppe Verdi's opera of 1887, first performed at La Scala in Milan, is based on which Shakespeare tragedy?",
+      "options": [
+        "Hamlet",
+        "King Lear",
+        "Othello",
+        "Romeo and Juliet"
+      ],
+      "answer": 2,
+      "hint": "The words of the opera are by Arrigo Boito. It opens with a storm at sea, off the island of Cyprus.",
+      "explanation": "Verdi was 73 when Otello opened on 5 February 1887. He had already set Macbeth to music in 1847, and his last opera, Falstaff (1893), also comes from Shakespeare. He thought about a King Lear for many years but never wrote it.",
+      "image": {
+        "src": "images/day-009/p08.jpg",
+        "alt": "A pastel portrait of an old man with a white beard, in a black top hat and a loose white silk scarf.",
+        "width": 900,
+        "height": 1234,
+        "label": {
+          "artist": "Giovanni Boldini",
+          "title": "Portrait of Giuseppe Verdi",
+          "date": "1886",
+          "place": "Galleria Nazionale d'Arte Moderna, Rome"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Giuseppe_Verdi_by_Giovanni_Boldini.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Dizionario Biografico, Giuseppe Verdi", "url": "https://www.treccani.it/enciclopedia/giuseppe-fortunino-francesco-verdi_(Dizionario-Biografico)/" },
+        { "label": "Treccani, Giuseppe Verdi", "url": "https://www.treccani.it/enciclopedia/giuseppe-verdi/" },
+        { "label": "Treccani, Falstaff", "url": "https://www.treccani.it/enciclopedia/falstaff/" },
+        { "label": "Wikipedia, Otello", "url": "https://en.wikipedia.org/wiki/Otello" }
+      ]
+    },
+    {
+      "id": "d009-q09",
+      "difficulty": "hard",
+      "question": "In 1613 the Globe, the London theatre of Shakespeare's company, burned to the ground during a play. What started the fire?",
+      "options": [
+        "A fallen candle",
+        "A dropped torch",
+        "A lightning strike",
+        "A stage cannon"
+      ],
+      "answer": 3,
+      "hint": "The play was about King Henry VIII, and the roof of the theatre was made of thatch.",
+      "explanation": "A cannon was fired to mark the entrance of the king, and sparks set fire to the thatched roof. Nobody was badly hurt; one man's burning breeches were put out with a bottle of ale. The Globe was rebuilt the next year with a roof of tiles.",
+      "image": {
+        "src": "images/day-009/p09.jpg",
+        "alt": "An old engraving of a tall, round wooden building with small windows and a flag flying from a hut on its roof. Four small figures stand outside.",
+        "width": 1280,
+        "height": 1451,
+        "label": {
+          "artist": "After Claes Jansz. Visscher",
+          "title": "The Globe Theatre, copied from a view of London of about 1616",
+          "date": "engraving printed in 1778",
+          "place": "From The Plays of William Shakspeare (London, 1778)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Globe_Theatre_from_the_Long_Antwerp_View_of_London.jpg"
+      },
+      "sources": [
+        { "label": "Shakespeare's Globe, The Globe", "url": "https://www.shakespearesglobe.com/discover/shakespeares-world/the-globe/" },
+        { "label": "Ohio State University, Origins: The Globe Theatre, Shakespeare Lost & Found", "url": "https://origins.osu.edu/milestones/june-2013-globe-theatre-shakespeare-lost-found" },
+        { "label": "The Shakespeare Blog, the burning of Shakespeare's Globe (Wotton's letter)", "url": "https://theshakespeareblog.com/2012/06/oh-sorrow-pitiful-sorrow-the-burning-of-shakespeares-globe/" }
+      ]
+    },
+    {
+      "id": "d009-q10",
+      "difficulty": "hard",
+      "question": "The First Folio of 1623 collected Shakespeare's plays seven years after his death. Which of these tragedies was printed for the first time in it?",
+      "options": [
+        "Hamlet",
+        "King Lear",
+        "Macbeth",
+        "Romeo and Juliet"
+      ],
+      "answer": 2,
+      "hint": "It is the shortest of his tragedies, only a little more than half as long as Hamlet.",
+      "explanation": "Two actors from his company, John Heminges and Henry Condell, put the book together. It holds 36 plays, and 18 of them had never been printed before, among them Macbeth, Julius Caesar and The Tempest. Without the Folio they might have been lost.",
+      "image": {
+        "src": "images/day-009/p10.jpg",
+        "alt": "The printed title page of an old book, with a large engraved portrait of a man with a high forehead and a wide stiff collar.",
+        "width": 950,
+        "height": 1513,
+        "label": {
+          "artist": "Martin Droeshout (engraving)",
+          "title": "Title page of the First Folio: Mr. William Shakespeares Comedies, Histories, & Tragedies",
+          "date": "1623",
+          "place": "Beinecke Rare Book and Manuscript Library, Yale University"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Title_page_William_Shakespeare%27s_First_Folio_1623.jpg"
+      },
+      "sources": [
+        { "label": "Folger, The First Folio", "url": "https://www.folger.edu/explore/shakespeare-in-print/first-folio/" },
+        { "label": "Folger, Publishing Shakespeare", "url": "https://www.folger.edu/explore/shakespeare-in-print/publishing-shakespeare/" },
+        { "label": "Folger, Macbeth", "url": "https://www.folger.edu/explore/shakespeares-works/macbeth/" },
+        { "label": "Wikipedia, Macbeth", "url": "https://en.wikipedia.org/wiki/Macbeth" }
+      ]
+    }
+  ]
+}

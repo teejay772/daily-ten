@@ -1,0 +1,346 @@
+{
+  "id": "day-010",
+  "number": 10,
+  "theme": "Italian history",
+  "title": "Communes and maritime republics",
+  "questions": [
+    {
+      "id": "d010-q01",
+      "difficulty": "easy",
+      "question": "What was the title of the elected head of the Republic of Venice?",
+      "options": [
+        "Consul",
+        "Doge",
+        "Gonfaloniere",
+        "Podestà"
+      ],
+      "answer": 1,
+      "hint": "The word comes from the Latin \"dux\", leader. He lived in a palace next to St Mark's Basilica.",
+      "explanation": "The doge was elected for life, but councils of nobles limited his power. By tradition Venice had 120 doges in about eleven centuries. The last one, Ludovico Manin, gave up power in 1797, when Napoleon ended the republic.",
+      "image": {
+        "src": "images/day-010/p01.jpg",
+        "alt": "A portrait of an old man with a thin face, in a white and gold robe with large buttons and a stiff cap that rises to a point at the back, against a blue background.",
+        "width": 1280,
+        "height": 1795,
+        "label": {
+          "artist": "Giovanni Bellini",
+          "title": "Doge Leonardo Loredan",
+          "date": "about 1501–1502",
+          "place": "National Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini,_portrait_of_Doge_Leonardo_Loredan.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Doge (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/doge/" },
+        { "label": "Treccani, Doge (Enciclopedia Italiana)", "url": "https://www.treccani.it/enciclopedia/doge_(Enciclopedia-Italiana)/" },
+        { "label": "Treccani Vocabolario, doge", "url": "https://www.treccani.it/vocabolario/doge/" },
+        { "label": "Wikipedia, List of doges of Venice", "url": "https://en.wikipedia.org/wiki/List_of_doges_of_Venice" }
+      ]
+    },
+    {
+      "id": "d010-q02",
+      "difficulty": "easy",
+      "question": "In the cities of medieval Italy the Guelphs took the side of the pope. Whose side did their enemies, the Ghibellines, take?",
+      "options": [
+        "The King of France",
+        "The King of England",
+        "The Emperor of Byzantium",
+        "The Holy Roman Emperor"
+      ],
+      "answer": 3,
+      "hint": "Their name comes from Waiblingen, a castle of the Hohenstaufen family in Germany.",
+      "explanation": "The two names came to Italy from Germany in the time of Frederick II. In practice a city often chose the side opposed to its nearest rival: Florence was usually Guelph, and Pisa was usually Ghibelline. In Dante's Florence even the Guelphs split into two parties, the Whites and the Blacks.",
+      "image": {
+        "src": "images/day-010/p02.jpg",
+        "alt": "A page from a medieval manuscript: a crowned man in a blue cloak sits on a throne and holds a flower. A falcon sits on a perch beside him.",
+        "width": 593,
+        "height": 818,
+        "label": {
+          "artist": "Unknown illuminator",
+          "title": "Frederick II with his falcon, from his book On the Art of Hunting with Birds",
+          "date": "13th century",
+          "place": "Vatican Apostolic Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Frederick_II_and_eagle.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Guelfi e ghibellini (Enciclopedia dei ragazzi)", "url": "https://www.treccani.it/enciclopedia/guelfi-e-ghibellini_(Enciclopedia-dei-ragazzi)/" },
+        { "label": "Treccani, Guelfi e ghibellini (Enciclopedia Italiana)", "url": "https://www.treccani.it/enciclopedia/guelfi-e-ghibellini_(Enciclopedia-Italiana)/" },
+        { "label": "Treccani, Ghibellini (Dizionario di Storia)", "url": "https://www.treccani.it/enciclopedia/ghibellini_(Dizionario-di-Storia)/" }
+      ]
+    },
+    {
+      "id": "d010-q03",
+      "difficulty": "easy",
+      "question": "The Leaning Tower of Pisa was begun in 1173. What was it built to be?",
+      "options": [
+        "The cathedral's bell tower",
+        "A watchtower for the harbour",
+        "The tower of the town hall",
+        "A lighthouse for the city port"
+      ],
+      "answer": 0,
+      "hint": "It stands on the same lawn as the Baptistery, a few steps from the cathedral. Pisa paid for these buildings with the riches of its sea trade.",
+      "explanation": "The ground is soft, and the tower began to lean while it was still being built. Work stopped for almost a century, and the tower was finished only in the 14th century. Between 1990 and 2001 engineers made it safe and reduced the lean by about 45 centimetres.",
+      "image": {
+        "src": "images/day-010/p03.jpg",
+        "alt": "An old colour photograph of a round white tower with rows of arches, leaning strongly to one side, on a lawn.",
+        "width": 800,
+        "height": 1130,
+        "label": {
+          "artist": "Detroit Publishing Company (photochrom print)",
+          "title": "The Leaning Tower, Pisa",
+          "date": "about 1890–1900",
+          "place": "Library of Congress, Washington"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Leaning_Tower,_Pisa,_Italy-LCCN2001700921.jpg"
+      },
+      "sources": [
+        { "label": "Opera della Primaziale Pisana, Torre", "url": "https://www.opapisa.it/piazza-dei-miracoli/torre-pendente/" },
+        { "label": "Opera della Primaziale Pisana, 850° anniversario del Campanile", "url": "https://www.opapisa.it/attivita-per-850-anniversario-del-campanile-di-pisa/" },
+        { "label": "Opera della Primaziale Pisana, Curiosità", "url": "https://www.opapisa.it/multimedia/curiosita/" },
+        { "label": "Wikipedia, Leaning Tower of Pisa", "url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa" }
+      ]
+    },
+    {
+      "id": "d010-q04",
+      "difficulty": "easy",
+      "question": "Which Italian city has the university usually called the oldest in Europe, which gives 1088 as the year it began?",
+      "options": [
+        "Bologna",
+        "Florence",
+        "Naples",
+        "Padua"
+      ],
+      "answer": 0,
+      "hint": "The city is known as \"la dotta\", the learned. Students came there from all over Europe to study law.",
+      "explanation": "The university grew out of groups of law students, who chose and paid their own teachers. The year 1088 is a convention, fixed in the 19th century. Padua's university began in 1222, when teachers and students left Bologna, and Frederick II founded the one in Naples in 1224.",
+      "image": {
+        "src": "images/day-010/p04.jpg",
+        "alt": "A medieval miniature: a teacher reads from a high desk to rows of students with books. Some listen, some talk, and one is asleep.",
+        "width": 1280,
+        "height": 1033,
+        "label": {
+          "artist": "Laurentius de Voltolina",
+          "title": "Henry of Germany lecturing to university students in Bologna",
+          "date": "second half of the 14th century",
+          "place": "Kupferstichkabinett, Berlin"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Laurentius_de_Voltolina_001.jpg"
+      },
+      "sources": [
+        { "label": "Università di Bologna, La nostra storia", "url": "https://www.unibo.it/it/ateneo/chi-siamo/la-nostra-storia" },
+        { "label": "Università di Bologna, Nove secoli di storia", "url": "https://www.unibo.it/it/ateneo/chi-siamo/la-nostra-storia/nove-secoli-di-storia-1/nove-secoli-di-storia" },
+        { "label": "Università di Bologna, La nascita dello Studio e del Comune", "url": "https://www.unibo.it/it/ateneo/chi-siamo/la-nostra-storia/nove-secoli-di-storia-1/la-nascita-dello-studio-e-del-comune-x-e-xii-secolo" },
+        { "label": "Wikipedia, University of Bologna", "url": "https://en.wikipedia.org/wiki/University_of_Bologna" }
+      ]
+    },
+    {
+      "id": "d010-q05",
+      "difficulty": "medium",
+      "question": "Which alliance of northern Italian cities defeated the emperor Frederick Barbarossa at the battle of Legnano in 1176?",
+      "options": [
+        "The Holy League",
+        "The Italic League",
+        "The Lombard League",
+        "The Hanseatic League"
+      ],
+      "answer": 2,
+      "hint": "The cities swore their alliance in 1167. The Italian national anthem remembers the battle with the words \"dovunque è Legnano\".",
+      "explanation": "The foot soldiers of Milan and its allies stood around the carroccio, a war wagon that carried the city's flag, and held off the emperor's knights. In 1183, with the Peace of Constance, Barbarossa accepted that the cities could govern themselves.",
+      "image": {
+        "src": "images/day-010/p05.jpg",
+        "alt": "A painting of a medieval battle: horsemen and foot soldiers fight in front of a wagon that carries a tall mast, a cross and trumpeters.",
+        "width": 1280,
+        "height": 833,
+        "label": {
+          "artist": "Amos Cassioli",
+          "title": "The Battle of Legnano",
+          "date": "1860–1870",
+          "place": "Gallery of Modern Art, Palazzo Pitti, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:La_battaglia_di_Legnano_di_Amos_Cassoli.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Lega lombarda", "url": "https://www.treccani.it/enciclopedia/lega-lombarda/" },
+        { "label": "Treccani, Lega lombarda (Dizionario di Storia)", "url": "https://www.treccani.it/enciclopedia/lega-lombarda_(Dizionario-di-Storia)/" },
+        { "label": "Treccani, Legnano", "url": "https://www.treccani.it/enciclopedia/legnano/" },
+        { "label": "Wikipedia (it), Il Canto degli Italiani", "url": "https://it.wikipedia.org/wiki/Il_Canto_degli_Italiani" }
+      ]
+    },
+    {
+      "id": "d010-q06",
+      "difficulty": "medium",
+      "question": "The four bronze horses of St Mark's Basilica were taken from Constantinople in 1204. Which crusade brought the Venetians there?",
+      "options": [
+        "The First Crusade",
+        "The Third Crusade",
+        "The Fourth Crusade",
+        "The Seventh Crusade"
+      ],
+      "answer": 2,
+      "hint": "The Venetians were led by their old, blind doge, Enrico Dandolo. This crusade never reached the Holy Land.",
+      "explanation": "The crusaders could not pay Venice for their ships, so they agreed to fight for it. In April 1204 they took and sacked Constantinople, a Christian city. Napoleon carried the horses off to Paris in 1797, and they came back in 1815. The horses on the front of the church today are copies.",
+      "image": {
+        "src": "images/day-010/p06.jpg",
+        "alt": "A painting: knights on horseback with lances and banners ride into a city by the sea, while frightened people kneel and beg in front of them.",
+        "width": 1280,
+        "height": 1048,
+        "label": {
+          "artist": "Eugène Delacroix",
+          "title": "The Entry of the Crusaders into Constantinople",
+          "date": "1840",
+          "place": "Louvre Museum, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Prise_de_Constantinople_par_les_crois%C3%A9s_(12_avril_1204).jpg"
+      },
+      "sources": [
+        { "label": "Basilica di San Marco, The decoration of the facades", "url": "https://www.basilicasanmarco.it/en/sculpture/the-decoration-of-the-facades/" },
+        { "label": "Basilica di San Marco, Museo di San Marco", "url": "https://www.basilicasanmarco.it/basilica/museo-di-san-marco/" },
+        { "label": "Basilica di San Marco, Cronologia essenziale", "url": "https://www.basilicasanmarco.it/storia/cronologia-essenziale/" },
+        { "label": "Wikipedia, Fourth Crusade", "url": "https://en.wikipedia.org/wiki/Fourth_Crusade" }
+      ]
+    },
+    {
+      "id": "d010-q07",
+      "difficulty": "medium",
+      "question": "Marco Polo of Venice dictated the story of his travels in Asia in about 1298. Where was he at the time?",
+      "options": [
+        "At the court of Kublai Khan",
+        "In a prison in Genoa",
+        "In a monastery in Venice",
+        "On a ship in the Black Sea"
+      ],
+      "answer": 1,
+      "hint": "He told his story to a writer of romances called Rustichello. Neither of the two men was free to leave.",
+      "explanation": "Marco Polo was captured in a sea battle between Venice and Genoa. His fellow prisoner Rustichello wrote the book down in a mixture of French and Italian. In Italy it is known as \"Il Milione\". Polo had been away from Venice for about 24 years.",
+      "image": {
+        "src": "images/day-010/p07.jpg",
+        "alt": "A detail of a medieval map: a line of camels with packs, men on foot and riders on horseback, above small drawings of towns.",
+        "width": 1280,
+        "height": 924,
+        "label": {
+          "artist": "Attributed to Abraham Cresques",
+          "title": "A caravan on the Silk Road, detail of the Catalan Atlas",
+          "date": "1375",
+          "place": "Bibliothèque nationale de France, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Caravane_Marco_Polo.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Polo, Marco (Dizionario Biografico degli Italiani)", "url": "https://www.treccani.it/enciclopedia/marco-polo_(Dizionario-Biografico)/" },
+        { "label": "Treccani, Polo, Marco (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/marco-polo/" },
+        { "label": "Treccani, Polo, Marco (Enciclopedia dei ragazzi)", "url": "https://www.treccani.it/enciclopedia/marco-polo_(Enciclopedia-dei-ragazzi)/" }
+      ]
+    },
+    {
+      "id": "d010-q08",
+      "difficulty": "medium",
+      "question": "Ambrogio Lorenzetti painted the frescoes of Good and Bad Government in 1338 and 1339 for the town hall of which city?",
+      "options": [
+        "Florence",
+        "Lucca",
+        "Perugia",
+        "Siena"
+      ],
+      "answer": 3,
+      "hint": "The town hall stands on a square shaped like a shell, where a famous horse race is still run twice a year.",
+      "explanation": "The frescoes are in the room where the Nine, the council that governed the city, used to meet. One wall shows a city at peace, with shops, builders and dancers. About ten years later, in 1348, the Black Death killed a large part of the people of Siena, probably Lorenzetti too.",
+      "image": {
+        "src": "images/day-010/p08.jpg",
+        "alt": "A wide fresco of a medieval city: towers and houses, shops, builders on a roof, riders, and a ring of people dancing in the street.",
+        "width": 1280,
+        "height": 617,
+        "label": {
+          "artist": "Ambrogio Lorenzetti",
+          "title": "The Effects of Good Government in the City",
+          "date": "1338–1339",
+          "place": "Palazzo Pubblico, Siena"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"
+      },
+      "sources": [
+        { "label": "Museo Civico di Siena, Allegoria del Buon Governo", "url": "https://museocivico.comune.siena.it/opere/allegoria-del-buon-governo" },
+        { "label": "Museo Civico di Siena, Effetti del Buon Governo in città", "url": "https://museocivico.comune.siena.it/opere/effetti-del-buon-governo-in-citta" },
+        { "label": "Museo Civico di Siena, Allegoria del Cattivo Governo", "url": "https://museocivico.comune.siena.it/opere/allegoria-del-cattivo-governo" },
+        { "label": "Wikipedia, Republic of Siena", "url": "https://en.wikipedia.org/wiki/Republic_of_Siena" }
+      ]
+    },
+    {
+      "id": "d010-q09",
+      "difficulty": "hard",
+      "question": "In 1284 the fleet of Genoa destroyed the fleet of a rival maritime republic near the rocks of Meloria. Which republic never recovered from this defeat?",
+      "options": [
+        "Amalfi",
+        "Ancona",
+        "Pisa",
+        "Venice"
+      ],
+      "answer": 2,
+      "hint": "One of its commanders that day was Count Ugolino della Gherardesca, whom Dante later put in his Inferno.",
+      "explanation": "Meloria is a rocky shoal off Livorno, a few kilometres from the old harbour of Pisa. Genoa took thousands of prisoners, so many that people said: \"If you want to see Pisa, go to Genoa.\" In 1406 Pisa was conquered by Florence.",
+      "image": {
+        "src": "images/day-010/p09.jpg",
+        "alt": "An engraving: on a stone quay by the sea a priest raises his arms beside a cross, and a crowd of women kneel and pray, while ships fight far out on the water.",
+        "width": 1280,
+        "height": 907,
+        "label": {
+          "artist": "Lodovico Pogliaghi",
+          "title": "The Naval Battle of Meloria between Genoa and Pisa, 1284",
+          "date": "about 1890",
+          "place": "Illustration for Francesco Bertolini's Storia d'Italia (Milan, Fratelli Treves)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Lodovico_Pogliaghi_-_The_naval_battle_of_Meloria_between_Genoa_and_Pisa,_1284.png"
+      },
+      "sources": [
+        { "label": "Treccani, Meloria (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/meloria/" },
+        { "label": "Treccani, Meloria (Enciclopedia Italiana)", "url": "https://www.treccani.it/enciclopedia/meloria_(Enciclopedia-Italiana)/" },
+        { "label": "Treccani, Ugolino della Gherardesca (Enciclopedia Dantesca)", "url": "https://www.treccani.it/enciclopedia/ugolino-della-gherardesca-conte-di-donoratico_(Enciclopedia-Dantesca)/" },
+        { "label": "Wikipedia (it), Battaglia della Meloria", "url": "https://it.wikipedia.org/wiki/Battaglia_della_Meloria" }
+      ]
+    },
+    {
+      "id": "d010-q10",
+      "difficulty": "hard",
+      "question": "In 1378 the Ciompi rose up in Florence and for a few weeks took control of the government. In which trade did the Ciompi work?",
+      "options": [
+        "The building trade",
+        "The leather trade",
+        "The silk trade",
+        "The wool trade"
+      ],
+      "answer": 3,
+      "hint": "They did the hardest and dirtiest jobs in one of the great industries of Florence, and they were not allowed to form a guild.",
+      "explanation": "The Ciompi were the poorest workers of the wool trade, such as carders and combers, paid by the day. In July 1378 they made one of their own, Michele di Lando, the head of the government, and won the right to form guilds. By 1382 the rich merchant families had taken everything back.",
+      "image": {
+        "src": "images/day-010/p10.jpg",
+        "alt": "An old bird's-eye view of a walled city on a river with four bridges, full of houses and towers, with a great dome in the middle.",
+        "width": 1280,
+        "height": 554,
+        "label": {
+          "artist": "After Francesco Rosselli",
+          "title": "View of Florence, known as the \"Pianta della Catena\"",
+          "date": "painted copy of 1887 after a view of about 1470",
+          "place": "Palazzo Vecchio, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Francesco_Rosselli_(attribution)._Pianta_della_Catena,_1470.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Ciompi (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/ciompi/" },
+        { "label": "Treccani, Ciompi (Enciclopedia Italiana)", "url": "https://www.treccani.it/enciclopedia/ciompi_(Enciclopedia-Italiana)/" },
+        { "label": "Treccani, Tumulto dei Ciompi (Dizionario di Storia)", "url": "https://www.treccani.it/enciclopedia/tumulto-dei-ciompi_(Dizionario-di-Storia)/" },
+        { "label": "Wikipedia, Ciompi Revolt", "url": "https://en.wikipedia.org/wiki/Ciompi_Revolt" }
+      ]
+    }
+  ]
+}

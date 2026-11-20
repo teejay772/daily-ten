@@ -1,0 +1,346 @@
+{
+  "id": "day-013",
+  "number": 13,
+  "theme": "Geography",
+  "title": "Countries and capitals of Asia",
+  "questions": [
+    {
+      "id": "d013-q01",
+      "difficulty": "easy",
+      "question": "What is the capital of India?",
+      "options": [
+        "Hyderabad",
+        "Kolkata",
+        "Mumbai",
+        "New Delhi"
+      ],
+      "answer": 3,
+      "hint": "The British announced in 1911 that they would move the capital, and they opened the new city in 1931.",
+      "explanation": "New Delhi was planned by the British architects Edwin Lutyens and Herbert Baker and opened in 1931. Before 1911 the capital of British India was Calcutta, now called Kolkata. Mumbai is the business centre of India, but it has never been the capital.",
+      "image": {
+        "src": "images/day-013/p01.png",
+        "alt": "A flag with three horizontal bands, orange, white and green, and a blue wheel with 24 spokes in the centre.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Government of India (drawing by Wikimedia Commons contributors)",
+          "title": "Flag of India",
+          "date": "Adopted in 1947",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_India.svg"
+      },
+      "sources": [
+        { "label": "Treccani, Nuova Delhi", "url": "https://www.treccani.it/enciclopedia/nuova-delhi/" },
+        { "label": "Treccani, Lutyens, Sir Edwin Landseer", "url": "https://www.treccani.it/enciclopedia/sir-edwin-landseer-lutyens/" },
+        { "label": "Treccani, Calcutta", "url": "https://www.treccani.it/enciclopedia/calcutta/" },
+        { "label": "Wikipedia, New Delhi", "url": "https://en.wikipedia.org/wiki/New_Delhi" }
+      ]
+    },
+    {
+      "id": "d013-q02",
+      "difficulty": "easy",
+      "question": "Which country was known as Siam until it changed its name in 1939?",
+      "options": [
+        "Cambodia",
+        "Myanmar",
+        "Thailand",
+        "Vietnam"
+      ],
+      "answer": 2,
+      "hint": "It is the only country in Southeast Asia that was never a European colony. A breed of cat is named after its old name.",
+      "explanation": "The government changed the name in 1939. After the war the country was called Siam again for a few years, until 1949. In the Thai language it is \"Prathet Thai\", and the name is often explained as \"land of the free\".",
+      "image": {
+        "src": "images/day-013/p02.jpg",
+        "alt": "An old sepia photograph: people ride on a row of elephants in front of a ruined brick temple with a large seated Buddha.",
+        "width": 1098,
+        "height": 828,
+        "label": {
+          "artist": "Unknown photographer",
+          "title": "An elephant excursion in Siam",
+          "date": "1890s",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Siam_Elephant_Tour_1890s.jpg"
+      },
+      "sources": [
+        { "label": "Royal Thai Embassy, Phnom Penh, Thailand at a glance", "url": "https://phnompenh.thaiembassy.org/en/page/cate-6070-thailand-at-a-glance?menu=5f4a0a71305d09761348d1c2" },
+        { "label": "Royal Thai Embassy, Doha, Thailand information", "url": "https://doha.thaiembassy.org/en/content/25556-thailand-information" },
+        { "label": "Royal Thai Embassy, Warsaw, The Grand Tour That Saved a Nation", "url": "https://warsaw.thaiembassy.org/en/content/the-grand-tour-rama5?cate=5d7e6b1c15e39c3ac0006b39" },
+        { "label": "Wikipedia, Thailand", "url": "https://en.wikipedia.org/wiki/Thailand" }
+      ]
+    },
+    {
+      "id": "d013-q03",
+      "difficulty": "easy",
+      "question": "This is the only national flag in the world that does not have four sides. Which country does it belong to?",
+      "options": [
+        "Bhutan",
+        "Mongolia",
+        "Nepal",
+        "Sri Lanka"
+      ],
+      "answer": 2,
+      "hint": "The country lies in the Himalayas, between India and China. The two points of the flag are often said to stand for its mountains.",
+      "explanation": "The flag is made of two triangles, one above the other, with a moon and a sun. The country's constitution explains step by step how to draw it. Eight of the ten highest mountains on Earth are in Nepal or on its borders, among them Everest, on the border with China.",
+      "image": {
+        "src": "images/day-013/p03.png",
+        "alt": "A red flag with a blue border, made of two triangles one above the other. The upper one has a white moon and the lower one a white sun.",
+        "width": 1280,
+        "height": 1561,
+        "label": {
+          "artist": "Government of Nepal (drawing by Wikimedia Commons contributors)",
+          "title": "Flag of Nepal",
+          "date": "Adopted in 1962",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg"
+      },
+      "sources": [
+        { "label": "Constitute Project, Constitution of Nepal 2015 (Art. 8 and Schedule 1)", "url": "https://www.constituteproject.org/constitution/Nepal_2015" },
+        { "label": "Flags of the World, Nepal", "url": "https://www.crwflags.com/fotw/flags/np.html" },
+        { "label": "Nepal Tourism Board, Mountaineering", "url": "https://ntb.gov.np/things-to-do/mountaineering" },
+        { "label": "Wikipedia, Flag of Nepal", "url": "https://en.wikipedia.org/wiki/Flag_of_Nepal" }
+      ]
+    },
+    {
+      "id": "d013-q04",
+      "difficulty": "easy",
+      "question": "What is the capital of Turkey?",
+      "options": [
+        "Ankara",
+        "Antalya",
+        "Istanbul",
+        "Izmir"
+      ],
+      "answer": 0,
+      "hint": "Atatürk made it his base during the war of independence. It lies in the middle of Anatolia, far from the coast.",
+      "explanation": "Ankara became the capital on 13 October 1923, sixteen days before the Republic of Turkey was proclaimed. Istanbul, the old capital of the Ottoman sultans, is still by far the largest city. Almost all of Turkey lies in Asia: only about 3% of its land is in Europe.",
+      "image": {
+        "src": "images/day-013/p04.png",
+        "alt": "A red flag with a white crescent moon and a white five-pointed star.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Drawing by Wikimedia Commons contributors",
+          "title": "Flag of Turkey",
+          "date": "In use since 1844",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg"
+      },
+      "sources": [
+        { "label": "Anadolu Agency, 98 years on: Founding of Turkish Republic", "url": "https://www.aa.com.tr/en/turkey/98-years-on-founding-of-turkish-republic/2406552" },
+        { "label": "Daily Sabah, How the war was won and birth of Republic of Türkiye", "url": "https://www.dailysabah.com/life/how-the-war-was-won-and-birth-of-republic-of-turkiye/news" },
+        { "label": "Wikipedia, Ankara", "url": "https://en.wikipedia.org/wiki/Ankara" }
+      ]
+    },
+    {
+      "id": "d013-q05",
+      "difficulty": "medium",
+      "question": "On which of Japan's four main islands are Tokyo and Mount Fuji?",
+      "options": [
+        "Hokkaido",
+        "Honshu",
+        "Kyushu",
+        "Shikoku"
+      ],
+      "answer": 1,
+      "hint": "It is by far the largest of the four. Osaka, Kyoto and Hiroshima are on it too.",
+      "explanation": "Honshu is the seventh largest island in the world, and about four in five Japanese live on it. Mount Fuji, a volcano 3,776 metres high, is the highest mountain in Japan. It last erupted in 1707.",
+      "image": {
+        "src": "images/day-013/p05.jpg",
+        "alt": "A Japanese colour woodblock print: a great red mountain with streaks of snow at the top, under a deep blue sky with rows of small white clouds.",
+        "width": 1280,
+        "height": 864,
+        "label": {
+          "artist": "Katsushika Hokusai",
+          "title": "Fine Wind, Clear Morning (\"Red Fuji\"), from Thirty-six Views of Mount Fuji",
+          "date": "about 1830–1832",
+          "place": "Woodblock print"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_-_Fine_Wind,_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg"
+      },
+      "sources": [
+        { "label": "Japan Meteorological Agency, 富士山 Fujisan", "url": "https://www.data.jma.go.jp/vois/data/tokyo/314_Fujisan/314_index.html" },
+        { "label": "Nippon.com, Mount Fuji's History of Eruptions", "url": "https://www.nippon.com/en/japan-data/h00420/" },
+        { "label": "Treccani, Honshu", "url": "https://www.treccani.it/enciclopedia/honshu/" },
+        { "label": "Wikipedia, Honshu", "url": "https://en.wikipedia.org/wiki/Honshu" }
+      ]
+    },
+    {
+      "id": "d013-q06",
+      "difficulty": "medium",
+      "question": "What is the capital of Pakistan?",
+      "options": [
+        "Islamabad",
+        "Karachi",
+        "Lahore",
+        "Rawalpindi"
+      ],
+      "answer": 0,
+      "hint": "It is a planned city, built in the 1960s at the foot of the Margalla Hills in the north of the country.",
+      "explanation": "Karachi, the great port in the south, was Pakistan's first capital after independence in 1947. In 1959 the government decided to build a new one, and the Greek architect Constantinos Doxiadis drew the plan. Karachi is still the largest city.",
+      "image": {
+        "src": "images/day-013/p06.png",
+        "alt": "A dark green flag with a white vertical band on the left, a white crescent moon and a white five-pointed star.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Drawing by Wikimedia Commons contributors",
+          "title": "Flag of Pakistan",
+          "date": "Adopted in 1947",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Pakistan.svg"
+      },
+      "sources": [
+        { "label": "Doxiadis Foundation, Islamabad, the Capital of Pakistan (PDF)", "url": "https://www.doxiadis.org/Downloads/Islamabad_project_publ.pdf" },
+        { "label": "Treccani, Islamabad", "url": "https://www.treccani.it/enciclopedia/islamabad/" },
+        { "label": "Treccani, Karachi", "url": "https://www.treccani.it/enciclopedia/karachi/" },
+        { "label": "Wikipedia, Islamabad", "url": "https://en.wikipedia.org/wiki/Islamabad" }
+      ]
+    },
+    {
+      "id": "d013-q07",
+      "difficulty": "medium",
+      "question": "As of November 2026, which country has the largest population in the world?",
+      "options": [
+        "China",
+        "India",
+        "Indonesia",
+        "The United States"
+      ],
+      "answer": 1,
+      "hint": "The United Nations announced in April 2023 that it had moved into first place.",
+      "explanation": "According to United Nations estimates, India passed China in 2022 or 2023, and each has more than 1.4 billion people. China's population has begun to fall, while India's is still growing. Together the two countries hold more than a third of all the people on Earth.",
+      "image": {
+        "src": "images/day-013/p07.jpg",
+        "alt": "A view of the Earth at night from space: the lights of cities glow across South and East Asia, while the oceans and Australia are dark.",
+        "width": 1280,
+        "height": 1032,
+        "label": {
+          "artist": "NASA Earth Observatory",
+          "title": "City lights of Asia and the Middle East at night",
+          "date": "2016",
+          "place": "NASA"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:City_Lights_of_Asia_and_Middle_East_2016.png"
+      },
+      "sources": [
+        { "label": "UN DESA, India to overtake China as world's most populous country in April 2023", "url": "https://www.un.org/en/desa/india-overtake-china-world-most-populous-country-april-2023-united-nations-projects" },
+        { "label": "UN DESA Policy Brief No. 153 (PDF)", "url": "https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/PB153.pdf" },
+        { "label": "UN News, India poised to become world's most populous nation", "url": "https://news.un.org/en/story/2023/04/1135967" }
+      ]
+    },
+    {
+      "id": "d013-q08",
+      "difficulty": "medium",
+      "question": "Which is the only country in Southeast Asia that has no sea coast?",
+      "options": [
+        "Cambodia",
+        "Myanmar",
+        "Vietnam",
+        "Laos"
+      ],
+      "answer": 3,
+      "hint": "The Mekong river runs along much of its western border. Its capital is Vientiane.",
+      "explanation": "Laos is closed in by five neighbours: China, Vietnam, Cambodia, Thailand and Myanmar. The Mekong is its great road. Since December 2021 a railway has linked its capital, Vientiane, to China.",
+      "image": {
+        "src": "images/day-013/p08.jpg",
+        "alt": "A photograph from space: a wide brown river curves between green hills and farmland, with flooded fields beside it.",
+        "width": 1280,
+        "height": 852,
+        "label": {
+          "artist": "NASA (astronaut photograph, International Space Station)",
+          "title": "The Mekong River on the border between Thailand and Laos",
+          "date": "8 August 2015",
+          "place": "NASA"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:ISS-44_Mekong_River_on_the_border_between_Thailand_and_Laos.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Laos", "url": "https://www.treccani.it/enciclopedia/laos/" },
+        { "label": "UN-OHRLLS, List of LLDCs", "url": "https://www.un.org/ohrlls/content/list-lldcs" },
+        { "label": "World Bank, Lao PDR country page", "url": "https://www.worldbank.org/ext/en/country/lao" },
+        { "label": "Wikipedia, Laos", "url": "https://en.wikipedia.org/wiki/Laos" }
+      ]
+    },
+    {
+      "id": "d013-q09",
+      "difficulty": "hard",
+      "question": "As of November 2026, what is the capital of Kazakhstan?",
+      "options": [
+        "Almaty",
+        "Astana",
+        "Karaganda",
+        "Shymkent"
+      ],
+      "answer": 1,
+      "hint": "The city has changed its name several times. From 2019 to 2022 it was called Nur-Sultan.",
+      "explanation": "Almaty, the largest city, was the capital until 1997, when the government moved north to a town on the steppe called Akmola. In 1998 the town was renamed Astana, which simply means \"capital\" in Kazakh. It was called Nur-Sultan from 2019 to 2022, after the first president, and then became Astana again.",
+      "image": {
+        "src": "images/day-013/p09.png",
+        "alt": "A sky-blue flag with a golden sun, a golden eagle flying under it, and a band of golden ornament along the left edge.",
+        "width": 1280,
+        "height": 640,
+        "label": {
+          "artist": "Shaken Niyazbekov (design; drawing by Wikimedia Commons contributors)",
+          "title": "Flag of Kazakhstan",
+          "date": "Adopted in 1992",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg"
+      },
+      "sources": [
+        { "label": "Akorda (President of Kazakhstan), The Republic of Kazakhstan", "url": "https://www.akorda.kz/en/republic_of_kazakhstan/kazakhstan" },
+        { "label": "Constitutional Court of Kazakhstan, Constitution entered into force on 1 July 2026", "url": "https://www.gov.kz/memleket/entities/ksrk/press/news/details/1250997?lang=en" },
+        { "label": "Constitute Project, Kazakhstan 2026", "url": "https://www.constituteproject.org/constitution/Kazakhstan_2026" },
+        { "label": "Wikipedia, Astana", "url": "https://en.wikipedia.org/wiki/Astana" }
+      ]
+    },
+    {
+      "id": "d013-q10",
+      "difficulty": "hard",
+      "question": "As of November 2026, what is the capital of Myanmar?",
+      "options": [
+        "Mandalay",
+        "Mawlamyine",
+        "Naypyidaw",
+        "Yangon"
+      ],
+      "answer": 2,
+      "hint": "The government began to move there in November 2005, to a new city built in the middle of the country.",
+      "explanation": "Yangon, once called Rangoon, is the largest city and was the capital until the move. The military government built the new city about 320 km to the north and announced its name in March 2006. Naypyidaw, officially written Nay Pyi Taw, is usually translated as \"abode of kings\".",
+      "image": {
+        "src": "images/day-013/p10.png",
+        "alt": "A flag with three horizontal bands, yellow, green and red, and a large white star in the centre.",
+        "width": 1280,
+        "height": 854,
+        "label": {
+          "artist": "Drawing by Wikimedia Commons contributors",
+          "title": "Flag of Myanmar",
+          "date": "Adopted in 2010",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar.svg"
+      },
+      "sources": [
+        { "label": "Global New Light of Myanmar, 19 Nov 2026, President addresses Third Pyidaungsu Hluttaw", "url": "https://www.gnlm.com.mm/president-u-min-aung-hlaing-addresses-nations-overall-situation-and-state-policies-at-third-pyidaungsu-hluttaw/" },
+        { "label": "Global New Light of Myanmar, front page, 19 Nov 2026", "url": "https://www.gnlm.com.mm/" },
+        { "label": "Al Jazeera, 16 March 2026, Myanmar parliament convenes after 5 years", "url": "https://www.aljazeera.com/news/2026/3/16/myanmar-parliament-dominated-by-pro-military-party-convenes-after-5-years" },
+        { "label": "Wikipedia, Naypyidaw", "url": "https://en.wikipedia.org/wiki/Naypyidaw" }
+      ]
+    }
+  ]
+}

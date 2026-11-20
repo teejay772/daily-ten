@@ -1,0 +1,319 @@
+{
+  "id": "day-014",
+  "number": 14,
+  "theme": "Geopolitics",
+  "title": "The UN and the world after 1945",
+  "questions": [
+    {
+      "id": "d014-q01",
+      "difficulty": "easy",
+      "question": "Which organisation, which began its work in 1920 after the First World War, did the United Nations replace?",
+      "options": [
+        "The Holy Alliance",
+        "The League of Nations",
+        "The Concert of Europe",
+        "The Inter-Parliamentary Union"
+      ],
+      "answer": 1,
+      "hint": "It was the idea of the American president Woodrow Wilson, but the United States never joined it. Its seat was in Geneva.",
+      "explanation": "The League could not stop the aggressions of the 1930s, and Germany, Italy and Japan all walked out of it. It held its last meeting in April 1946 and handed its buildings in Geneva to the United Nations. They are still the main UN office in Europe.",
+      "image": {
+        "src": "images/day-014/p01.jpg",
+        "alt": "A photograph of a long, pale stone building with tall square columns, wide steps and a courtyard with lawns.",
+        "width": 1280,
+        "height": 832,
+        "label": {
+          "artist": "Vassil (photograph)",
+          "title": "The Palace of Nations, Geneva",
+          "date": "20 October 2014",
+          "place": "Wikimedia Commons (released by the photographer under CC0)"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Nations_Geneva_20102014_02.jpg"
+      },
+      "sources": [
+        { "label": "UN Geneva, The League of Nations: overview", "url": "https://www.ungeneva.org/en/about/league-of-nations/overview" },
+        { "label": "UN Geneva, League of Nations: historical background", "url": "https://www.ungeneva.org/en/about/league-of-nations/background" },
+        { "label": "UN Geneva, The League at work", "url": "https://www.ungeneva.org/en/about/league-of-nations/at-work" },
+        { "label": "Wikipedia, League of Nations", "url": "https://en.wikipedia.org/wiki/League_of_Nations" }
+      ]
+    },
+    {
+      "id": "d014-q02",
+      "difficulty": "easy",
+      "question": "Who said in a speech in March 1946 that \"an iron curtain has descended across the Continent\"?",
+      "options": [
+        "Charles de Gaulle",
+        "Harry Truman",
+        "Joseph Stalin",
+        "Winston Churchill"
+      ],
+      "answer": 3,
+      "hint": "He was no longer in power: his party had lost the election of July 1945. He spoke at a college in Missouri, with the American president beside him.",
+      "explanation": "Churchill spoke at Westminster College in Fulton, Missouri, on 5 March 1946. He said the curtain ran \"from Stettin in the Baltic to Trieste in the Adriatic\". The speech is often seen as one of the first public signs of the Cold War.",
+      "image": {
+        "src": "images/day-014/p02.jpg",
+        "alt": "A photograph of the inside of an old college sports hall with a shining wooden floor, an American flag on the brick wall and wooden seats along one side.",
+        "width": 1280,
+        "height": 960,
+        "label": {
+          "artist": "Ammodramus (photograph)",
+          "title": "The gymnasium of Westminster College, Fulton, Missouri, where the speech was given",
+          "date": "18 December 2012",
+          "place": "Wikimedia Commons (released by the photographer under CC0)"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Westminster_College_gym_interior_face_E.jpg"
+      },
+      "sources": [
+        { "label": "America's National Churchill Museum, The Sinews of Peace (Iron Curtain Speech)", "url": "https://www.nationalchurchillmuseum.org/sinews-of-peace-iron-curtain-speech.html" },
+        { "label": "International Churchill Society, The Sinews of Peace", "url": "https://winstonchurchill.org/resources/speeches/1946-1963-elder-statesman/the-sinews-of-peace/" },
+        { "label": "Imperial War Museums, How the Conservative Party lost the 1945 election", "url": "https://www.iwm.org.uk/history/winston-churchill/how-winston-churchill-and-the-conservative-party-lost-the-1945-election" }
+      ]
+    },
+    {
+      "id": "d014-q03",
+      "difficulty": "easy",
+      "question": "In which city does the International Court of Justice, the main court of the United Nations, sit?",
+      "options": [
+        "Geneva",
+        "Strasbourg",
+        "The Hague",
+        "Vienna"
+      ],
+      "answer": 2,
+      "hint": "It is the only one of the six main bodies of the UN that is not in New York. It sits in a building called the Peace Palace.",
+      "explanation": "The court has 15 judges, elected for nine years, and it settles disputes between states, not between people. It sits in the Peace Palace, paid for by the American steel magnate Andrew Carnegie and opened in 1913. The Hague is also home to the separate International Criminal Court, which tries individuals.",
+      "image": {
+        "src": "images/day-014/p03.jpg",
+        "alt": "A photograph of a large red-brick palace with a grey roof, small spires and a tall clock tower, behind a garden.",
+        "width": 1280,
+        "height": 960,
+        "label": {
+          "artist": "Malis (photograph)",
+          "title": "The Peace Palace, The Hague",
+          "date": "14 August 2007",
+          "place": "Wikimedia Commons (released into the public domain by the photographer)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Den_Haag_Peace_Palace_2.jpg"
+      },
+      "sources": [
+        { "label": "ICJ, The Court", "url": "https://www.icj-cij.org/court" },
+        { "label": "ICJ, History", "url": "https://www.icj-cij.org/history" },
+        { "label": "ICJ, Frequently asked questions", "url": "https://www.icj-cij.org/frequently-asked-questions" },
+        { "label": "Wikipedia, Peace Palace", "url": "https://en.wikipedia.org/wiki/Peace_Palace" }
+      ]
+    },
+    {
+      "id": "d014-q04",
+      "difficulty": "easy",
+      "question": "Which of these United Nations bodies has its headquarters in Rome?",
+      "options": [
+        "FAO",
+        "UNESCO",
+        "UNICEF",
+        "WHO"
+      ],
+      "answer": 0,
+      "hint": "It was founded in 1945 to fight hunger. Its Latin motto is \"Fiat panis\", \"Let there be bread\".",
+      "explanation": "The Food and Agriculture Organization moved from Washington to Rome in 1951. Its building near the Circus Maximus was first planned under Mussolini as a ministry for Italy's colonies. UNESCO is in Paris, the WHO in Geneva and UNICEF in New York.",
+      "image": null,
+      "sources": [
+        { "label": "FAO, FAO: its origins, formation and evolution 1945–1981, chapter on headquarters", "url": "https://www.fao.org/4/p4228e/P4228E08.htm" },
+        { "label": "FAO, FAO: its origins, formation and evolution 1945–1981 (emblem and motto)", "url": "https://www.fao.org/4/p4228e/P4228E16.htm" },
+        { "label": "FAO, 75 years of growing, nourishing and sustaining our world", "url": "https://www.fao.org/newsroom/story/75-years-of-growing-nourishing-and-sustaining-our-world/en" },
+        { "label": "Wikipedia, FAO Headquarters", "url": "https://en.wikipedia.org/wiki/FAO_Headquarters" }
+      ]
+    },
+    {
+      "id": "d014-q05",
+      "difficulty": "medium",
+      "question": "In February 1945 Churchill, Roosevelt and Stalin met to plan the end of the war and the peace after it. Where was this photograph taken?",
+      "options": [
+        "Casablanca",
+        "Potsdam",
+        "Tehran",
+        "Yalta"
+      ],
+      "answer": 3,
+      "hint": "Roosevelt was very ill and died two months later. It was the second and last meeting of these three men; the first had been in 1943.",
+      "explanation": "At Yalta, in Crimea, the three leaders agreed to divide Germany into zones of occupation and to call the conference that founded the United Nations. They also agreed on how the great powers would vote in the Security Council. Roosevelt died on 12 April 1945.",
+      "image": {
+        "src": "images/day-014/p05.jpg",
+        "alt": "A colour photograph: three leaders sit side by side in a courtyard, one in a grey coat with a cigar, one in a dark cape, one in a military coat and cap. Officers stand behind them.",
+        "width": 1250,
+        "height": 1014,
+        "label": {
+          "artist": "US Army Signal Corps",
+          "title": "Churchill, Roosevelt and Stalin at the Yalta Conference",
+          "date": "9 February 1945",
+          "place": "US National Archives"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_1945_Churchill,_Stalin,_Roosevelt.jpg"
+      },
+      "sources": [
+        { "label": "US Office of the Historian, The Yalta Conference, 1945", "url": "https://history.state.gov/milestones/1937-1945/yalta-conf" },
+        { "label": "US Office of the Historian, FRUS, Conferences at Malta and Yalta 1945, document 500 (conference communiqué)", "url": "https://history.state.gov/historicaldocuments/frus1945Malta/d500" },
+        { "label": "US Office of the Historian, The Tehran Conference, 1943", "url": "https://history.state.gov/milestones/1937-1945/tehran-conf" },
+        { "label": "Wikipedia, Yalta Conference", "url": "https://en.wikipedia.org/wiki/Yalta_Conference" }
+      ]
+    },
+    {
+      "id": "d014-q06",
+      "difficulty": "medium",
+      "question": "The Bretton Woods conference of July 1944 created the World Bank and which other institution?",
+      "options": [
+        "The European Investment Bank",
+        "The International Monetary Fund",
+        "The World Trade Organization",
+        "The Bank for International Settlements"
+      ],
+      "answer": 1,
+      "hint": "It watches over the world's money system and lends to countries that run short of money to pay other countries. Like the World Bank, it is based in Washington.",
+      "explanation": "Delegates of 44 countries met in a hotel at Bretton Woods, New Hampshire. They also tied their currencies to the US dollar, and the dollar to gold, a system that lasted until 1971. The British economist John Maynard Keynes was the best-known voice at the conference.",
+      "image": {
+        "src": "images/day-014/p06.jpg",
+        "alt": "An old colour postcard: a very large white hotel with red roofs in front of snow-covered mountains.",
+        "width": 1123,
+        "height": 699,
+        "label": {
+          "artist": "Detroit Publishing Company (postcard)",
+          "title": "The Mount Washington Hotel, Bretton Woods, New Hampshire",
+          "date": "about 1900–1910",
+          "place": "New York Public Library"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Mt._Washington_Hotel,_Bretton_Woods,_N._H_(NYPL_b12647398-74005).tiff"
+      },
+      "sources": [
+        { "label": "US Office of the Historian, Bretton Woods-GATT, 1941–1947", "url": "https://history.state.gov/milestones/1937-1945/bretton-woods" },
+        { "label": "World Bank Archives, Bretton Woods and the Birth of the World Bank", "url": "https://www.worldbank.org/en/archive/history/exhibits/Bretton-Woods-and-the-Birth-of-the-World-Bank" },
+        { "label": "IMF, History timeline", "url": "https://www.imf.org/external/about/timeline/index.htm" },
+        { "label": "Wikipedia, Bretton Woods Conference", "url": "https://en.wikipedia.org/wiki/Bretton_Woods_Conference" }
+      ]
+    },
+    {
+      "id": "d014-q07",
+      "difficulty": "medium",
+      "question": "Who chaired the United Nations commission that wrote the Universal Declaration of Human Rights, adopted in 1948?",
+      "options": [
+        "Eleanor Roosevelt",
+        "Golda Meir",
+        "Indira Gandhi",
+        "Vijaya Lakshmi Pandit"
+      ],
+      "answer": 0,
+      "hint": "She was the widow of an American president and had been First Lady for twelve years.",
+      "explanation": "The General Assembly adopted the Declaration in Paris on 10 December 1948, with no votes against and eight abstentions. Its first article begins: \"All human beings are born free and equal in dignity and rights.\" The Indian delegate Hansa Mehta had the words \"all men\" changed to \"all human beings\".",
+      "image": {
+        "src": "images/day-014/p07.jpg",
+        "alt": "A black-and-white photograph: a woman with a pearl necklace holds up a very large printed sheet headed \"The Universal Declaration of Human Rights\".",
+        "width": 1230,
+        "height": 955,
+        "label": {
+          "artist": "Unknown photographer",
+          "title": "Eleanor Roosevelt with the Universal Declaration of Human Rights, Lake Success, New York",
+          "date": "November 1949",
+          "place": "Franklin D. Roosevelt Presidential Library, US National Archives"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_and_United_Nations_Universal_Declaration_of_Human_Rights,_Lake_Success,_New_York_-_DPLA_-_88c8658b95a92d79f8450045936d5683.jpg"
+      },
+      "sources": [
+        { "label": "United Nations, History of the Declaration", "url": "https://www.un.org/en/about-us/udhr/history-of-the-declaration" },
+        { "label": "United Nations, Universal Declaration of Human Rights (text)", "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights" },
+        { "label": "United Nations, Women who shaped the Universal Declaration", "url": "https://www.un.org/en/observances/human-rights-day/women-who-shaped-the-universal-declaration" },
+        { "label": "Wikipedia, Universal Declaration of Human Rights", "url": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights" }
+      ]
+    },
+    {
+      "id": "d014-q08",
+      "difficulty": "medium",
+      "question": "The United Nations has six official languages. Five are Chinese, English, French, Russian and Spanish. Which is the sixth?",
+      "options": [
+        "Arabic",
+        "German",
+        "Hindi",
+        "Portuguese"
+      ],
+      "answer": 0,
+      "hint": "It was the last of the six to be added, in 1973, the year of an oil crisis.",
+      "explanation": "Arabic became an official language of the General Assembly in 1973. The other five have been official since the 1940s. Speeches are translated live into all six, but the daily work of the UN offices is done in English and French.",
+      "image": null,
+      "sources": [
+        { "label": "UN Dag Hammarskjöld Library, What are the official languages of the United Nations?", "url": "https://ask.un.org/faq/14463" },
+        { "label": "United Nations, Official Languages", "url": "https://www.un.org/en/our-work/official-languages" }
+      ]
+    },
+    {
+      "id": "d014-q09",
+      "difficulty": "hard",
+      "question": "From 1949 until October 1971 the seat of China at the United Nations was held by a government based in which city?",
+      "options": [
+        "Hong Kong",
+        "Nanjing",
+        "Taipei",
+        "Shanghai"
+      ],
+      "answer": 2,
+      "hint": "This government had lost the civil war in 1949 and moved to an island. Its leader was Chiang Kai-shek.",
+      "explanation": "The Republic of China was a founding member of the UN in 1945. After the communist victory of 1949 its government moved to Taiwan but kept the seat, and the veto, for 22 more years. On 25 October 1971 the General Assembly gave the seat to the People's Republic of China, by resolution 2758.",
+      "image": {
+        "src": "images/day-014/p09.jpg",
+        "alt": "A black-and-white portrait of a man with a shaved head and a small moustache, in a dark dress uniform with epaulettes and many medals.",
+        "width": 1280,
+        "height": 1694,
+        "label": {
+          "artist": "Unknown photographer",
+          "title": "Chiang Kai-shek",
+          "date": "about 1943",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg"
+      },
+      "sources": [
+        { "label": "United Nations, UN Charter, Chapter V (Article 23)", "url": "https://www.un.org/en/about-us/un-charter/chapter-5" },
+        { "label": "United Nations, Growth in United Nations membership", "url": "https://www.un.org/en/about-us/growth-in-un-membership" },
+        { "label": "UN Digital Library, General Assembly resolution 2758 (XXVI)", "url": "https://digitallibrary.un.org/record/192054" },
+        { "label": "Wikipedia, United Nations General Assembly Resolution 2758", "url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2758" }
+      ]
+    },
+    {
+      "id": "d014-q10",
+      "difficulty": "hard",
+      "question": "In which year did Switzerland become a member of the United Nations?",
+      "options": [
+        "1945",
+        "1973",
+        "1992",
+        "2002"
+      ],
+      "answer": 3,
+      "hint": "The Swiss voted on it twice. In 1986 three voters in four said no; the second time a majority said yes.",
+      "explanation": "Switzerland stayed out for decades to protect its neutrality, although the UN had its European office in Geneva. In a referendum on 3 March 2002, 54.6% of voters said yes, and the country joined on 10 September 2002. It is the only country that has joined the UN after a vote of its people.",
+      "image": {
+        "src": "images/day-014/p10.png",
+        "alt": "A square red flag with a white cross in the centre.",
+        "width": 1280,
+        "height": 1280,
+        "label": {
+          "artist": "Drawing by Wikimedia Commons contributors",
+          "title": "Flag of Switzerland",
+          "date": "In use since the 19th century",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland.svg"
+      },
+      "sources": [
+        { "label": "Swiss Federal Chancellery, Volksabstimmung vom 03.03.2002", "url": "https://www.bk.admin.ch/de/volksabstimmung?date=2002-03-03" },
+        { "label": "Swiss Federal Chancellery, Volksabstimmung vom 16.03.1986", "url": "https://www.bk.admin.ch/de/volksabstimmung?date=1986-03-16" },
+        { "label": "Swiss FDFA, Permanent Mission in Geneva, 20 years of Switzerland joining the UN", "url": "https://www.mission-geneve.dfae.admin.ch/en/20-years-of-switzerland-joining-the-un" },
+        { "label": "Wikipedia, 2002 Swiss referendums", "url": "https://en.wikipedia.org/wiki/2002_Swiss_referendums" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": "day-008",
+  "number": 8,
+  "theme": "Art history",
+  "title": "Florence in the 1400s",
+  "questions": [
+    {
+      "id": "d008-q01",
+      "difficulty": "easy",
+      "question": "Who painted The Birth of Venus in Florence in about 1485?",
+      "options": [
+        "Filippo Lippi",
+        "Andrea Mantegna",
+        "Sandro Botticelli",
+        "Piero della Francesca"
+      ],
+      "answer": 2,
+      "hint": "He also painted the Primavera. The two pictures hang in the same museum in Florence, the Uffizi.",
+      "explanation": "It is painted on canvas, which in the 1400s was used above all for pictures made to decorate great houses. The goddess arrives on a shell, blown to the shore by the winds. Her pose comes from ancient statues of Venus.",
+      "image": {
+        "src": "images/day-008/p01.jpg",
+        "alt": "A painting: a nude woman with long golden hair stands on a large shell on the sea. Two winged figures blow towards her, and a woman on the shore holds out a flowered cloak.",
+        "width": 1280,
+        "height": 804,
+        "label": {
+          "artist": "Sandro Botticelli",
+          "title": "The Birth of Venus",
+          "date": "about 1485",
+          "place": "Uffizi Gallery, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+      },
+      "sources": [
+        { "label": "Uffizi, Birth of Venus", "url": "https://www.uffizi.it/en/artworks/birth-of-venus" },
+        { "label": "Uffizi, Spring (Primavera)", "url": "https://www.uffizi.it/en/artworks/botticelli-spring" },
+        { "label": "Wikipedia, The Birth of Venus", "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus" }
+      ]
+    },
+    {
+      "id": "d008-q02",
+      "difficulty": "easy",
+      "question": "Who designed the dome of Florence Cathedral, built between 1420 and 1436?",
+      "options": [
+        "Leon Battista Alberti",
+        "Filippo Brunelleschi",
+        "Lorenzo Ghiberti",
+        "Michelozzo"
+      ],
+      "answer": 1,
+      "hint": "He trained as a goldsmith and studied the ancient buildings of Rome. He is buried in the cathedral itself.",
+      "explanation": "Brunelleschi built the dome without the wooden frame that builders normally used to hold up a vault during the work. It has two shells, one inside the other, and more than four million bricks. It is still the largest brick dome in the world.",
+      "image": {
+        "src": "images/day-008/p02.jpg",
+        "alt": "An old sepia photograph of a cathedral with a huge ribbed dome and a tall square bell tower, rising above the roofs of a city.",
+        "width": 1280,
+        "height": 951,
+        "label": {
+          "artist": "Fratelli Alinari (photograph)",
+          "title": "Florence Cathedral with Brunelleschi's dome and Giotto's bell tower",
+          "date": "1860s",
+          "place": "Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Fratelli_Alinari_Duomo_Firenze_c1860s.jpg"
+      },
+      "sources": [
+        { "label": "Museo Galileo, The Dome of Santa Maria del Fiore", "url": "https://brunelleschi.imss.fi.it/itineraries/place/TheDomeOfSantaMariaFiore.html" },
+        { "label": "Museo Galileo, The dome structure", "url": "https://brunelleschi.imss.fi.it/itineraries/multimedia/TheDomeStructure.html" },
+        { "label": "Treccani, Brunelleschi, Filippo (Enciclopedia on line)", "url": "https://www.treccani.it/enciclopedia/filippo-brunelleschi/" },
+        { "label": "Wikipedia, Florence Cathedral", "url": "https://en.wikipedia.org/wiki/Florence_Cathedral" }
+      ]
+    },
+    {
+      "id": "d008-q03",
+      "difficulty": "easy",
+      "question": "Which hero of the Bible does this bronze statue by Donatello show?",
+      "options": [
+        "David",
+        "Gideon",
+        "Joshua",
+        "Samson"
+      ],
+      "answer": 0,
+      "hint": "Under his foot lies the head of the giant he has just killed with a sling and a stone.",
+      "explanation": "Donatello made the statue around 1440, probably for the Medici; the exact date is not known. It is thought to be the first free-standing nude male statue made since ancient times. It is in the Bargello museum in Florence. Michelangelo's much larger David, finished in 1504, is carved in marble.",
+      "image": {
+        "src": "images/day-008/p03.jpg",
+        "alt": "An old photograph of a dark metal statue: a nude young man in a hat, with long hair, holds a large sword. A bearded head lies at his feet.",
+        "width": 1280,
+        "height": 1667,
+        "label": {
+          "artist": "Donatello",
+          "title": "David, seen in a 19th-century photograph",
+          "date": "about 1440; photograph about 1875–1900",
+          "place": "Bargello Museum, Florence; photograph in the Rijksmuseum, Amsterdam"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sculptuur_van_David_door_Donatello_Donatello._David._Bronsfiguur_in_het_Nationaal_Museum_te_Florence._(titel_op_object),_RP-F-00-4378.jpg"
+      },
+      "sources": [
+        { "label": "V&A, Donatello's David", "url": "https://www.vam.ac.uk/articles/donatellos-david" },
+        { "label": "Galleria dell'Accademia di Firenze, David, Michelangelo", "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/" },
+        { "label": "Treccani, Donatello (Enciclopedia dei ragazzi)", "url": "https://www.treccani.it/enciclopedia/donatello_(Enciclopedia-dei-ragazzi)/" },
+        { "label": "Wikipedia, David (Donatello, bronze)", "url": "https://en.wikipedia.org/wiki/David_(Donatello,_bronze)" }
+      ]
+    },
+    {
+      "id": "d008-q04",
+      "difficulty": "easy",
+      "question": "This Baptism of Christ comes from the workshop of Andrea del Verrocchio. The angel on the far left was painted by a young pupil. Who was he?",
+      "options": [
+        "Domenico Ghirlandaio",
+        "Lorenzo di Credi",
+        "Pietro Perugino",
+        "Leonardo da Vinci"
+      ],
+      "answer": 3,
+      "hint": "He was born in 1452 in a small town in the hills west of Florence, and the name of that town is part of his name.",
+      "explanation": "Leonardo entered Verrocchio's workshop as a boy in the 1460s. Vasari tells that when Verrocchio saw his pupil's angel, he decided never to touch a brush again. That is a legend, but the angel and parts of the landscape are accepted as Leonardo's work.",
+      "image": {
+        "src": "images/day-008/p04.jpg",
+        "alt": "A painting: a man pours water over the head of another man who stands in a stream with his hands joined. Two young angels kneel on the left, holding clothes.",
+        "width": 1280,
+        "height": 1525,
+        "label": {
+          "artist": "Andrea del Verrocchio and Leonardo da Vinci",
+          "title": "The Baptism of Christ",
+          "date": "about 1475",
+          "place": "Uffizi Gallery, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Andrea_del_Verrocchio,_Leonardo_da_Vinci_-_Baptism_of_Christ_-_Uffizi.jpg"
+      },
+      "sources": [
+        { "label": "Uffizi, Baptism of Christ (Verrocchio, Leonardo)", "url": "https://www.uffizi.it/en/artworks/verrocchio-leonardo-baptism-of-christ" },
+        { "label": "Treccani, Leonardo da Vinci", "url": "https://www.treccani.it/enciclopedia/leonardo-da-vinci/" },
+        { "label": "Treccani, Andrea del Verrocchio", "url": "https://www.treccani.it/enciclopedia/andrea-del-verrocchio/" },
+        { "label": "Wikipedia, Leonardo da Vinci", "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci" }
+      ]
+    },
+    {
+      "id": "d008-q05",
+      "difficulty": "medium",
+      "question": "Masaccio painted this fresco, the Holy Trinity, in about 1427. It is one of the first paintings to use which technique?",
+      "options": [
+        "Gold-leaf backgrounds",
+        "Linear perspective",
+        "Painting in oils",
+        "Sfumato shading"
+      ],
+      "answer": 1,
+      "hint": "The painted chapel looks like a real opening in the church wall. Brunelleschi had worked out the rules for this effect some years before.",
+      "explanation": "The fresco is in the church of Santa Maria Novella in Florence. The lines of the painted ceiling all meet at one low point, so the chapel seems to open above the viewer. Masaccio died in 1428, aged only about 26.",
+      "image": {
+        "src": "images/day-008/p05.jpg",
+        "alt": "A tall fresco: Christ on the cross under a painted arch with a deep ceiling, God the Father behind him, four figures at the sides and a skeleton on a tomb below.",
+        "width": 1028,
+        "height": 2073,
+        "label": {
+          "artist": "Masaccio",
+          "title": "The Holy Trinity",
+          "date": "about 1425–1427",
+          "place": "Santa Maria Novella, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Masaccio,_trinit%C3%A0.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Masaccio", "url": "https://www.treccani.it/enciclopedia/masaccio/" },
+        { "label": "Web Gallery of Art, Masaccio, Trinity", "url": "https://www.wga.hu/html_m/m/masaccio/trinity/trinity.html" },
+        { "label": "Lumen Learning (Smarthistory text), Masaccio's Holy Trinity", "url": "https://courses.lumenlearning.com/suny-arthistory2/chapter/masaccios-holy-trinity/" },
+        { "label": "Wikipedia, Holy Trinity (Masaccio)", "url": "https://en.wikipedia.org/wiki/Holy_Trinity_(Masaccio)" }
+      ]
+    },
+    {
+      "id": "d008-q06",
+      "difficulty": "medium",
+      "question": "Lorenzo Ghiberti worked for 27 years on these gilded bronze doors for the Baptistery of Florence. According to Vasari, which artist called them the \"Gates of Paradise\"?",
+      "options": [
+        "Donatello",
+        "Raphael",
+        "Michelangelo",
+        "Benvenuto Cellini"
+      ],
+      "answer": 2,
+      "hint": "He saw the doors as a young sculptor in Florence, about forty years after they were finished.",
+      "explanation": "The doors have ten large panels with stories from the Old Testament, and Ghiberti finished them in 1452. The doors on the Baptistery today are copies. The originals have been restored and are kept in the cathedral museum close by.",
+      "image": {
+        "src": "images/day-008/p06.jpg",
+        "alt": "An old photograph of a pair of tall metal doors with ten square panels full of small figures, framed by statuettes and bands of leaves.",
+        "width": 1280,
+        "height": 1813,
+        "label": {
+          "artist": "Lorenzo Ghiberti",
+          "title": "The Gates of Paradise, seen in a 19th-century photograph",
+          "date": "1425–1452; photograph about 1860–1900",
+          "place": "Museo dell'Opera del Duomo, Florence; photograph in the Rijksmuseum, Amsterdam"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Porta_del_Paradiso_(Paradijsdeuren)_van_het_Baptisterium_van_de_kathedraal_van_Florence_Firenze_-_Battistero._Porta_in_bronzo_all%27est_(Lorenzo_Ghiberti)_(titel_op_object),_RP-F-F01125-15.jpg"
+      },
+      "sources": [
+        { "label": "Nelson-Atkins Museum, The Original Gates of Paradise", "url": "https://nelson-atkins.org/gates/original.html" },
+        { "label": "Nelson-Atkins Museum, About the Gates of Paradise", "url": "https://nelson-atkins.org/gates/about.html" },
+        { "label": "Nelson-Atkins Museum, The Gates of Paradise", "url": "https://nelson-atkins.org/gates-of-paradise/" },
+        { "label": "Wikipedia, Florence Baptistery", "url": "https://en.wikipedia.org/wiki/Florence_Baptistery" }
+      ]
+    },
+    {
+      "id": "d008-q07",
+      "difficulty": "medium",
+      "question": "Fra Angelico painted this Annunciation at the top of the stairs in the Florence convent where he lived as a friar. Which convent is it, now a museum?",
+      "options": [
+        "San Marco",
+        "Santa Croce",
+        "Santo Spirito",
+        "San Miniato al Monte"
+      ],
+      "answer": 0,
+      "hint": "Cosimo de' Medici paid to rebuild it and kept a cell there for himself. Fifty years later Savonarola was its prior.",
+      "explanation": "Fra Angelico was a Dominican friar. Around 1440 he and his helpers painted a fresco in each friar's cell, as an aid to prayer. The architect of the new convent was Michelozzo, who also built the Medici palace.",
+      "image": {
+        "src": "images/day-008/p07.jpg",
+        "alt": "A fresco: under a loggia with white columns, an angel with many-coloured wings bows to a young woman in a blue cloak, who sits on a wooden stool.",
+        "width": 1275,
+        "height": 900,
+        "label": {
+          "artist": "Fra Angelico",
+          "title": "The Annunciation",
+          "date": "about 1440–1445",
+          "place": "Museum of San Marco, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_The_Annunciation_-_WGA00555.jpg"
+      },
+      "sources": [
+        { "label": "Finestre sull'Arte, The Museum of San Marco in Florence", "url": "https://www.finestresullarte.info/en/museums/the-museum-of-san-marco-in-florence-the-former-convent-of-beato-angelico" },
+        { "label": "Visit Tuscany (Regione Toscana), The San Marco Museum", "url": "https://www.visittuscany.com/en/attractions/the-san-marco-museum/" },
+        { "label": "The Conversation, Florence's San Marco Museum", "url": "https://theconversation.com/if-i-could-go-anywhere-florences-san-marco-museum-where-mystical-faith-and-classical-knowledge-meet-157863" },
+        { "label": "Wikipedia, San Marco, Florence", "url": "https://en.wikipedia.org/wiki/San_Marco,_Florence" }
+      ]
+    },
+    {
+      "id": "d008-q08",
+      "difficulty": "medium",
+      "question": "In 1481 the pope called Botticelli and other Florentine painters to Rome. On the walls of which chapel did they paint scenes like this one?",
+      "options": [
+        "The Chigi Chapel",
+        "The Niccoline Chapel",
+        "The Pauline Chapel",
+        "The Sistine Chapel"
+      ],
+      "answer": 3,
+      "hint": "The same chapel is much more famous for its ceiling, painted about thirty years later by another artist from Florence.",
+      "explanation": "Pope Sixtus IV had the chapel built, and it is named after him. Botticelli painted three of the large scenes on its walls, next to works by Perugino and Ghirlandaio. Michelangelo painted the ceiling later, between 1508 and 1512.",
+      "image": {
+        "src": "images/day-008/p08.jpg",
+        "alt": "A wide fresco crowded with figures in rich robes in front of a building like a temple, with hills, trees and small scenes in the background.",
+        "width": 1280,
+        "height": 797,
+        "label": {
+          "artist": "Sandro Botticelli",
+          "title": "The Temptations of Christ",
+          "date": "1481–1482",
+          "place": "Sistine Chapel, Vatican City"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:05_Tentaciones_de_Cristo_(Botticelli).jpg"
+      },
+      "sources": [
+        { "label": "Musei Vaticani, Sistine Chapel, history", "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/storia-cappella-sistina.html" },
+        { "label": "Musei Vaticani, Sistine Chapel, south wall", "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/parete-sud.html" },
+        { "label": "Musei Vaticani, Sistine Chapel, north wall", "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/parete-nord.html" },
+        { "label": "Wikipedia, Sandro Botticelli", "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli" }
+      ]
+    },
+    {
+      "id": "d008-q09",
+      "difficulty": "hard",
+      "question": "Masaccio's Tribute Money, of about 1425, is in the church of Santa Maria del Carmine in Florence. The chapel is named after the family that paid for the frescoes. Which family?",
+      "options": [
+        "Brancacci",
+        "Pazzi",
+        "Sassetti",
+        "Tornabuoni"
+      ],
+      "answer": 0,
+      "hint": "The man who ordered the frescoes was a silk merchant. In 1435 he was exiled as an enemy of the Medici.",
+      "explanation": "Masaccio worked in the chapel with an older painter, Masolino. The young Michelangelo came here to draw from these figures. Felice Brancacci, who ordered the frescoes, was exiled in 1435, and Filippino Lippi finished the walls about fifty years later.",
+      "image": {
+        "src": "images/day-008/p09.jpg",
+        "alt": "A fresco: a group of men in long robes stand around a central figure, by a lake with bare mountains. On the right one man hands a coin to another.",
+        "width": 1280,
+        "height": 591,
+        "label": {
+          "artist": "Masaccio",
+          "title": "The Tribute Money",
+          "date": "about 1425",
+          "place": "Brancacci Chapel, Santa Maria del Carmine, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Tribute_Money_by_Masaccio.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Brancacci, Felice (Dizionario Biografico)", "url": "https://www.treccani.it/enciclopedia/felice-brancacci_(Dizionario-Biografico)/" },
+        { "label": "Treccani, Masaccio", "url": "https://www.treccani.it/enciclopedia/masaccio/" },
+        { "label": "Treccani, Masolino da Panicale", "url": "https://www.treccani.it/enciclopedia/masolino-da-panicale/" },
+        { "label": "Wikipedia, Brancacci Chapel", "url": "https://en.wikipedia.org/wiki/Brancacci_Chapel" }
+      ]
+    },
+    {
+      "id": "d008-q10",
+      "difficulty": "hard",
+      "question": "Paolo Uccello painted three large panels of the Battle of San Romano. One is in the Uffizi in Florence and one is in the Louvre in Paris. Where is the third?",
+      "options": [
+        "The Prado, Madrid",
+        "The Alte Pinakothek, Munich",
+        "The National Gallery, London",
+        "The Metropolitan Museum, New York"
+      ],
+      "answer": 2,
+      "hint": "All three once hung in one room of the Medici palace. This panel was sold in the 19th century and has been in the same museum since 1857.",
+      "explanation": "The battle was fought in 1432 between Florence and Siena. Lorenzo de' Medici wanted the pictures for his own palace. The Uffizi says he bought them; the National Gallery says he had them taken by force. Uccello loved perspective: look at the broken lances lying on the ground.",
+      "image": {
+        "src": "images/day-008/p10.jpg",
+        "alt": "A painting of a battle: knights in armour on rearing horses, a commander in a red and gold hat on a white horse, long lances in the air and broken lances on the ground.",
+        "width": 1280,
+        "height": 724,
+        "label": {
+          "artist": "Paolo Uccello",
+          "title": "The Battle of San Romano: Niccolò da Tolentino Leads the Florentine Troops",
+          "date": "about 1438–1440",
+          "place": "National Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:San_Romano_Battle_(Paolo_Uccello,_London)_01.jpg"
+      },
+      "sources": [
+        { "label": "National Gallery, London, Uccello, Niccolò Mauruzi da Tolentino at the Battle of San Romano", "url": "https://www.nationalgallery.org.uk/paintings/paolo-uccello-the-battle-of-san-romano" },
+        { "label": "Uffizi, Battle of San Romano", "url": "https://www.uffizi.it/en/artworks/battle-of-san-romano" },
+        { "label": "Treccani, Paolo Uccello", "url": "https://www.treccani.it/enciclopedia/paolo-uccello/" }
+      ]
+    }
+  ]
+}

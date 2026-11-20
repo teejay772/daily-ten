@@ -48,6 +48,55 @@
       "theme": "Geopolitics",
       "title": "UN, NATO and the EU",
       "file": "days/day-007.json"
+    },
+    {
+      "id": "day-008",
+      "number": 8,
+      "theme": "Art history",
+      "title": "Florence in the 1400s",
+      "file": "days/day-008.json"
+    },
+    {
+      "id": "day-009",
+      "number": 9,
+      "theme": "Literature",
+      "title": "Shakespeare's tragedies",
+      "file": "days/day-009.json"
+    },
+    {
+      "id": "day-010",
+      "number": 10,
+      "theme": "Italian history",
+      "title": "Communes and maritime republics",
+      "file": "days/day-010.json"
+    },
+    {
+      "id": "day-011",
+      "number": 11,
+      "theme": "Great books",
+      "title": "Dante, Inferno",
+      "file": "days/day-011.json"
+    },
+    {
+      "id": "day-012",
+      "number": 12,
+      "theme": "French history",
+      "title": "The Hundred Years' War and Joan of Arc",
+      "file": "days/day-012.json"
+    },
+    {
+      "id": "day-013",
+      "number": 13,
+      "theme": "Geography",
+      "title": "Countries and capitals of Asia",
+      "file": "days/day-013.json"
+    },
+    {
+      "id": "day-014",
+      "number": 14,
+      "theme": "Geopolitics",
+      "title": "The UN and the world after 1945",
+      "file": "days/day-014.json"
     }
   ]
 }
