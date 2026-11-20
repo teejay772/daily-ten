@@ -184,6 +184,20 @@ h1, h2, h3 { text-wrap: balance; line-height: 1.15; }
 .today h1 { font-family: var(--font-label); font-size: clamp(var(--step-3), 5vw, var(--step-4)); }
 .today .meta { color: var(--ink-soft); }
 
+.choose { display: grid; gap: 16px; }
+.choose h3 { font-size: 1.5em; }
+.theme-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+@media (max-width: 700px) { .theme-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.theme-btn { display: flex; justify-content: space-between; align-items: center; gap: 10px; text-align: left; }
+.theme-btn > span:first-child { min-width: 0; overflow-wrap: anywhere; }
+.theme-btn[aria-pressed="true"] { background: var(--ink); color: var(--card); }
+.theme-btn[aria-pressed="true"]:hover { background: var(--ink-soft); border-color: var(--ink-soft); }
+.theme-count { font-variant-numeric: tabular-nums; color: var(--ink-soft); }
+.theme-btn[aria-pressed="true"] .theme-count { color: inherit; }
+.topic-list { display: grid; gap: 8px; }
+.topic { width: 100%; text-align: left; overflow-wrap: anywhere; }
+.topic.is-played { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px; color: var(--ink-soft); padding-left: 19.5px; }
+
 .board { display: grid; gap: 18px; }
 .board-players { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
 .board-player { border-top: 4px solid var(--line); padding-top: 12px; display: grid; gap: 2px; min-width: 0; }

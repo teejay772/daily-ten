@@ -13,6 +13,7 @@ Open the site, enter two names, and press "Play Day 1".
 
 - On a laptop the left player answers with keys `1 2 3 4` and the right player with `7 8 9 0`.
 - On a tablet each player taps their own row of A B C D buttons.
+- To pick what you play, tap a theme under "Choose the theme to play", then a topic. The day at the top is only a proposal.
 - The score is saved in the browser on the device you play on. Use "Names and backup" to keep a copy.
 
 ## How it is built

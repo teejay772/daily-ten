@@ -7,6 +7,7 @@ import {
 } from './game.js';
 import {
   emptyState, saveState, recordDay, nextUnplayedDay, summary, exportBackup, importBackup,
+  themeMenu, playerDayNumber,
 } from './store.js';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
@@ -58,6 +59,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
     session: null,
     practice: false,
     homeError: null,
+    pickedTheme: null,    // the theme opened under "Choose the theme to play"
     message: null,        // { tone: 'good' | 'bad' | 'info', text } on the backup screen
     confirm: null,        // { kind: 'restore', incoming } | { kind: 'reset' }
     restoreText: '',
@@ -92,6 +94,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
   }
 
   async function openDay(entry, { practice = false, session = null } = {}) {
+    app.pickedTheme = null;
     app.homeError = null;
     try {
       const day = await loadDay(entry);
@@ -104,7 +107,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
       go('question');
     } catch (error) {
       console.error(error);
-      app.homeError = `Day ${entry.number} could not be loaded. Check your connection and try again.`;
+      app.homeError = `"${entry.title}" could not be loaded. Check your connection and try again.`;
       go('home');
     }
   }
@@ -193,30 +196,37 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
 
   // ---------- home ----------
 
-  function todayCard() {
-    const inProgress = app.state.inProgress
-      ? dayList.find((d) => d.id === app.state.inProgress.dayId)
+  // Days can be played in any order, so the number on the screen is the players' own count.
+  const dayNo = (id) => playerDayNumber(app.state, id);
+
+  function pausedDay() {
+    return app.state.inProgress
+      ? dayList.find((d) => d.id === app.state.inProgress.dayId) || null
       : null;
+  }
+
+  function todayCard() {
+    const inProgress = pausedDay();
 
     if (inProgress) {
       const at = Math.min(app.state.inProgress.index + 1, 10);
       return h('section', { class: 'card today' },
-        h('p', { class: 'eyebrow' }, `Day ${inProgress.number} · ${inProgress.theme} · in progress`),
+        h('p', { class: 'eyebrow' }, `Day ${dayNo(inProgress.id)} · ${inProgress.theme} · in progress`),
         h('h1', {}, inProgress.title),
         h('p', { class: 'meta' }, `You stopped at question ${at} of 10. Your answers so far are saved.`),
         h('div', {}, h('button', {
           class: 'btn btn-primary',
           onclick: () => openDay(inProgress, { session: app.state.inProgress }),
-        }, `Continue Day ${inProgress.number}`)));
+        }, `Continue Day ${dayNo(inProgress.id)}`)));
     }
 
     const upcoming = nextUnplayedDay(app.state, dayList);
     if (upcoming) {
       return h('section', { class: 'card today' },
-        h('p', { class: 'eyebrow' }, `Day ${upcoming.number} · ${upcoming.theme}`),
+        h('p', { class: 'eyebrow' }, `Day ${dayNo(upcoming.id)} · ${upcoming.theme}`),
         h('h1', {}, upcoming.title),
         h('p', { class: 'meta' }, 'Ten questions, about 30 minutes.'),
-        h('div', {}, h('button', { class: 'btn btn-primary', onclick: () => openDay(upcoming) }, `Play Day ${upcoming.number}`)));
+        h('div', {}, h('button', { class: 'btn btn-primary', onclick: () => openDay(upcoming) }, `Play Day ${dayNo(upcoming.id)}`)));
     }
 
     if (dayList.length === 0) {
@@ -225,15 +235,50 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
         h('p', { class: 'meta' }, 'This copy of the game has no question days in it.'));
     }
 
-    const last = dayList[dayList.length - 1];
     return h('section', { class: 'card today' },
       h('p', { class: 'eyebrow' }, 'All caught up'),
       h('h1', {}, dayList.length === 1 ? 'You have played Day 1' : `You have played all ${dayList.length} days`),
-      h('p', { class: 'meta' }, 'New days arrive in weekly batches. Until then you can replay a day for practice; a replay does not change the score.'),
-      h('div', {}, h('button', {
-        class: 'btn',
-        onclick: () => openDay(last, { practice: true }),
-      }, `Practise Day ${last.number} again`)));
+      h('p', { class: 'meta' }, 'New days arrive in weekly batches. Until then you can practise any topic below. Practice does not change the score.'));
+  }
+
+  function pickTheme(theme) {
+    app.pickedTheme = app.pickedTheme === theme ? null : theme;
+    render();
+    const button = [...root.querySelectorAll('.theme-btn')].find((b) => b.dataset.theme === theme);
+    if (button) button.focus();
+  }
+
+  function chooseCard() {
+    if (dayList.length === 0 || pausedDay()) return null;
+    const menu = themeMenu(app.state, dayList);
+    const picked = menu.find((t) => t.theme === app.pickedTheme) || null;
+    return h('section', { class: 'card choose' },
+      h('h2', {}, 'Choose the theme to play'),
+      h('div', { class: 'theme-grid' },
+        menu.map((t) => h('button', {
+          class: 'btn theme-btn',
+          type: 'button',
+          'data-theme': t.theme,
+          'aria-pressed': picked === t ? 'true' : 'false',
+          'aria-label': t.left > 0 ? `${t.theme}, ${plural(t.left, 'topic', 'topics')} left` : `${t.theme}, all played`,
+          onclick: () => pickTheme(t.theme),
+        },
+        h('span', {}, t.theme),
+        h('span', { class: 'theme-count' }, t.left > 0 ? t.left : '✓')))),
+      picked ? [
+        h('h3', {}, 'Choose the topic'),
+        h('div', { class: 'topic-list' },
+          picked.topics.map(({ entry, played }) => (played
+            ? h('div', { class: 'topic is-played' },
+              h('span', {}, `✓ ${entry.title}`),
+              h('button', {
+                class: 'btn btn-quiet',
+                type: 'button',
+                'aria-label': `Practise ${entry.title}`,
+                onclick: () => openDay(entry, { practice: true }),
+              }, 'Practise'))
+            : h('button', { class: 'btn topic', type: 'button', onclick: () => openDay(entry) }, entry.title)))),
+      ] : null);
   }
 
   function boardCard() {
@@ -264,7 +309,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
   }
 
   function historyCard() {
-    const rows = [...app.state.history].reverse();
+    const rows = app.state.history.map((e, i) => ({ e, place: i + 1 })).reverse();
     if (rows.length === 0) return null;
     return h('section', { class: 'card stack' },
       h('h2', {}, 'Days played'),
@@ -274,11 +319,11 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
             h('th', {}, 'Day'), h('th', {}, 'Played'), h('th', {}, 'Topic'),
             h('th', { class: 'n' }, name('a')), h('th', { class: 'n' }, name('b')),
             h('th', {}, 'Winner'), h('th', {}, ''))),
-          h('tbody', {}, rows.map((e) => {
+          h('tbody', {}, rows.map(({ e, place }) => {
             const entry = dayList.find((d) => d.id === e.dayId);
             const winner = e.totals.a === e.totals.b ? 'Tie' : name(e.totals.a > e.totals.b ? 'a' : 'b');
             return h('tr', {},
-              h('td', {}, e.number),
+              h('td', {}, place),
               h('td', {}, formatDate(e.playedOn)),
               h('td', {}, `${e.theme}: ${e.title}`),
               h('td', { class: 'n' }, e.totals.a),
@@ -298,6 +343,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
         app.persistent ? null : h('p', { class: 'notice' },
           'Scores are not being saved on this device. The browser is blocking storage, so the score will be lost when this page closes.'),
         todayCard(),
+        chooseCard(),
         boardCard(),
         historyCard()),
     ];
@@ -401,7 +447,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
 
     const bar = h('header', { class: 'qbar' },
       h('div', {},
-        h('p', { class: 'eyebrow' }, `Day ${day.number} · ${day.theme}${app.practice ? ' · practice' : ''}`),
+        h('p', { class: 'eyebrow' }, `Day ${dayNo(day.id)} · ${day.theme}${app.practice ? ' · practice' : ''}`),
         h('strong', {}, `Question ${session.index + 1} of ${day.questions.length}`)),
       h('div', { class: 'qbar-score num' },
         PLAYERS.map((p) => h('span', { class: `name-${p}` }, `${name(p)} ${score[p]}`))),
@@ -467,7 +513,7 @@ export function startApp({ root, dayList, loadDay, storage, state, persistent, p
       h('main', { class: 'stack-lg' },
         h('section', { class: 'card final stack-lg' },
           h('div', { class: 'stack' },
-            h('p', { class: 'eyebrow' }, `Day ${day.number} · ${day.theme} · result`),
+            h('p', { class: 'eyebrow' }, `Day ${dayNo(day.id)} · ${day.theme} · result`),
             h('h1', {}, headline)),
           app.practice
             ? h('p', { class: 'notice' }, 'This was a practice round. The all-time score has not changed.')
