@@ -87,6 +87,29 @@ export function nextUnplayedDay(state, dayList) {
   return open.length > 0 ? open[0] : null;
 }
 
+// What the home screen offers for choosing: every theme in the index, in the order of the
+// score table, with its topics in rising day order and a count of those not yet played.
+export function themeMenu(state, dayList) {
+  const played = new Set(state.history.map((e) => e.dayId));
+  // A Map, for the same reason as in summary(): a theme may be named like a built-in property.
+  const themes = new Map();
+  for (const entry of [...dayList].sort((x, y) => x.number - y.number)) {
+    if (!themes.has(entry.theme)) themes.set(entry.theme, []);
+    themes.get(entry.theme).push({ entry, played: played.has(entry.id) });
+  }
+  return [...themes.keys()].sort().map((theme) => {
+    const topics = themes.get(theme);
+    return { theme, left: topics.filter((t) => !t.played).length, topics };
+  });
+}
+
+// The number the players see for a day. Days can be played in any order, so this is
+// their own count, not the day's number in the catalogue.
+export function playerDayNumber(state, dayId) {
+  const place = state.history.findIndex((e) => e.dayId === dayId);
+  return place === -1 ? state.history.length + 1 : place + 1;
+}
+
 export function summary(state) {
   const out = { daysPlayed: state.history.length, points: { a: 0, b: 0 }, dayWins: { a: 0, b: 0, ties: 0 }, byTheme: {} };
   // A Map, because a theme may be any text, including names such as "constructor"

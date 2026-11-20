@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   STORAGE_KEY, emptyState, loadState, saveState, recordDay,
-  nextUnplayedDay, summary, exportBackup, importBackup,
+  nextUnplayedDay, summary, exportBackup, importBackup, themeMenu, playerDayNumber,
 } from '../js/store.js';
 
 const fakeStorage = () => {
@@ -96,6 +96,50 @@ test('the next unplayed day is the lowest number not in the history', () => {
   state = play(play(state, dayList[2], 5, 5), dayList[1], 5, 5);
   assert.equal(nextUnplayedDay(state, dayList), null);
   assert.equal(nextUnplayedDay(emptyState(), []), null);
+});
+
+test('the theme menu groups days by theme, in the order of the score table', () => {
+  const menu = themeMenu(emptyState(), dayList);
+  assert.deepEqual(menu.map((t) => [t.theme, t.left, t.topics.map((x) => x.entry.id)]), [
+    ['Art history', 2, ['day-001', 'day-003']],
+    ['Literature', 1, ['day-002']],
+  ]);
+});
+
+test('a played day is ticked in the menu and no longer counted as left', () => {
+  let state = play(emptyState(), dayList[2], 5, 5);
+  const art = themeMenu(state, dayList).find((t) => t.theme === 'Art history');
+  assert.equal(art.left, 1);
+  assert.deepEqual(art.topics.map((x) => x.played), [false, true]);
+  state = play(state, dayList[1], 5, 5);
+  const literature = themeMenu(state, dayList).find((t) => t.theme === 'Literature');
+  assert.equal(literature.left, 0, 'a theme with nothing left stays in the menu');
+  assert.equal(literature.topics.length, 1);
+});
+
+test('the theme menu copes with odd theme names, a stale history and an empty index', () => {
+  assert.deepEqual(themeMenu(emptyState(), []), []);
+  const odd = [
+    { id: 'd1', number: 2, theme: 'constructor', title: 'A' },
+    { id: 'd2', number: 1, theme: '__proto__', title: 'B' },
+    { id: 'd3', number: 3, theme: 'constructor', title: 'A' },
+  ];
+  assert.deepEqual(themeMenu(emptyState(), odd).map((t) => [t.theme, t.left]),
+    [['__proto__', 1], ['constructor', 2]]);
+  const stale = play(emptyState(), { id: 'gone', number: 9, theme: 'Old', title: 'Gone' }, 5, 5);
+  assert.deepEqual(themeMenu(stale, dayList).map((t) => [t.theme, t.left]),
+    [['Art history', 2], ['Literature', 1]]);
+});
+
+test("a day's number for the players is its place in their own history", () => {
+  let state = emptyState();
+  assert.equal(playerDayNumber(state, 'day-003'), 1);
+  state = play(state, dayList[2], 5, 5);
+  assert.equal(playerDayNumber(state, 'day-003'), 1);
+  assert.equal(playerDayNumber(state, 'day-001'), 2);
+  state = play(state, dayList[0], 5, 5);
+  assert.equal(playerDayNumber(state, 'day-001'), 2);
+  assert.equal(playerDayNumber(state, 'day-002'), 3);
 });
 
 test('the summary adds up points, day wins, ties and accuracy by theme', () => {
