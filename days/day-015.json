@@ -1,0 +1,347 @@
+{
+  "id": "day-015",
+  "number": 15,
+  "theme": "Music",
+  "title": "Bach, Mozart, Beethoven",
+  "questions": [
+    {
+      "id": "d015-q01",
+      "difficulty": "easy",
+      "question": "In which city was Wolfgang Amadeus Mozart born in 1756?",
+      "options": [
+        "Graz",
+        "Innsbruck",
+        "Salzburg",
+        "Vienna"
+      ],
+      "answer": 2,
+      "hint": "The city was then a small state ruled by a prince-archbishop, and Mozart's father played the violin in his orchestra. A chocolate sweet named after the composer comes from there.",
+      "explanation": "Mozart was born on 27 January 1756 in a house in the Getreidegasse, which is now a museum. Salzburg became part of Austria for good only in 1816. In 1781 he quarrelled with the archbishop, left his service and settled in Vienna, where he lived for the rest of his life.",
+      "image": {
+        "src": "images/day-015/p01.jpg",
+        "alt": "A painting: a young man and a young woman sit side by side at a keyboard; an older man holds a violin, and a woman's portrait hangs on the wall.",
+        "width": 1280,
+        "height": 950,
+        "label": {
+          "artist": "Johann Nepomuk della Croce",
+          "title": "The Mozart family",
+          "date": "about 1780",
+          "place": "Mozarteum Foundation, Salzburg"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Croce_MozartFamilyPortrait.jpg"
+      },
+      "sources": [
+        { "label": "Mozarteum Foundation, Mozart's Birthplace", "url": "https://mozarteum.at/en/museums/mozarts-birthplace" },
+        { "label": "Österreichische Mediathek, Mozart: Viennese period (1781-1791)", "url": "https://www.mediathek.at/en/mozart/wiener-jahre-1781-1791" },
+        { "label": "Salzburg Tourism, Salzburg's princes and archbishops", "url": "https://www.salzburg.info/en/magazin/art-culture/Divine-blessings-Salzburg-s-princes-and-archbishops_a_24506668" },
+        { "label": "Wikipedia, Wolfgang Amadeus Mozart", "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart" }
+      ]
+    },
+    {
+      "id": "d015-q02",
+      "difficulty": "easy",
+      "question": "Beethoven's Ninth Symphony ends with a choir singing a poem by Friedrich Schiller. What is the poem called?",
+      "options": [
+        "Ode to Joy",
+        "Song of the Bell",
+        "The Cranes of Ibycus",
+        "The Diver"
+      ],
+      "answer": 0,
+      "hint": "Schiller wrote it in 1785. Beethoven's tune for it has been the anthem of the European Union since 1985.",
+      "explanation": "The Ninth was first played in Vienna on 7 May 1824. It was the first symphony by a major composer to use singers. In the poem, Schiller dreams of a world in which all people become brothers.",
+      "image": {
+        "src": "images/day-015/p02.jpg",
+        "alt": "A portrait of a man with wild grey hair and a red scarf, writing music in a notebook with a pencil.",
+        "width": 1280,
+        "height": 1593,
+        "label": {
+          "artist": "Joseph Karl Stieler",
+          "title": "Beethoven with the manuscript of the Missa solemnis",
+          "date": "1820",
+          "place": "Beethoven-Haus, Bonn"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"
+      },
+      "sources": [
+        { "label": "European Union, European anthem", "url": "https://european-union.europa.eu/principles-countries-history/symbols/european-anthem_en" },
+        { "label": "EBSCO Research Starters, Beethoven's Ninth Symphony", "url": "https://www.ebsco.com/research-starters/history/beethovens-ninth-symphony" },
+        { "label": "WETA Classical, The premiere of Beethoven's Symphony No. 9", "url": "https://weta.org/fm/classical-score/may-7-1824-200th-anniversary-premiere-beethovens-symphony-no-9" },
+        { "label": "Wikipedia, Symphony No. 9 (Beethoven)", "url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)" }
+      ]
+    },
+    {
+      "id": "d015-q03",
+      "difficulty": "easy",
+      "question": "The Toccata and Fugue in D minor is one of the best-known pieces that carry Bach's name. For which instrument is it written?",
+      "options": [
+        "Cello",
+        "Flute",
+        "Harpsichord",
+        "Organ"
+      ],
+      "answer": 3,
+      "hint": "Bach was an expert on them: towns asked him to come and judge new ones when they were built. At 18 he got his first post as a player of one, in the town of Arnstadt.",
+      "explanation": "In his lifetime Bach was known above all as an organist. The piece became world famous when Walt Disney's film Fantasia opened with it in 1940, played by a full orchestra. Some scholars doubt that Bach wrote it, because its style is unusual for him. No copy in his own hand survives.",
+      "image": {
+        "src": "images/day-015/p03.jpg",
+        "alt": "A portrait of a stout man in a white wig and a dark coat, holding a small sheet of music.",
+        "width": 1233,
+        "height": 1600,
+        "label": {
+          "artist": "Elias Gottlob Haussmann",
+          "title": "Johann Sebastian Bach",
+          "date": "1748",
+          "place": "Bach Archive"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach.jpg"
+      },
+      "sources": [
+        { "label": "Netherlands Bach Society, Toccata and fugue in D minor BWV 565", "url": "https://www.bachvereniging.nl/en/bwv/bwv-565" },
+        { "label": "Bach in Thüringen, Bach in Arnstadt", "url": "https://www.bach-thueringen.de/w/bach-in-arnstadt" },
+        { "label": "Treccani, Bach, Johann Sebastian", "url": "https://www.treccani.it/enciclopedia/johann-sebastian-bach/" },
+        { "label": "Wikipedia, Toccata and Fugue in D minor, BWV 565", "url": "https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_565" }
+      ]
+    },
+    {
+      "id": "d015-q04",
+      "difficulty": "easy",
+      "question": "Mozart was still writing his last work when he died in Vienna in December 1791. What kind of work is it?",
+      "options": [
+        "A comic opera",
+        "A Requiem Mass",
+        "A string quartet",
+        "A violin concerto"
+      ],
+      "answer": 1,
+      "hint": "A stranger ordered it in secret for a count, who wanted to pass it off as his own work. Mozart's pupil Süssmayr completed it.",
+      "explanation": "Mozart died on 5 December 1791, aged 35, and left the Requiem unfinished. The count wanted it in memory of his wife, and Mozart's widow Constanze had it completed in secret so that she could be paid for it. There is no evidence for the old story that the composer Salieri poisoned him.",
+      "image": {
+        "src": "images/day-015/p04.jpg",
+        "alt": "An unfinished portrait: the head of a man with brown hair, seen from the side and looking down; the rest of the canvas is dark.",
+        "width": 1158,
+        "height": 1600,
+        "label": {
+          "artist": "Joseph Lange",
+          "title": "Mozart at the piano (unfinished)",
+          "date": "1780s",
+          "place": "Mozarteum Foundation, Salzburg"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Mozart_(unfinished)_by_Lange_1782.jpg"
+      },
+      "sources": [
+        { "label": "Boston Symphony Orchestra, Mozart: Requiem", "url": "https://www.bso.org/works/mozart-requiem" },
+        { "label": "LA Phil / Hollywood Bowl, Mozart: Requiem", "url": "https://www.hollywoodbowl.com/musicdb/pieces/3067/requiem" },
+        { "label": "The Guardian, The feud that never was (Salieri)", "url": "https://www.theguardian.com/music/2003/dec/19/classicalmusicandopera.italy" },
+        { "label": "Wikipedia, Requiem (Mozart)", "url": "https://en.wikipedia.org/wiki/Requiem_(Mozart)" }
+      ]
+    },
+    {
+      "id": "d015-q05",
+      "difficulty": "medium",
+      "question": "Which of Beethoven's symphonies opens with four famous notes, three short and one long?",
+      "options": [
+        "The Third",
+        "The Fifth",
+        "The Sixth",
+        "The Seventh"
+      ],
+      "answer": 1,
+      "hint": "It is in C minor. It was first played in Vienna in December 1808, at a concert that lasted four hours in a freezing cold theatre.",
+      "explanation": "The four notes come back again and again through the whole symphony. In the Second World War the BBC used them as a signal to occupied Europe: in Morse code, three dots and a dash are the letter V, for victory. The story that Beethoven called them \"fate knocking at the door\" comes from his secretary Schindler, who is not a reliable witness.",
+      "image": {
+        "src": "images/day-015/p05.jpg",
+        "alt": "A portrait of a young man with dark hair, sitting outdoors with a lyre, his right hand raised.",
+        "width": 1253,
+        "height": 1600,
+        "label": {
+          "artist": "Joseph Willibrord Mähler",
+          "title": "Ludwig van Beethoven",
+          "date": "1804–1805",
+          "place": "Wien Museum, Vienna"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Beethoven-M%C3%A4hler_1804_hires.jpg"
+      },
+      "sources": [
+        { "label": "Eastman School of Music, Beethoven Symphony No. 5", "url": "https://www.esm.rochester.edu/beethoven/?p=24" },
+        { "label": "Chicago Symphony Orchestra, Beethoven's Fifth intro served as Allied code", "url": "https://cso.org/experience/article/925670/beethovens-fifth-intro-served-as-allied-code" },
+        { "label": "BBC Music Magazine, Guide to Beethoven's Symphony No. 5", "url": "https://www.classical-music.com/features/works/guide-beethovens-symphony-no-5" },
+        { "label": "Wikipedia, Beethoven concert of 22 December 1808", "url": "https://en.wikipedia.org/wiki/Beethoven_concert_of_22_December_1808" }
+      ]
+    },
+    {
+      "id": "d015-q06",
+      "difficulty": "medium",
+      "question": "In which city did Bach work for the last 27 years of his life, as director of music at St Thomas's Church?",
+      "options": [
+        "Dresden",
+        "Hamburg",
+        "Leipzig",
+        "Weimar"
+      ],
+      "answer": 2,
+      "hint": "He arrived in 1723 and taught the boys of the church's choir school. He wrote the St Matthew Passion and most of his cantatas there.",
+      "explanation": "Bach was cantor of St Thomas's in Leipzig from 1723 until his death in 1750. In his first years there he wrote a new cantata for the city's churches almost every week. His grave has been in the church since 1950.",
+      "image": {
+        "src": "images/day-015/p06.jpg",
+        "alt": "An old engraving of a large church with a steep roof and a tall tower, a school building beside it and people in the square.",
+        "width": 1040,
+        "height": 1156,
+        "label": {
+          "artist": "Johann Gottfried Krügner",
+          "title": "St Thomas's Church and School, Leipzig",
+          "date": "1723",
+          "place": "Deutsche Fotothek"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Thomaskirche_und_-schule_1723.jpg"
+      },
+      "sources": [
+        { "label": "EBSCO Research Starters, Johann Sebastian Bach", "url": "https://www.ebsco.com/research-starters/history/johann-sebastian-bach" },
+        { "label": "Classic FM, Bach's biography: success in Leipzig (1723-1744)", "url": "https://www.classicfm.com/composers/bach/guides/biography-part-6/" },
+        { "label": "Bach Cantatas Website, Guide to Bach Tour: Leipzig", "url": "https://www.bach-cantatas.com/Tour/Leipzig.htm" },
+        { "label": "Wikipedia, Johann Sebastian Bach", "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach" }
+      ]
+    },
+    {
+      "id": "d015-q07",
+      "difficulty": "medium",
+      "question": "Which opera by Mozart, first performed in Prague in 1787, has a stone statue come to supper and drag the hero down to hell?",
+      "options": [
+        "Don Giovanni",
+        "Idomeneo",
+        "The Magic Flute",
+        "The Marriage of Figaro"
+      ],
+      "answer": 0,
+      "hint": "The words are by the Italian poet Lorenzo Da Ponte. The hero is a Spanish nobleman, and his servant Leporello keeps a list of the women he has seduced.",
+      "explanation": "Don Giovanni is the old Spanish story of Don Juan. He kills the father of a woman he has tried to seduce, and later he mockingly invites the dead man's statue to supper. Da Ponte also wrote the words of The Marriage of Figaro and Così fan tutte.",
+      "image": {
+        "src": "images/day-015/p07.jpg",
+        "alt": "A painting: a huge white statue of a man in armour lays its hand on a frightened young nobleman; another man lies on the ground.",
+        "width": 1280,
+        "height": 1565,
+        "label": {
+          "artist": "Alexandre-Évariste Fragonard",
+          "title": "Don Juan and the Statue of the Commander",
+          "date": "about 1830–1835",
+          "place": "Wikimedia Commons (photograph released into the public domain by its author)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:113_Alexandre-Evariste_Fragonard,_Don_Juan_et_la_statue_du_commandeur,_vers_1830-35.jpg"
+      },
+      "sources": [
+        { "label": "English National Opera, Don Giovanni", "url": "https://www.eno.org/operas/don-giovanni/" },
+        { "label": "Opera North, Don Giovanni in a nutshell", "url": "https://www.operanorth.co.uk/news/don-giovanni-in-a-nutshell/" },
+        { "label": "San Francisco Opera, Don Giovanni", "url": "https://www.sfopera.com/operas/don-giovanni/" },
+        { "label": "Wikipedia, Don Giovanni", "url": "https://en.wikipedia.org/wiki/Don_Giovanni" }
+      ]
+    },
+    {
+      "id": "d015-q08",
+      "difficulty": "medium",
+      "question": "In 1802 Beethoven wrote a long, despairing letter to his brothers and never sent it. It is known as the Heiligenstadt Testament. What is it about?",
+      "options": [
+        "His anger at Napoleon",
+        "His debts to his publishers",
+        "His love for a married woman",
+        "His growing deafness"
+      ],
+      "answer": 3,
+      "hint": "He was 31 and had kept the trouble secret for years. The letter was found among his papers after his death in 1827.",
+      "explanation": "Beethoven's hearing began to fail in his twenties. In the letter he says that he had thought of ending his life, and that only his art held him back. He went on composing for almost 25 more years. At the first performance of his Ninth Symphony, it is said, a singer had to turn him round so that he could see the audience clapping.",
+      "image": {
+        "src": "images/day-015/p08.jpg",
+        "alt": "A small portrait of a young man with dark hair and side whiskers, in a dark blue coat and a white neckcloth.",
+        "width": 800,
+        "height": 912,
+        "label": {
+          "artist": "Christian Horneman",
+          "title": "Ludwig van Beethoven (miniature)",
+          "date": "1802–1803",
+          "place": "Beethoven-Haus, Bonn"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Beethoven_Hornemann.jpg"
+      },
+      "sources": [
+        { "label": "National Arts Centre (Canada), Beethoven's complete Heiligenstadt Testament", "url": "https://nac-cna.ca/en/stories/story/beethovens-complete-heiligenstadt-testament" },
+        { "label": "BBC Music Magazine, Beethoven's Heiligenstadt Testament", "url": "https://www.classical-music.com/features/composers/heiligenstadt-testament" },
+        { "label": "Treccani, Beethoven, Ludwig van", "url": "https://www.treccani.it/enciclopedia/ludwig-van-beethoven/" },
+        { "label": "Wikipedia, Heiligenstadt Testament", "url": "https://en.wikipedia.org/wiki/Heiligenstadt_Testament" }
+      ]
+    },
+    {
+      "id": "d015-q09",
+      "difficulty": "hard",
+      "question": "After Bach's death his St Matthew Passion was almost forgotten. Which composer conducted it in Berlin in 1829 and so began the great revival of Bach's music?",
+      "options": [
+        "Carl Maria von Weber",
+        "Felix Mendelssohn",
+        "Franz Liszt",
+        "Robert Schumann"
+      ],
+      "answer": 1,
+      "hint": "He was only 20 years old. He later wrote the Wedding March and a famous violin concerto.",
+      "explanation": "Mendelssohn conducted the Passion at the Berlin Sing-Akademie on 11 March 1829, about a hundred years after Bach wrote it. The hall was full, and the concert had to be repeated. From then on Bach was seen as one of the greatest of all composers.",
+      "image": {
+        "src": "images/day-015/p09.jpg",
+        "alt": "A painting of a pale yellow building in the style of a Greek temple, beside a canal and tall trees.",
+        "width": 1183,
+        "height": 1047,
+        "label": {
+          "artist": "Eduard Gaertner",
+          "title": "The Sing-Akademie in Berlin",
+          "date": "1843",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Gaertner2.jpg"
+      },
+      "sources": [
+        { "label": "BBC Music Magazine, How Mendelssohn brought Bach's St Matthew Passion back to life", "url": "https://www.classical-music.com/features/composers/how-mendelssohn-helped-bring-bachs-st-matthew-passion-back-to-life" },
+        { "label": "Yale University Library, Mendelssohn exhibit: Carl Friedrich Zelter", "url": "https://musiclib-exhibits.library.yale.edu/exhibits/mendelssohn/zelter.htm" },
+        { "label": "Bach Cantatas Website, St Matthew Passion performance dates", "url": "https://www.bach-cantatas.com/Articles/SMPDaten.htm" },
+        { "label": "Wikipedia, Felix Mendelssohn", "url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn" }
+      ]
+    },
+    {
+      "id": "d015-q10",
+      "difficulty": "hard",
+      "question": "Mozart wrote his last symphony, No. 41 in C major, in the summer of 1788. By which name is it known?",
+      "options": [
+        "Haffner",
+        "Jupiter",
+        "Linz",
+        "Prague"
+      ],
+      "answer": 1,
+      "hint": "The name is not Mozart's. It was given after his death, probably by a concert manager in London.",
+      "explanation": "Mozart wrote his last three symphonies in about two months in the summer of 1788. The name \"Jupiter\", after the king of the Roman gods, probably came from the London concert manager Johann Peter Salomon. The \"Haffner\", the \"Linz\" and the \"Prague\" are earlier symphonies by Mozart.",
+      "image": {
+        "src": "images/day-015/p10.jpg",
+        "alt": "A portrait of a man in a white wig and a red coat with gold trim.",
+        "width": 1280,
+        "height": 1578,
+        "label": {
+          "artist": "Barbara Krafft",
+          "title": "Wolfgang Amadeus Mozart (painted after his death)",
+          "date": "1819",
+          "place": "Gesellschaft der Musikfreunde, Vienna"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_(1819).jpg"
+      },
+      "sources": [
+        { "label": "The Cleveland Orchestra, Mozart: Symphony No. 41 \"Jupiter\"", "url": "https://www.clevelandorchestra.com/works/symphony-no-41-jupiter---mozart" },
+        { "label": "Berliner Philharmoniker, Mozart's last three symphonies", "url": "https://www.berliner-philharmoniker.de/en/stories/mozarts-last-three-symphonies/" },
+        { "label": "Wikipedia, Symphony No. 41 (Mozart)", "url": "https://en.wikipedia.org/wiki/Symphony_No._41_(Mozart)" }
+      ]
+    }
+  ]
+}

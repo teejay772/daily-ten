@@ -1,0 +1,345 @@
+{
+  "id": "day-019",
+  "number": 19,
+  "theme": "Architecture",
+  "title": "Greek temples and Roman building",
+  "questions": [
+    {
+      "id": "d019-q01",
+      "difficulty": "easy",
+      "question": "On which hill in Athens does the Parthenon stand?",
+      "options": [
+        "The Acropolis",
+        "The Areopagus",
+        "The Lycabettus",
+        "The Pnyx"
+      ],
+      "answer": 0,
+      "hint": "Pericles had the temple built there for the goddess Athena between 447 and 432 BC. The Persians had burned the older buildings on the hill in 480 BC.",
+      "explanation": "The Acropolis is a flat-topped rock about 150 metres above sea level, in the middle of Athens. The Parthenon was later a church and then a mosque. In 1687 a Venetian shell blew up the gunpowder that the Turks kept inside it, and the middle of the building was destroyed.",
+      "image": {
+        "src": "images/day-019/p01.jpg",
+        "alt": "A painting of a ruined Greek temple of golden stone, with rows of columns, on a rocky height under a blue sky.",
+        "width": 1280,
+        "height": 791,
+        "label": {
+          "artist": "Frederic Edwin Church",
+          "title": "The Parthenon",
+          "date": "1871",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Parthenon_MET_DT1540.jpg"
+      },
+      "sources": [
+        { "label": "Encyclopaedia Britannica, Parthenon", "url": "https://www.britannica.com/topic/Parthenon" },
+        { "label": "UNESCO World Heritage Centre, Acropolis, Athens", "url": "https://whc.unesco.org/en/list/404/" },
+        { "label": "Wikipedia, Parthenon", "url": "https://en.wikipedia.org/wiki/Parthenon" }
+      ]
+    },
+    {
+      "id": "d019-q02",
+      "difficulty": "easy",
+      "question": "This painting of about 1734 shows the inside of a temple in Rome, rebuilt under the emperor Hadrian and still in use today. Which building is it?",
+      "options": [
+        "The Basilica of Maxentius",
+        "The Baths of Caracalla",
+        "The Pantheon",
+        "The Temple of Vesta"
+      ],
+      "answer": 2,
+      "hint": "It has been a church since the year 609. The painter Raphael and two kings of Italy are buried in it.",
+      "explanation": "The Pantheon was finished in about AD 125. Its dome is a perfect half-sphere, and the round opening at the top, the oculus, is the only window. For more than 1,300 years it was the largest dome in the world.",
+      "image": {
+        "src": "images/day-019/p02.jpg",
+        "alt": "A painting of the inside of a huge round building: a dome of sunken squares with a round opening to the sky, columns and statues along the wall, and visitors on the marble floor.",
+        "width": 1231,
+        "height": 1600,
+        "label": {
+          "artist": "Giovanni Paolo Panini",
+          "title": "Interior of the Pantheon, Rome",
+          "date": "about 1734",
+          "place": "National Gallery of Art, Washington"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini,_Interior_of_the_Pantheon,_Rome,_c._1734,_NGA_165.jpg"
+      },
+      "sources": [
+        { "label": "National Gallery of Art, Panini, Interior of the Pantheon, Rome", "url": "https://www.nga.gov/artworks/165-interior-pantheon-rome" },
+        { "label": "Pantheon official site, History", "url": "https://www.pantheonroma.com/en/pantheon-history/" },
+        { "label": "Turismo Roma, Pantheon", "url": "https://www.turismoroma.it/en/places/pantheon" },
+        { "label": "Encyclopaedia Britannica, Pantheon", "url": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy" }
+      ]
+    },
+    {
+      "id": "d019-q03",
+      "difficulty": "easy",
+      "question": "Greek architecture has three orders, or styles of column. Two are the Doric and the Ionic. Which is the third, whose capitals are carved with acanthus leaves?",
+      "options": [
+        "Athenian",
+        "Corinthian",
+        "Peloponnesian",
+        "Spartan"
+      ],
+      "answer": 1,
+      "hint": "It was the last of the three to appear and has the richest decoration. The Romans loved it and used it for the Maison Carrée at Nîmes.",
+      "explanation": "The Doric order is the oldest and plainest, the Ionic has capitals with two scrolls, and the Corinthian has a bell of acanthus leaves. A Roman writer says that the sculptor Callimachus invented it after he saw a basket left on a girl's grave, with acanthus growing round it.",
+      "image": {
+        "src": "images/day-019/p03.jpg",
+        "alt": "An old engraving of the top of a column, carved with rows of curling leaves and small scrolls at the corners.",
+        "width": 1158,
+        "height": 989,
+        "label": {
+          "artist": "Agostino Veneziano",
+          "title": "Corinthian capital",
+          "date": "1536",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Speculum_Romanae_Magnificentiae-_Corinthian_capital_MET_DP870161.jpg"
+      },
+      "sources": [
+        { "label": "Vitruvius, On Architecture, Book IV (LacusCurtius, University of Chicago)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/4*.html" },
+        { "label": "Encyclopaedia Britannica, Callimachus (Greek sculptor)", "url": "https://www.britannica.com/biography/Callimachus-Greek-sculptor" },
+        { "label": "Encyclopaedia Britannica, Maison-Carrée", "url": "https://www.britannica.com/topic/Maison-Carree" },
+        { "label": "Wikipedia, Corinthian order", "url": "https://en.wikipedia.org/wiki/Corinthian_order" }
+      ]
+    },
+    {
+      "id": "d019-q04",
+      "difficulty": "easy",
+      "question": "The Pont du Gard in southern France, built by the Romans in the first century AD, has three rows of arches. What was it built for?",
+      "options": [
+        "To carry a road across the valley",
+        "To celebrate a victory",
+        "To defend a frontier",
+        "To carry water to a city"
+      ],
+      "answer": 3,
+      "hint": "The Romans built hundreds of structures of this kind across their empire. Eleven of them served the city of Rome itself.",
+      "explanation": "The Pont du Gard is part of an aqueduct that brought water about 50 km from springs near Uzès to the Roman city of Nîmes. The bridge is almost 49 metres high, and the water ran in a covered channel along the top row. Over the whole 50 km the channel drops only about 12 metres.",
+      "image": {
+        "src": "images/day-019/p04.jpg",
+        "alt": "A painting of a very tall stone bridge with three rows of arches crossing a river, under a pink evening sky.",
+        "width": 1280,
+        "height": 1260,
+        "label": {
+          "artist": "Hubert Robert",
+          "title": "The Pont du Gard",
+          "date": "1786–1787",
+          "place": "Louvre, Paris"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Le_pont_du_Gard_-_Hubert_Robert_-_Mus%C3%A9e_du_Louvre_Peintures_INV_7650.jpg"
+      },
+      "sources": [
+        { "label": "Site du Pont du Gard, teaching document on the aqueduct of Nîmes (CNRS data sheet, in French)", "url": "https://pontdugard.fr/sites/default/files/2023-05/parcoursbd.pdf" },
+        { "label": "UNESCO World Heritage Centre, Pont du Gard (Roman Aqueduct)", "url": "https://whc.unesco.org/en/list/344/" },
+        { "label": "Encyclopaedia Britannica, Aqueduct", "url": "https://www.britannica.com/technology/aqueduct-engineering" },
+        { "label": "Wikipedia, Pont du Gard", "url": "https://en.wikipedia.org/wiki/Pont_du_Gard" }
+      ]
+    },
+    {
+      "id": "d019-q05",
+      "difficulty": "medium",
+      "question": "What is the great dome of the Pantheon in Rome made of?",
+      "options": [
+        "Brick",
+        "Concrete",
+        "Marble",
+        "Travertine"
+      ],
+      "answer": 1,
+      "hint": "The dome was not cut from blocks of stone. Towards the top the builders mixed in light pumice stone, so that it weighs less.",
+      "explanation": "Roman concrete was lime mixed with a volcanic sand first found at Pozzuoli, near Naples. The dome is 43 metres across and is still the largest concrete dome in the world built without steel bars inside it. It is about 6 metres thick at its base and only 1 to 2 metres at the top.",
+      "image": {
+        "src": "images/day-019/p05.jpg",
+        "alt": "An old etching of a round ancient building with a low dome, behind a porch of tall columns with a Latin inscription.",
+        "width": 1229,
+        "height": 761,
+        "label": {
+          "artist": "Giovanni Battista Piranesi",
+          "title": "View of the Pantheon",
+          "date": "1761",
+          "place": "Cleveland Museum of Art"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Views_of_Rome-_The_Pantheon_-_1922.5_-_Cleveland_Museum_of_Art.tif"
+      },
+      "sources": [
+        { "label": "Encyclopaedia Britannica, Pantheon", "url": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy" },
+        { "label": "Encyclopaedia Britannica, Pozzolana", "url": "https://www.britannica.com/technology/pozzolana" },
+        { "label": "Pantheon official site, History", "url": "https://www.pantheonroma.com/en/pantheon-history/" },
+        { "label": "Wikipedia, Pantheon, Rome", "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome" }
+      ]
+    },
+    {
+      "id": "d019-q06",
+      "difficulty": "medium",
+      "question": "By which other name, taken from the family of the emperors who built it, is the Colosseum known?",
+      "options": [
+        "The Antonine Amphitheatre",
+        "The Flavian Amphitheatre",
+        "The Julian Amphitheatre",
+        "The Severan Amphitheatre"
+      ],
+      "answer": 1,
+      "hint": "Vespasian began it between AD 70 and 72, and his son Titus opened it in AD 80 with a hundred days of games. A third emperor of the family, Domitian, finished it.",
+      "explanation": "Vespasian, Titus and Domitian were the Flavian dynasty. They built the amphitheatre on the site of the lake of Nero's palace, to give the land back to the people. The name \"Colosseum\" probably comes from a huge bronze statue of Nero, the Colossus, that stood beside it.",
+      "image": {
+        "src": "images/day-019/p06.jpg",
+        "alt": "A painting of a huge ruined oval building with rows of arches, part of its outer wall fallen, and small figures walking in front.",
+        "width": 1242,
+        "height": 915,
+        "label": {
+          "artist": "Attributed to Canaletto (photograph by Daderot)",
+          "title": "The Colosseum",
+          "date": "1742–1745",
+          "place": "Galleria Borghese, Rome"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Colosseum,_attributed_to_Canaletto,_1742-1745,_oil_on_canvas_-_Galleria_Borghese_-_Rome,_Italy_-_DSC04672.jpg"
+      },
+      "sources": [
+        { "label": "Encyclopaedia Britannica, Colosseum", "url": "https://www.britannica.com/topic/Colosseum" },
+        { "label": "Platner and Ashby, Amphitheatrum Flavium (LacusCurtius, University of Chicago)", "url": "https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Amphitheatrum_Flavium.html" },
+        { "label": "World History Encyclopedia, Colosseum", "url": "https://www.worldhistory.org/Colosseum/" },
+        { "label": "Wikipedia, Colosseum", "url": "https://en.wikipedia.org/wiki/Colosseum" }
+      ]
+    },
+    {
+      "id": "d019-q07",
+      "difficulty": "medium",
+      "question": "On this porch of the Erechtheion, a temple in Athens, six statues of women take the place of columns. What are such statues called?",
+      "options": [
+        "Amazons",
+        "Bacchantes",
+        "Caryatids",
+        "Nereids"
+      ],
+      "answer": 2,
+      "hint": "One of the six was taken to London for Lord Elgin in the early 1800s and is in the British Museum. The other five are in the Acropolis Museum, and those on the porch today are copies.",
+      "explanation": "A caryatid is a column in the shape of a standing woman; the male kind is called an atlas or a telamon. The Erechtheion was built on the Acropolis between 421 and 406 BC, on the spot where Athena and Poseidon were said to have competed for the city.",
+      "image": {
+        "src": "images/day-019/p07.jpg",
+        "alt": "A painting of a small marble porch in bright sunlight: statues of standing women hold up its roof in place of columns.",
+        "width": 1081,
+        "height": 1600,
+        "label": {
+          "artist": "Vasily Polenov",
+          "title": "The Erechtheion: the Porch of the Caryatids",
+          "date": "1882",
+          "place": "Tretyakov Gallery, Moscow"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Porch_of_Maidens_by_Vasiliy_Polenov.jpg"
+      },
+      "sources": [
+        { "label": "British Museum, caryatid from the Erechtheion (1816,0610.128)", "url": "https://www.britishmuseum.org/collection/object/G_1816-0610-128" },
+        { "label": "World History Encyclopedia, Erechtheion", "url": "https://www.worldhistory.org/Erechtheion/" },
+        { "label": "Encyclopaedia Britannica, Caryatid", "url": "https://www.britannica.com/technology/caryatid" }
+      ]
+    },
+    {
+      "id": "d019-q08",
+      "difficulty": "medium",
+      "question": "A marble column finished in Rome in AD 113 carries a spiral band of reliefs that tell the story of two wars against the Dacians. Which emperor built it?",
+      "options": [
+        "Augustus",
+        "Hadrian",
+        "Marcus Aurelius",
+        "Trajan"
+      ],
+      "answer": 3,
+      "hint": "Under him the Roman Empire reached its greatest size. His ashes were placed in the base of the column, and a statue of St Peter has stood on top since the 1580s.",
+      "explanation": "Trajan conquered Dacia, roughly today's Romania, in two wars between AD 101 and 106. The band of reliefs winds 23 times round the column and is about 200 metres long, with some 2,500 figures. Inside, a spiral staircase leads to the top.",
+      "image": {
+        "src": "images/day-019/p08.jpg",
+        "alt": "An old drawing of a square in Rome: a very tall column with a spiral band of carving and a statue on top, beside a church with a dome.",
+        "width": 1229,
+        "height": 765,
+        "label": {
+          "artist": "Unknown draughtsman",
+          "title": "View in Rome with Trajan's Column and Santa Maria di Loreto",
+          "date": "1664",
+          "place": "Rijksmuseum, Amsterdam"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Gezicht_te_Rome_met_de_zuil_van_Trajanus_en_de_S._Maria_di_Loreto_Prospetto_della_Colonna_Traiana_(titel_op_object),_RP-T-1949-558.jpg"
+      },
+      "sources": [
+        { "label": "Turismo Roma, Trajan's Column", "url": "https://www.turismoroma.it/en/places/trajan%E2%80%99s-column" },
+        { "label": "Encyclopaedia Britannica, Trajan's Column", "url": "https://www.britannica.com/topic/Trajans-Column" },
+        { "label": "Encyclopaedia Britannica, Trajan", "url": "https://www.britannica.com/biography/Trajan" },
+        { "label": "Wikipedia, Trajan's Column", "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column" }
+      ]
+    },
+    {
+      "id": "d019-q09",
+      "difficulty": "hard",
+      "question": "Which sculptor directed the building works of the Parthenon for Pericles and made its huge statue of Athena in gold and ivory?",
+      "options": [
+        "Phidias",
+        "Polykleitos",
+        "Praxiteles",
+        "Skopas"
+      ],
+      "answer": 0,
+      "hint": "He also made the seated statue of Zeus at Olympia, one of the Seven Wonders of the ancient world. Neither statue survives.",
+      "explanation": "Phidias was a friend of Pericles and oversaw all the sculpture of the Parthenon. The architects of the temple were Ictinus and Callicrates. His Athena stood about 12 metres tall inside the temple; we know it only from smaller ancient copies and from descriptions.",
+      "image": {
+        "src": "images/day-019/p09.jpg",
+        "alt": "A painting: men and women in Greek dress stand on wooden scaffolding and look at a long painted frieze of horsemen, high on a temple wall.",
+        "width": 1280,
+        "height": 830,
+        "label": {
+          "artist": "Lawrence Alma-Tadema",
+          "title": "Phidias Showing the Frieze of the Parthenon to his Friends",
+          "date": "1868",
+          "place": "Birmingham Museum and Art Gallery"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg"
+      },
+      "sources": [
+        { "label": "Plutarch, Life of Pericles (LacusCurtius, University of Chicago)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pericles*.html" },
+        { "label": "Encyclopaedia Britannica, Phidias", "url": "https://www.britannica.com/biography/Phidias" },
+        { "label": "Encyclopaedia Britannica, Seven Wonders of the World", "url": "https://www.britannica.com/topic/Seven-Wonders-of-the-World" }
+      ]
+    },
+    {
+      "id": "d019-q10",
+      "difficulty": "hard",
+      "question": "Who wrote De architectura, the only complete book on architecture that survives from ancient Rome?",
+      "options": [
+        "Apollodorus of Damascus",
+        "Frontinus",
+        "Pliny the Elder",
+        "Vitruvius"
+      ],
+      "answer": 3,
+      "hint": "He was a military engineer in the time of Julius Caesar and Augustus. Leonardo da Vinci drew his famous figure of a man inside a circle and a square from a passage of this book.",
+      "explanation": "Vitruvius wrote that a building needs three things: strength, usefulness and beauty. His ten books were read again with passion in the Renaissance and shaped the work of architects such as Alberti and Palladio. Leonardo's drawing is known as the Vitruvian Man.",
+      "image": {
+        "src": "images/day-019/p10.jpg",
+        "alt": "An old printed book lying open: on the left page a woodcut of a cathedral with geometric lines drawn over it, on the right a page of dense text.",
+        "width": 1280,
+        "height": 997,
+        "label": {
+          "artist": "Cesare Cesariano",
+          "title": "Vitruvius, De architectura, in Cesariano's Italian edition",
+          "date": "1521",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Di_Lucio_Vitruvio_Pollione_De_architectura_Libri_Dece_traducti_de_latino_in_vulgare_affigurati-_commentati-_%26_con_mirando_ordine_insigniti_MET_DP-12874-001.jpg"
+      },
+      "sources": [
+        { "label": "Vitruvius, On Architecture, Book I (LacusCurtius, University of Chicago)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/1*.html" },
+        { "label": "World History Encyclopedia, Vitruvius", "url": "https://www.worldhistory.org/Vitruvius/" },
+        { "label": "Encyclopaedia Britannica, Vitruvius", "url": "https://www.britannica.com/biography/Vitruvius" },
+        { "label": "Treccani, Vitruvio", "url": "https://www.treccani.it/enciclopedia/vitruvio/" }
+      ]
+    }
+  ]
+}

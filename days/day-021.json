@@ -1,0 +1,347 @@
+{
+  "id": "day-021",
+  "number": 21,
+  "theme": "World history",
+  "title": "Egypt and Mesopotamia",
+  "questions": [
+    {
+      "id": "d021-q01",
+      "difficulty": "easy",
+      "question": "Whose tomb, almost untouched after more than 3,000 years, did Howard Carter find in the Valley of the Kings in November 1922?",
+      "options": [
+        "Amenhotep III",
+        "Ramesses II",
+        "Thutmose III",
+        "Tutankhamun"
+      ],
+      "answer": 3,
+      "hint": "He became king as a boy of about nine and died at about eighteen or nineteen. The dig was paid for by Lord Carnarvon.",
+      "explanation": "Tutankhamun ruled Egypt from about 1332 to 1323 BC and was not an important king. Robbers got into his small tomb twice soon after the burial, but later the entrance was buried under rubble and workmen's huts from another king's tomb, and it was forgotten. It held about 5,000 objects, among them the gold mask, which has been in the Grand Egyptian Museum near Cairo since 2025.",
+      "image": {
+        "src": "images/day-021/p01.jpg",
+        "alt": "An old photograph of a small room packed with furniture: a carved couch with animal legs, boxes, chairs and stools, each with a number card.",
+        "width": 995,
+        "height": 737,
+        "label": {
+          "artist": "Harry Burton",
+          "title": "The antechamber of the tomb of Tutankhamun",
+          "date": "December 1922",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Tutankhamun_tomb_photographs_2_020.jpg"
+      },
+      "sources": [
+        { "label": "Griffith Institute (Oxford), Howard Carter's excavation journal, 1st season", "url": "https://www.griffith.ox.ac.uk/discoveringTut/journals-and-diaries/season-1/journal.html" },
+        { "label": "Egypt Ministry of Tourism and Antiquities, Tomb of Tutankhamun", "url": "https://egymonuments.gov.eg/en/monuments/tomb-of-tutankhamun" },
+        { "label": "Egypt Exploration Society, Tutankhamun", "url": "https://www.ees.ac.uk/resource/tutankhamun.html" },
+        { "label": "Wikipedia, Tomb of Tutankhamun", "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun" }
+      ]
+    },
+    {
+      "id": "d021-q02",
+      "difficulty": "easy",
+      "question": "This stone, found in Egypt in 1799, carries the same decree in three kinds of writing. It gave scholars the key to Egyptian hieroglyphs. What is it called?",
+      "options": [
+        "The Moabite Stone",
+        "The Palermo Stone",
+        "The Rosetta Stone",
+        "The Stele of the Vultures"
+      ],
+      "answer": 2,
+      "hint": "Soldiers of Napoleon's army found it while rebuilding a fort in the Nile delta. The British took it in 1801, and it has been in the British Museum since 1802.",
+      "explanation": "The stone is named after Rosetta, the town in the delta near which it was found. The decree, of 196 BC, is written in hieroglyphs, in demotic, the everyday Egyptian script, and in Greek. Scholars could read the Greek, and so they had a way into the other two.",
+      "image": {
+        "src": "images/day-021/p02.jpg",
+        "alt": "A slab of black stone, broken at the top and at the corners, covered with three blocks of fine carved writing.",
+        "width": 1280,
+        "height": 1564,
+        "label": {
+          "artist": "Plate from E. A. Wallis Budge, The Rosetta Stone",
+          "title": "The Rosetta Stone",
+          "date": "stone 196 BC; plate published 1922",
+          "place": "British Museum, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Rosetta_Stone.jpg"
+      },
+      "sources": [
+        { "label": "British Museum on Google Arts & Culture, The Rosetta Stone", "url": "https://artsandculture.google.com/asset/the-rosetta-stone/DgH6pMM1guUUPA" },
+        { "label": "Linda Hall Library, The Rosetta Stone", "url": "https://www.lindahall.org/experience/digital-exhibitions/napoleon-and-the-scientific-expedition-to-egypt/15-the-rosetta-stone/" },
+        { "label": "National Geographic, Hieroglyphics were a mystery until he solved the Rosetta Stone", "url": "https://www.nationalgeographic.com/history/history-magazine/article/hieroglyphics-were-a-mystery-until-he-solved-the-rosetta-stone" },
+        { "label": "Wikipedia, Rosetta Stone", "url": "https://en.wikipedia.org/wiki/Rosetta_Stone" }
+      ]
+    },
+    {
+      "id": "d021-q03",
+      "difficulty": "easy",
+      "question": "\"Mesopotamia\" is Greek for \"the land between the rivers\". Which two rivers?",
+      "options": [
+        "The Tigris and the Euphrates",
+        "The Jordan and the Orontes",
+        "The Indus and the Ganges",
+        "The Amu Darya and the Syr Darya"
+      ],
+      "answer": 0,
+      "hint": "Both rise in the mountains of eastern Turkey. A famous capital city of today stands on one of them.",
+      "explanation": "Most of Mesopotamia lies in today's Iraq. The rivers made farming possible in a land with little rain, and some of the first cities in the world grew up there more than 5,000 years ago, such as Uruk. The two rivers join before they reach the sea.",
+      "image": {
+        "src": "images/day-021/p03.jpg",
+        "alt": "A satellite photograph of a dry brown land with two rivers winding across it, green strips along them and two large lakes.",
+        "width": 1280,
+        "height": 785,
+        "label": {
+          "artist": "NASA, MODIS Land Rapid Response Team",
+          "title": "Iraq from space",
+          "date": "12 April 2019",
+          "place": "NASA Goddard Space Flight Center"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Iraq_(MODIS_2019-04-15).jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Mesopotamia", "url": "https://www.treccani.it/enciclopedia/mesopotamia/" },
+        { "label": "Treccani, Tigri", "url": "https://www.treccani.it/enciclopedia/tigri/" },
+        { "label": "Treccani, Eufrate", "url": "https://www.treccani.it/enciclopedia/eufrate/" },
+        { "label": "Wikipedia, Shatt al-Arab", "url": "https://en.wikipedia.org/wiki/Shatt_al-Arab" }
+      ]
+    },
+    {
+      "id": "d021-q04",
+      "difficulty": "easy",
+      "question": "The Sumerians of Mesopotamia invented one of the first writing systems more than 5,000 years ago. Scribes pressed its signs into wet clay with a cut reed. What is it called?",
+      "options": [
+        "Cuneiform",
+        "Hieroglyphic",
+        "Linear B",
+        "Phoenician"
+      ],
+      "answer": 0,
+      "hint": "It began in the city of Uruk as a way of counting grain and animals. It was used for about 3,000 years, and for many different languages.",
+      "explanation": "The name comes from the Latin \"cuneus\", a wedge, after the shape of the marks. Hundreds of thousands of clay tablets survive, because clay does not rot and fire only makes it harder. Many of them are receipts, lists and letters.",
+      "image": {
+        "src": "images/day-021/p04.jpg",
+        "alt": "A round tablet of pale clay with rows of small sharp marks pressed into it.",
+        "width": 1280,
+        "height": 1390,
+        "label": {
+          "artist": "Unknown Babylonian pupil",
+          "title": "Cuneiform tablet: a pupil's exercise",
+          "date": "about 2000–1600 BC",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Cuneiform_tablet-_student_exercise_tablet_MET_DP360672.jpg"
+      },
+      "sources": [
+        { "label": "Oracc (University of Pennsylvania), Cuneiform script and the Sumerian and Akkadian languages", "url": "https://oracc.museum.upenn.edu/saao/knpp/essentials/cuneiformscript/index.html" },
+        { "label": "Oracc, Cuneiform Revealed: wedges and signs", "url": "https://oracc.museum.upenn.edu/saao/knpp/cuneiformrevealed/aboutcuneiform/wedgesandsigns/index.html" },
+        { "label": "Oracc, Cuneiform Revealed", "url": "https://oracc.museum.upenn.edu/saao/knpp/cuneiformrevealed/index.html" },
+        { "label": "Wikipedia, Cuneiform", "url": "https://en.wikipedia.org/wiki/Cuneiform" }
+      ]
+    },
+    {
+      "id": "d021-q05",
+      "difficulty": "medium",
+      "question": "Which king of Babylon, in about 1754 BC, had 282 laws carved on a tall black stone that is now in the Louvre?",
+      "options": [
+        "Gilgamesh",
+        "Hammurabi",
+        "Nebuchadnezzar II",
+        "Sargon of Akkad"
+      ],
+      "answer": 1,
+      "hint": "At the top of the stone the king stands before Shamash, the god of the sun and of justice. One of his laws says that if a man puts out another man's eye, his own eye shall be put out.",
+      "explanation": "The Code of Hammurabi is one of the oldest sets of written laws that we can still read. The punishment depended on rank: an eye for an eye between equals, but only a fine if the victim was a commoner. French archaeologists found the stone in the winter of 1901 to 1902 at Susa, in Iran, where an enemy king had carried it off as war booty.",
+      "image": {
+        "src": "images/day-021/p05.jpg",
+        "alt": "An old photograph of an excavation: workmen in long robes and a man in a cap stand around a large carved stone lying half out of the earth.",
+        "width": 1280,
+        "height": 945,
+        "label": {
+          "artist": "Unknown photographer",
+          "title": "A piece of the stele of Hammurabi as it was found at Susa",
+          "date": "1901–1902",
+          "place": "Louvre, Paris (archive photograph)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Code_of_Hammurabi_104.jpg"
+      },
+      "sources": [
+        { "label": "Musée du Louvre, Code de Hammurabi (collections)", "url": "https://collections.louvre.fr/en/ark:/53355/cl010174436" },
+        { "label": "French Ministry of Culture, Law Code of Hammurabi", "url": "https://archeologie.culture.gouv.fr/jacques-morgan/en/media/view/3496" },
+        { "label": "Yale Law School, Avalon Project, The Code of Hammurabi", "url": "https://avalon.law.yale.edu/ancient/hamframe.asp" },
+        { "label": "University of Münster, Kodex Hammurapi", "url": "https://www.uni-muenster.de/Altoriental/institut/sammlung/foyer/Kodex_Hammurapi.html" }
+      ]
+    },
+    {
+      "id": "d021-q06",
+      "difficulty": "medium",
+      "question": "For which pharaoh was the Great Pyramid of Giza built, in about 2560 BC?",
+      "options": [
+        "Djoser",
+        "Khafre (Chephren)",
+        "Khufu (Cheops)",
+        "Menkaure (Mycerinus)"
+      ],
+      "answer": 2,
+      "hint": "His father, Sneferu, built the first true pyramids. One of his sons built the second pyramid of Giza, which looks taller because it stands on higher ground.",
+      "explanation": "The Great Pyramid was about 146 metres high and was the tallest building in the world for about 3,800 years. It is the only one of the Seven Wonders of the ancient world that still stands. It was built by Egyptian workers who were housed and fed by the king, not by slaves, as their town and tombs near the site show.",
+      "image": {
+        "src": "images/day-021/p06.jpg",
+        "alt": "An old photograph of a great stone pyramid in the desert, with palm trees, two large trees and a few people and camels in front.",
+        "width": 1280,
+        "height": 967,
+        "label": {
+          "artist": "Félix Bonfils",
+          "title": "The Great Pyramid of Giza",
+          "date": "about 1870–1880",
+          "place": "Museo Egizio, Turin (photographic archive)"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_F._Bonfils,_photo_5_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_INV01_007.jpg"
+      },
+      "sources": [
+        { "label": "Egypt Ministry of Tourism and Antiquities, The Great Pyramid", "url": "https://egymonuments.gov.eg/en/monuments/the-great-pyramid" },
+        { "label": "Harvard Magazine, Who Built the Pyramids?", "url": "https://www.harvardmagazine.com/2003/07/who-built-the-pyramids-html" },
+        { "label": "Digital Giza (Harvard University), Khafre Pyramid", "url": "https://giza.fas.harvard.edu/sites/1775/full/" },
+        { "label": "PBS NOVA, Khafre (East Side)", "url": "https://www.pbs.org/wgbh/nova/interactive/explore-ancient-egypt/app/media/popupcontent/360view/khafre_east_side.html" }
+      ]
+    },
+    {
+      "id": "d021-q07",
+      "difficulty": "medium",
+      "question": "Which French scholar announced in 1822 that he could read Egyptian hieroglyphs?",
+      "options": [
+        "Champollion",
+        "Mariette",
+        "Maspero",
+        "Vivant Denon"
+      ],
+      "answer": 0,
+      "hint": "He was 31 and had studied ancient languages since he was a boy, among them Coptic, the last form of Egyptian. The story goes that he ran to his brother's office shouting \"I've got it!\" and fainted.",
+      "explanation": "Champollion understood that hieroglyphs are a mix of signs for sounds and signs for ideas. He worked from the Rosetta Stone and from royal names such as Ptolemy, Cleopatra and Ramesses. His rival, the English scientist Thomas Young, had read some signs before him but never the whole system.",
+      "image": {
+        "src": "images/day-021/p07.jpg",
+        "alt": "A handwritten table in French: Greek letters down the left side, and beside each one rows of Egyptian signs.",
+        "width": 1280,
+        "height": 1548,
+        "label": {
+          "artist": "Jean-François Champollion",
+          "title": "Table of phonetic signs, from the Letter to M. Dacier",
+          "date": "1822",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Champollion_table.jpg"
+      },
+      "sources": [
+        { "label": "Collège de France, Exposition Champollion 1822", "url": "https://www.college-de-france.fr/champollion" },
+        { "label": "National Geographic, Hieroglyphics were a mystery until he solved the Rosetta Stone", "url": "https://www.nationalgeographic.com/history/history-magazine/article/hieroglyphics-were-a-mystery-until-he-solved-the-rosetta-stone" },
+        { "label": "German National Library, Jean-François Champollion", "url": "https://mediengeschichte.dnb.de/DBSMZBN/Content/EN/SoundsSymbolsScript/01-champollion-jean-francois-en.html" },
+        { "label": "Wikipedia, Decipherment of ancient Egyptian scripts", "url": "https://en.wikipedia.org/wiki/Decipherment_of_ancient_Egyptian_scripts" }
+      ]
+    },
+    {
+      "id": "d021-q08",
+      "difficulty": "medium",
+      "question": "In 1872 George Smith of the British Museum read a clay tablet of the Epic of Gilgamesh and caused a sensation. It told a story very close to one in the Bible. Which story?",
+      "options": [
+        "The Exodus",
+        "The Flood",
+        "The Garden of Eden",
+        "The Tower of Babel"
+      ],
+      "answer": 1,
+      "hint": "The hero Gilgamesh, looking for a way not to die, meets Utnapishtim, the one man to whom the gods gave eternal life, and asks how he won it.",
+      "explanation": "Utnapishtim tells how a god warned him of a great flood. He built a boat, took animals on board and, when the boat came to rest on a mountain, sent out a dove, a swallow and a raven to look for land. The tablet, from Nineveh, was written in the seventh century BC, but the story is far older.",
+      "image": {
+        "src": "images/day-021/p08.jpg",
+        "alt": "A piece of a clay tablet in a museum case, broken at the edges and closely covered with small writing in two columns.",
+        "width": 1005,
+        "height": 1137,
+        "label": {
+          "artist": "Unknown Assyrian scribe (photograph by BabelStone)",
+          "title": "The Flood Tablet: tablet 11 of the Epic of Gilgamesh",
+          "date": "7th century BC",
+          "place": "British Museum, London"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg"
+      },
+      "sources": [
+        { "label": "British Museum on Google Arts & Culture, The Flood Tablet", "url": "https://artsandculture.google.com/asset/the-flood-tablet-relating-part-of-the-epic-of-gilgamesh/wQGL1dmyVmXRYA" },
+        { "label": "Linda Hall Library, George Smith", "url": "https://www.lindahall.org/about/news/scientist-of-the-day/george-smith/" },
+        { "label": "Wikipedia, Gilgamesh flood myth", "url": "https://en.wikipedia.org/wiki/Gilgamesh_flood_myth" }
+      ]
+    },
+    {
+      "id": "d021-q09",
+      "difficulty": "hard",
+      "question": "In about 1259 BC the pharaoh Ramesses II made a peace treaty that is often called the oldest one whose text survives. With which people did he make it?",
+      "options": [
+        "The Assyrians",
+        "The Hittites",
+        "The Persians",
+        "The Phoenicians"
+      ],
+      "answer": 1,
+      "hint": "The two armies had fought a great chariot battle at Kadesh, in Syria, about fifteen years earlier. A copy of the treaty hangs in the United Nations building in New York.",
+      "explanation": "Both Ramesses and the Hittite king Muwatalli claimed to have won at Kadesh. The treaty was made later with King Hattusili III, and copies from both sides survive: one carved on temple walls in Egypt, and one on clay tablets found at Hattusa, the Hittite capital, in today's Turkey.",
+      "image": {
+        "src": "images/day-021/p09.jpg",
+        "alt": "A coloured print of a temple cut into a cliff: four giant seated statues of a king, half buried in a slope of sand.",
+        "width": 1280,
+        "height": 843,
+        "label": {
+          "artist": "David Roberts",
+          "title": "The Great Temple of Abu Simbel",
+          "date": "1838–1839",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:David_Roberts_Aboo_Simbel.jpg"
+      },
+      "sources": [
+        { "label": "United Nations, Replica of Peace Treaty between Hattusilis and Ramses II", "url": "https://www.un.org/ungifts/replica-peace-treaty-between-hattusilis-and-ramses-ii" },
+        { "label": "Biblical Archaeology Society Library, \"Good Peace\": The Hittite-Egyptian Treaty", "url": "https://library.biblicalarchaeology.org/sidebar/good-peace-the-hittite-egyptian-treaty/" },
+        { "label": "Wikipedia, Egyptian–Hittite peace treaty", "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty" },
+        { "label": "Wikipedia, Battle of Kadesh", "url": "https://en.wikipedia.org/wiki/Battle_of_Kadesh" }
+      ]
+    },
+    {
+      "id": "d021-q10",
+      "difficulty": "hard",
+      "question": "Which Assyrian king of the seventh century BC collected a library of many thousands of clay tablets in his palace at Nineveh?",
+      "options": [
+        "Tiglath-Pileser III",
+        "Sargon II",
+        "Sennacherib",
+        "Ashurbanipal"
+      ],
+      "answer": 3,
+      "hint": "He boasted that, unlike other kings, he could read and write. Stone reliefs from his palace, now in London, show him hunting lions.",
+      "explanation": "Ashurbanipal ruled from 669 to about 631 BC and was the last great king of Assyria. When Nineveh was burned in 612 BC, the fire baked the clay tablets hard and so preserved them. More than 30,000 tablets and pieces are now in the British Museum, among them the Epic of Gilgamesh.",
+      "image": {
+        "src": "images/day-021/p10.jpg",
+        "alt": "A coloured print that imagines an ancient city beside a river: painted palaces with terraces and winged bulls, a stepped tower, and boats on the water.",
+        "width": 1280,
+        "height": 753,
+        "label": {
+          "artist": "After a sketch by James Fergusson, in A. H. Layard, The Monuments of Nineveh",
+          "title": "Assyrian palaces restored",
+          "date": "1853",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_impression_of_Assyrian_palaces_from_The_Monuments_of_Nineveh_by_Sir_Austen_Henry_Layard,_1853.jpg"
+      },
+      "sources": [
+        { "label": "Ashurbanipal Library Project (British Museum, on Oracc), What is the Library?", "url": "https://oracc.museum.upenn.edu/asbp/whatisthelibrary/index.html" },
+        { "label": "Oracc (University of Pennsylvania), Assurbanipal, king of Assyria", "url": "https://oracc.museum.upenn.edu/saao/knpp/essentials/assurbanipal/index.html" },
+        { "label": "Getty, How to Be King in Mesopotamia", "url": "https://www.getty.edu/news/how-to-be-king-in-mesopotamia/" },
+        { "label": "National Geographic, Why this ancient king of the world was so proud of his library", "url": "https://www.nationalgeographic.com/history/history-magazine/article/why-this-ancient-king-of-the-world-was-so-proud-of-his-library" }
+      ]
+    }
+  ]
+}

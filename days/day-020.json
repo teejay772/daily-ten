@@ -1,0 +1,348 @@
+{
+  "id": "day-020",
+  "number": 20,
+  "theme": "Greek and Roman myths",
+  "title": "The gods of Olympus",
+  "questions": [
+    {
+      "id": "d020-q01",
+      "difficulty": "easy",
+      "question": "Zeus was the king of the Greek gods. By which name did the Romans call him?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Neptune",
+        "Saturn"
+      ],
+      "answer": 0,
+      "hint": "The Romans built his greatest temple on the Capitoline Hill. From another form of his name, Jove, comes the English word \"jovial\".",
+      "explanation": "Jupiter, like Zeus, was the god of the sky and of thunder. The Romans matched their own gods with the Greek ones and borrowed their stories: Juno was matched with Hera, Mercury with Hermes and Venus with Aphrodite.",
+      "image": {
+        "src": "images/day-020/p01.jpg",
+        "alt": "A painting: a huge bearded god sits on a throne among clouds, holding a sceptre, with an eagle beside him; a woman kneels and touches his chin.",
+        "width": 1233,
+        "height": 1600,
+        "label": {
+          "artist": "Jean-Auguste-Dominique Ingres",
+          "title": "Jupiter and Thetis",
+          "date": "1811",
+          "place": "Musée Granet, Aix-en-Provence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Jupiter_and_Thetis_(Ingres).jpg"
+      },
+      "sources": [
+        { "label": "Theoi Project, Zeus", "url": "https://www.theoi.com/Olympios/Zeus.html" },
+        { "label": "Treccani, Giove", "url": "https://www.treccani.it/enciclopedia/giove/" },
+        { "label": "Oxford Learner's Dictionaries, jovial", "url": "https://www.oxfordlearnersdictionaries.com/definition/english/jovial" },
+        { "label": "Wikipedia, Temple of Jupiter Optimus Maximus", "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Optimus_Maximus" }
+      ]
+    },
+    {
+      "id": "d020-q02",
+      "difficulty": "easy",
+      "question": "Gustav Klimt painted this Greek goddess in 1898, with her golden helmet, her spear and her armour. She is the goddess of wisdom and of war. Who is she?",
+      "options": [
+        "Aphrodite",
+        "Artemis",
+        "Athena",
+        "Hera"
+      ],
+      "answer": 2,
+      "hint": "She was born fully grown and armed from the head of her father Zeus. Her bird is the owl, and her tree is the olive.",
+      "explanation": "Athena protected heroes such as Odysseus and Perseus, and she was the patron of Athens, where the Parthenon was her temple. On her breastplate she wears the head of the Gorgon Medusa, which Klimt paints sticking out its tongue. The Romans called her Minerva.",
+      "image": {
+        "src": "images/day-020/p02.jpg",
+        "alt": "A painting of a woman in a golden helmet and a breastplate of golden scales, holding a spear; on her chest is a grinning face with its tongue out.",
+        "width": 1093,
+        "height": 1091,
+        "label": {
+          "artist": "Gustav Klimt",
+          "title": "Pallas Athena",
+          "date": "1898",
+          "place": "Wien Museum, Vienna"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Klimt_-_Pallas_Athene.jpeg"
+      },
+      "sources": [
+        { "label": "Wien Museum Online Sammlung, Pallas Athene", "url": "https://sammlung.wienmuseum.at/en/object/102991-pallas-athene" },
+        { "label": "Klimt-Database (Klimt Foundation), Cradle of Modernism", "url": "https://www.klimt-database.com/en/klimts-artworks/1898-1900/cradle-of-modernism/" },
+        { "label": "Wien Museum on Google Arts & Culture, Secession and Pallas Athena", "url": "https://artsandculture.google.com/story/YwUxAISFSt1MKQ?hl=en-GB" },
+        { "label": "Theoi Project, Athena", "url": "https://www.theoi.com/Olympios/Athena.html" }
+      ]
+    },
+    {
+      "id": "d020-q03",
+      "difficulty": "easy",
+      "question": "Which Greek god rules the sea and carries a trident, a spear with three points?",
+      "options": [
+        "Ares",
+        "Hephaestus",
+        "Hermes",
+        "Poseidon"
+      ],
+      "answer": 3,
+      "hint": "He is a brother of Zeus. The Greeks also called him \"Earth-shaker\", because they believed that he caused earthquakes, and he was the god of horses.",
+      "explanation": "In Homer, three divine brothers divide the world by lot: Zeus receives the sky and Poseidon the sea. In the Odyssey, Odysseus blinds Poseidon's son, the Cyclops Polyphemus, and the angry god makes his journey home long and hard. The Romans called him Neptune.",
+      "image": {
+        "src": "images/day-020/p03.jpg",
+        "alt": "A painting: a bearded god with a crown rides over the waves in a shell pulled by grey horses, holding a three-pointed spear, among sea creatures.",
+        "width": 1280,
+        "height": 791,
+        "label": {
+          "artist": "John Singleton Copley",
+          "title": "The Return of Neptune",
+          "date": "about 1754",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Return_of_Neptune_MET_DT201337.jpg"
+      },
+      "sources": [
+        { "label": "Theoi Project, Poseidon", "url": "https://www.theoi.com/Olympios/Poseidon.html" },
+        { "label": "Homer, Iliad book 15 (Theoi, trans. Murray)", "url": "https://www.theoi.com/Text/HomerIliad15.html" },
+        { "label": "Homer, Odyssey book 1 (Theoi, trans. Murray)", "url": "https://www.theoi.com/Text/HomerOdyssey1.html" },
+        { "label": "Homer, Odyssey book 2 (Theoi, trans. Murray)", "url": "https://www.theoi.com/Text/HomerOdyssey2.html" }
+      ]
+    },
+    {
+      "id": "d020-q04",
+      "difficulty": "easy",
+      "question": "What did Prometheus steal from the gods and give to humans?",
+      "options": [
+        "Fire",
+        "Honey",
+        "Wheat",
+        "Wine"
+      ],
+      "answer": 0,
+      "hint": "He carried it away hidden in the hollow stalk of a fennel plant. Zeus punished him by chaining him to a rock, where an eagle came every day to eat his liver.",
+      "explanation": "Prometheus was a Titan, one of the older gods, and a friend of mankind. His liver grew back every night, so the punishment went on until Heracles shot the eagle and set him free. Zeus also punished humans, by sending them Pandora and her jar of troubles.",
+      "image": {
+        "src": "images/day-020/p04.jpg",
+        "alt": "A painting: a naked man lies chained on a rock, head down, while a huge eagle stands on him and tears at his side.",
+        "width": 1280,
+        "height": 1475,
+        "label": {
+          "artist": "Peter Paul Rubens and Frans Snyders",
+          "title": "Prometheus Bound",
+          "date": "about 1611–1618",
+          "place": "Philadelphia Museum of Art"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg"
+      },
+      "sources": [
+        { "label": "Hesiod, Theogony (Theoi, trans. Evelyn-White)", "url": "https://www.theoi.com/Text/HesiodTheogony.html" },
+        { "label": "Hesiod, Works and Days (Theoi)", "url": "https://www.theoi.com/Text/HesiodWorksDays.html" },
+        { "label": "Apollodorus, Library book 1 (Theoi)", "url": "https://www.theoi.com/Text/Apollodorus1.html" },
+        { "label": "Theoi Project, Prometheus", "url": "https://www.theoi.com/Titan/TitanPrometheus.html" }
+      ]
+    },
+    {
+      "id": "d020-q05",
+      "difficulty": "medium",
+      "question": "Zeus's father was afraid that one of his children would take his throne, so he swallowed each of them at birth. Who was he?",
+      "options": [
+        "Atlas",
+        "Cronus",
+        "Hyperion",
+        "Uranus"
+      ],
+      "answer": 1,
+      "hint": "The Romans identified him with Saturn. His wife Rhea saved the baby Zeus by giving her husband a stone wrapped in cloth to swallow.",
+      "explanation": "Cronus was the youngest of the Titans. Zeus grew up in secret on Crete, then made his father vomit up the five children he had swallowed. Goya and Rubens both painted the terrible scene, and their paintings are known by the Roman name, Saturn.",
+      "image": {
+        "src": "images/day-020/p05.jpg",
+        "alt": "A dark painting: a wild-eyed giant with long grey hair grips a small headless body and bites into it.",
+        "width": 871,
+        "height": 1600,
+        "label": {
+          "artist": "Francisco Goya",
+          "title": "Saturn Devouring His Son",
+          "date": "1820–1823",
+          "place": "Museo del Prado, Madrid"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg"
+      },
+      "sources": [
+        { "label": "Hesiod, Theogony (Theoi, trans. Evelyn-White)", "url": "https://www.theoi.com/Text/HesiodTheogony.html" },
+        { "label": "Apollodorus, Library book 1 (Theoi)", "url": "https://www.theoi.com/Text/Apollodorus1.html" },
+        { "label": "Treccani, Saturno", "url": "https://www.treccani.it/enciclopedia/saturno/" },
+        { "label": "Wikipedia, Saturn Devouring His Son", "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son" }
+      ]
+    },
+    {
+      "id": "d020-q06",
+      "difficulty": "medium",
+      "question": "Caravaggio painted this young god in the late 1590s, crowned with grapes and vine leaves and holding out a cup of wine. The Romans called him Bacchus. What did the Greeks usually call him?",
+      "options": [
+        "Dionysus",
+        "Ganymede",
+        "Hyacinthus",
+        "Narcissus"
+      ],
+      "answer": 0,
+      "hint": "He is the god of wine and of the theatre. His followers, the maenads, danced in the hills in a wild trance.",
+      "explanation": "Dionysus was the son of Zeus and a mortal woman, Semele. The great plays of Athens, tragedies and comedies, were performed at his festivals. The painting hangs in the Uffizi in Florence.",
+      "image": {
+        "src": "images/day-020/p06.jpg",
+        "alt": "A painting of a young man with dark hair, crowned with grapes and vine leaves, half lying in a white robe and holding out a wide glass of red wine; a bowl of fruit stands before him.",
+        "width": 1280,
+        "height": 1469,
+        "label": {
+          "artist": "Caravaggio",
+          "title": "Bacchus",
+          "date": "about 1598",
+          "place": "Uffizi, Florence"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Bacchus-Caravaggio_(1598).jpg"
+      },
+      "sources": [
+        { "label": "Uffizi Galleries, Bacchus by Caravaggio", "url": "https://www.uffizi.it/en/artworks/caravaggio-bacchus" },
+        { "label": "Theoi Project, Dionysus", "url": "https://www.theoi.com/Olympios/Dionysos.html" },
+        { "label": "Treccani, Dionisie", "url": "https://www.treccani.it/enciclopedia/dionisie_(Enciclopedia-Italiana)/" },
+        { "label": "Wikipedia, Bacchus (Caravaggio)", "url": "https://en.wikipedia.org/wiki/Bacchus_(Caravaggio)" }
+      ]
+    },
+    {
+      "id": "d020-q07",
+      "difficulty": "medium",
+      "question": "The king of the dead carried off Persephone, the daughter of the goddess Demeter. She has to go back to him for part of every year, because she ate something in the underworld. What?",
+      "options": [
+        "A bunch of black grapes",
+        "A golden apple",
+        "A honey cake",
+        "Pomegranate seeds"
+      ],
+      "answer": 3,
+      "hint": "The Greeks told this story to explain the seasons. While the girl is below, her mother mourns and nothing grows.",
+      "explanation": "Anyone who ate the food of the dead had to stay with them. Persephone had eaten pomegranate seeds, only one in the oldest Greek poem and seven in the Roman poet Ovid, so she spends part of each year below, and the earth has its winter. The Romans called her Proserpina and her mother Ceres, from whose name comes the word \"cereal\".",
+      "image": {
+        "src": "images/day-020/p07.jpg",
+        "alt": "A painting: a pale young woman is lifted out of a dark cave by a god in a winged hat, towards a woman in orange who opens her arms.",
+        "width": 1056,
+        "height": 1400,
+        "label": {
+          "artist": "Frederic Leighton",
+          "title": "The Return of Persephone",
+          "date": "1891",
+          "place": "Leeds Art Gallery"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Frederic_Leighton_-_The_Return_of_Persephone_(1891).jpg"
+      },
+      "sources": [
+        { "label": "Homeric Hymn to Demeter (Theoi, trans. Evelyn-White)", "url": "https://www.theoi.com/Text/HomericHymns1.html" },
+        { "label": "Ovid, Metamorphoses book 5 (Theoi)", "url": "https://www.theoi.com/Text/OvidMetamorphoses5.html" },
+        { "label": "Theoi Project, Persephone", "url": "https://www.theoi.com/Khthonios/Persephone.html" },
+        { "label": "Oxford Learner's Dictionaries, cereal", "url": "https://www.oxfordlearnersdictionaries.com/definition/english/cereal" }
+      ]
+    },
+    {
+      "id": "d020-q08",
+      "difficulty": "medium",
+      "question": "The nymph Daphne ran from the god Apollo, who was in love with her. She called for help and was changed into a tree. Which tree?",
+      "options": [
+        "An almond tree",
+        "A cypress",
+        "A laurel",
+        "A poplar"
+      ],
+      "answer": 2,
+      "hint": "Apollo made its leaves his crown. The Romans placed a wreath of them on the heads of their victorious generals.",
+      "explanation": "\"Daphne\" is simply the Greek word for laurel. In Ovid's Metamorphoses she calls to her father, a river god; in other versions the Earth saves her. Bernini carved the moment of the change in marble in the 1620s, and the winners of Apollo's games at Delphi were crowned with laurel.",
+      "image": {
+        "src": "images/day-020/p08.jpg",
+        "alt": "A small painting: a young man catches a running young woman, whose raised arms have turned into two leafy branches.",
+        "width": 1082,
+        "height": 1600,
+        "label": {
+          "artist": "Piero del Pollaiuolo",
+          "title": "Apollo and Daphne",
+          "date": "about 1470–1480",
+          "place": "National Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Pollaiolo,_Piero_del_-_Apollo_and_Daphne.jpg"
+      },
+      "sources": [
+        { "label": "Theoi Project, Daphne", "url": "https://www.theoi.com/Nymphe/NympheDaphne.html" },
+        { "label": "Ovid, Metamorphoses book 1 (Theoi)", "url": "https://www.theoi.com/Text/OvidMetamorphoses1.html" },
+        { "label": "Galleria Borghese, Apollo and Daphne", "url": "https://www.collezionegalleriaborghese.it/en/opere/apollo-and-daphne" },
+        { "label": "Wikipedia, Roman triumph", "url": "https://en.wikipedia.org/wiki/Roman_triumph" }
+      ]
+    },
+    {
+      "id": "d020-q09",
+      "difficulty": "hard",
+      "question": "The Greeks spoke of twelve great gods of Olympus. Which of these gods is NOT in the usual list of the twelve?",
+      "options": [
+        "Ares",
+        "Hades",
+        "Hephaestus",
+        "Hermes"
+      ],
+      "answer": 1,
+      "hint": "He is a brother of Zeus, but his kingdom is not on the mountain, and he almost never leaves it.",
+      "explanation": "Hades rules the underworld and does not live on Olympus, so he is not usually counted among the twelve. The usual list is Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes and either Hestia or Dionysus.",
+      "image": {
+        "src": "images/day-020/p09.jpg",
+        "alt": "An old engraving: a large company of gods and goddesses sit and stand together on clouds, some with spears, one with a winged helmet.",
+        "width": 1280,
+        "height": 867,
+        "label": {
+          "artist": "Giovanni Jacopo Caraglio, after Raphael",
+          "title": "The Assembly of the Gods",
+          "date": "1527",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Assembly_of_the_Gods_after_the_ceiling_composition_in_the_Loggia_di_Psiche,_Villa_Farnesina,_Rome_MET_DP851671.jpg"
+      },
+      "sources": [
+        { "label": "Theoi Project, Olympian gods", "url": "https://www.theoi.com/greek-mythology/olympian-gods.html" },
+        { "label": "Theoi Project, Zeus", "url": "https://www.theoi.com/Olympios/Zeus.html" },
+        { "label": "Theoi Project, Hades", "url": "https://www.theoi.com/Khthonios/Haides.html" },
+        { "label": "Wikipedia, Twelve Olympians", "url": "https://en.wikipedia.org/wiki/Twelve_Olympians" }
+      ]
+    },
+    {
+      "id": "d020-q10",
+      "difficulty": "hard",
+      "question": "According to Homer, what flows in the veins of the gods in place of blood?",
+      "options": [
+        "Ambrosia",
+        "Ether",
+        "Ichor",
+        "Nectar"
+      ],
+      "answer": 2,
+      "hint": "Homer names it in the Iliad, when the Greek hero Diomedes wounds Aphrodite in the hand. The gods, he says, eat no bread and drink no wine, and so they have no blood.",
+      "explanation": "Ichor is the fluid of the immortals. In Homer, ambrosia is their food and nectar their drink. In the same book of the Iliad, Diomedes also wounds Ares, the god of war, who screams as loud as nine or ten thousand men.",
+      "image": {
+        "src": "images/day-020/p10.jpg",
+        "alt": "A painting: a goddess in white, hurt in the hand, is helped into a golden chariot with white horses by another goddess, while a warrior in a red-plumed helmet sits beside it.",
+        "width": 1280,
+        "height": 1042,
+        "label": {
+          "artist": "Jean-Auguste-Dominique Ingres",
+          "title": "Venus, Wounded by Diomedes, Returns to Olympus",
+          "date": "about 1800–1803",
+          "place": "Kunstmuseum Basel"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Jean_Auguste_Dominique_Ingres_-_Venus,_Injured_by_Diomedes,_Returns_to_OlympusFXD.jpg"
+      },
+      "sources": [
+        { "label": "Homer, Iliad book 5 (Theoi, trans. Murray)", "url": "https://www.theoi.com/Text/HomerIliad5.html" },
+        { "label": "Homer, Odyssey book 5 (Theoi, trans. Murray)", "url": "https://www.theoi.com/Text/HomerOdyssey5.html" },
+        { "label": "Treccani, Ambrosia", "url": "https://www.treccani.it/enciclopedia/ambrosia/" },
+        { "label": "Wikipedia, Ambrosia", "url": "https://en.wikipedia.org/wiki/Ambrosia" }
+      ]
+    }
+  ]
+}

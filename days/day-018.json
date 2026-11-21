@@ -1,0 +1,322 @@
+{
+  "id": "day-018",
+  "number": 18,
+  "theme": "Cinema",
+  "title": "Italian cinema, from neorealism to Fellini",
+  "questions": [
+    {
+      "id": "d018-q01",
+      "difficulty": "easy",
+      "question": "In Vittorio De Sica's film of 1948, a poor man in Rome finds work at last, but on his first day something he needs for the job is stolen. What?",
+      "options": [
+        "His bicycle",
+        "His camera",
+        "His toolbox",
+        "His working papers"
+      ],
+      "answer": 0,
+      "hint": "His job is to put up posters on walls. He and his small son Bruno search the whole of Rome for it.",
+      "explanation": "The film is Bicycle Thieves, \"Ladri di biciclette\". The father was played by Lamberto Maggiorani, a factory worker who had never acted. In 1950 Hollywood gave the film a special Oscar as the best foreign film shown in America the year before.",
+      "image": {
+        "src": "images/day-018/p01.jpg",
+        "alt": "A black-and-white film still: a boy of about eight, in a jacket and a checked scarf, looks up anxiously in a park.",
+        "width": 1280,
+        "height": 961,
+        "label": {
+          "artist": "Vittorio De Sica (director)",
+          "title": "Enzo Staiola as Bruno in Bicycle Thieves",
+          "date": "1948",
+          "place": "Wikimedia Commons (public domain in Italy: a film still more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Ladri_di_biciclette_(1948)_Enzo_Staiola_(2).png"
+      },
+      "sources": [
+        { "label": "Academy of Motion Picture Arts and Sciences, The 22nd Academy Awards (1950)", "url": "https://www.oscars.org/oscars/ceremonies/1950" },
+        { "label": "Treccani, Enciclopedia del Cinema, Ladri di biciclette", "url": "https://www.treccani.it/enciclopedia/ladri-di-biciclette_(Enciclopedia-del-Cinema)/" },
+        { "label": "Turner Classic Movies, Bicycle Thieves (1948)", "url": "https://www.tcm.com/articles/12767/the-bicycle-thief" },
+        { "label": "Wikipedia, Bicycle Thieves", "url": "https://en.wikipedia.org/wiki/Bicycle_Thieves" }
+      ]
+    },
+    {
+      "id": "d018-q02",
+      "difficulty": "easy",
+      "question": "In a famous scene of the film La dolce vita (1960), the Swedish actress Anita Ekberg wades at night into a fountain in Rome. Which one?",
+      "options": [
+        "The Fountain of the Four Rivers",
+        "The Trevi Fountain",
+        "The Triton Fountain",
+        "The Turtle Fountain"
+      ],
+      "answer": 1,
+      "hint": "It is the largest Baroque fountain in Rome. Visitors throw a coin into it over their shoulder, to be sure of coming back to the city.",
+      "explanation": "Ekberg calls to Marcello Mastroianni, who follows her into the water. The film also gave the world the word \"paparazzi\", from the name of one of its characters, the photographer Paparazzo. The fountain itself was finished in 1762.",
+      "image": {
+        "src": "images/day-018/p02.jpg",
+        "alt": "A black-and-white photograph taken at night: a man in a hat and a heavy coat talks to a woman with long blonde hair in a fur wrap.",
+        "width": 600,
+        "height": 451,
+        "label": {
+          "artist": "Unknown photographer",
+          "title": "Federico Fellini and Anita Ekberg during the filming of La dolce vita",
+          "date": "1959 or 1960",
+          "place": "Wikimedia Commons (public domain in Italy: a photograph more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Fellini_Ekberg_La_dolce_vita.jpg"
+      },
+      "sources": [
+        { "label": "Guinness World Records, Largest Baroque sculpture (Trevi Fountain)", "url": "https://www.guinnessworldrecords.com/world-records/119021-largest-baroque-sculpture" },
+        { "label": "Treccani, Enciclopedia del Cinema, La dolce vita", "url": "https://www.treccani.it/enciclopedia/la-dolce-vita_(Enciclopedia-del-Cinema)/" },
+        { "label": "Treccani, Vocabolario, paparazzo", "url": "https://www.treccani.it/vocabolario/paparazzo/" },
+        { "label": "Wikipedia, Trevi Fountain", "url": "https://en.wikipedia.org/wiki/Trevi_Fountain" }
+      ]
+    },
+    {
+      "id": "d018-q03",
+      "difficulty": "easy",
+      "question": "Which Italian actress won the Oscar for best actress for De Sica's film Two Women (\"La ciociara\")? It was the first Oscar ever given to an actor for a part in a foreign language.",
+      "options": [
+        "Anna Magnani",
+        "Claudia Cardinale",
+        "Gina Lollobrigida",
+        "Sophia Loren"
+      ],
+      "answer": 3,
+      "hint": "She grew up in Pozzuoli, near Naples. She often played opposite Marcello Mastroianni, as in Marriage Italian Style.",
+      "explanation": "Sophia Loren won the Oscar in April 1962 for her part as a mother who flees the war with her daughter. The film is based on a novel by Alberto Moravia. Anna Magnani had won the same prize in 1956, but for a film in English, The Rose Tattoo.",
+      "image": null,
+      "sources": [
+        { "label": "Academy of Motion Picture Arts and Sciences, The 34th Academy Awards (1962)", "url": "https://www.oscars.org/oscars/ceremonies/1962" },
+        { "label": "Academy of Motion Picture Arts and Sciences, Collection Highlights: Sophia Loren", "url": "https://www.oscars.org/collection-highlights/sophia-loren" },
+        { "label": "Treccani, Enciclopedia del Cinema, Sophia Loren", "url": "https://www.treccani.it/enciclopedia/sophia-loren_(Enciclopedia-del-Cinema)/" },
+        { "label": "Academy of Motion Picture Arts and Sciences, The 28th Academy Awards (1956)", "url": "https://www.oscars.org/oscars/ceremonies/1956" }
+      ]
+    },
+    {
+      "id": "d018-q04",
+      "difficulty": "easy",
+      "question": "Which film studios, opened in Rome in 1937, became the home of Italian cinema and the place where Fellini made most of his films?",
+      "options": [
+        "Babelsberg",
+        "Billancourt",
+        "Cinecittà",
+        "Pinewood"
+      ],
+      "answer": 2,
+      "hint": "In the 1950s so many American films were made there, such as Ben-Hur, that people called it \"Hollywood on the Tiber\".",
+      "explanation": "Mussolini opened Cinecittà, \"Cinema City\", on 28 April 1937. From 1944 its buildings housed refugees for some years, which is one reason why the neorealist directors filmed in the streets. Fellini worked for decades in Studio 5, for a long time its largest stage.",
+      "image": null,
+      "sources": [
+        { "label": "Turismo Roma, The Cinecittà Studios", "url": "https://www.turismoroma.it/en/places/cinecitt%C3%A0-studios" },
+        { "label": "Treccani, Enciclopedia del Cinema, Cinecittà", "url": "https://www.treccani.it/enciclopedia/cinecitta_(Enciclopedia-del-Cinema)/" },
+        { "label": "Apollo Magazine, Inside Federico Fellini's dream factory in Rome", "url": "https://apollo-magazine.com/cinecitta-film-studio-rome-fellini-mussolini/" },
+        { "label": "Centro Primo Levi, Noa Steimatsky, The Cinecittà Refugee Camp (1944-1950)", "url": "https://primolevicenter.org/printed-matter/the-cinecitta-refugee-camp-1944-1950/" }
+      ]
+    },
+    {
+      "id": "d018-q05",
+      "difficulty": "medium",
+      "question": "Who directed Rome, Open City (1945), the film about the Resistance that made Italian neorealism famous around the world?",
+      "options": [
+        "Luchino Visconti",
+        "Michelangelo Antonioni",
+        "Roberto Rossellini",
+        "Vittorio De Sica"
+      ],
+      "answer": 2,
+      "hint": "A few years later the Hollywood star Ingrid Bergman left her husband for him, and it was a great scandal. The actress Isabella is their daughter.",
+      "explanation": "Rossellini began shooting in January 1945, only months after the Germans had left Rome, when film stock was very hard to find. Anna Magnani's run behind the German lorry is one of the most famous scenes in cinema. The young Federico Fellini, then 24, helped to write the script.",
+      "image": {
+        "src": "images/day-018/p05.jpg",
+        "alt": "A black-and-white close-up of a woman with dark, untidy hair, one hand on her head, frowning in the sun.",
+        "width": 1024,
+        "height": 731,
+        "label": {
+          "artist": "Roberto Rossellini (director)",
+          "title": "Anna Magnani in Rome, Open City",
+          "date": "1945",
+          "place": "Wikimedia Commons (public domain in Italy: a film still more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Magnani_in_Roma_citt%C3%A0_aperta.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Enciclopedia del Cinema, Roma città aperta", "url": "https://www.treccani.it/enciclopedia/roma-citta-aperta_(Enciclopedia-del-Cinema)/" },
+        { "label": "British Film Institute, Rome, Open City: Roberto Rossellini's great leap for realism on screen", "url": "https://www.bfi.org.uk/features/rome-open-city-roberto-rossellinis-great-leap-realism-screen" },
+        { "label": "Treccani, Enciclopedia del Cinema, Federico Fellini", "url": "https://www.treccani.it/enciclopedia/federico-fellini_(Enciclopedia-del-Cinema)/" },
+        { "label": "Treccani, Enciclopedia del Cinema, Roberto Rossellini", "url": "https://www.treccani.it/enciclopedia/roberto-rossellini_(Enciclopedia-del-Cinema)/" }
+      ]
+    },
+    {
+      "id": "d018-q06",
+      "difficulty": "medium",
+      "question": "Who played Gelsomina, the simple girl sold to a travelling strongman, in Fellini's La strada (1954)?",
+      "options": [
+        "Alida Valli",
+        "Anna Magnani",
+        "Eleonora Rossi Drago",
+        "Giulietta Masina"
+      ],
+      "answer": 3,
+      "hint": "She was the director's wife, from 1943 until his death fifty years later. She also played the lead in his Nights of Cabiria.",
+      "explanation": "Giulietta Masina played Gelsomina like a sad clown, and critics compared her to Charlie Chaplin. Zampanò, the strongman, was played by the Mexican-born American actor Anthony Quinn. The music is by Nino Rota, who wrote for every Fellini film from 1952 to 1979.",
+      "image": {
+        "src": "images/day-018/p06.jpg",
+        "alt": "A black-and-white frame from a film trailer: a bare-chested man with a chain round his chest, and the printed words \"Anthony Quinn as Zampano\".",
+        "width": 1280,
+        "height": 772,
+        "label": {
+          "artist": "Trailer for the American release",
+          "title": "Anthony Quinn as Zampanò in La strada",
+          "date": "1956",
+          "place": "Wikimedia Commons (published in the United States without a copyright notice)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Anthony-quinn-as-zampano.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Enciclopedia del Cinema, Giulietta Masina", "url": "https://www.treccani.it/enciclopedia/giulietta-masina_(Enciclopedia-del-Cinema)/" },
+        { "label": "Treccani, Enciclopedia del Cinema, Nino Rota", "url": "https://www.treccani.it/enciclopedia/nino-rota_(Enciclopedia-del-Cinema)/" },
+        { "label": "Treccani, Enciclopedia del Cinema, Anthony Quinn", "url": "https://www.treccani.it/enciclopedia/anthony-quinn_(Enciclopedia-del-Cinema)/" },
+        { "label": "BFI Player, La strada (1954)", "url": "https://player.bfi.org.uk/subscription/film/watch-la-strada-1954-online" }
+      ]
+    },
+    {
+      "id": "d018-q07",
+      "difficulty": "medium",
+      "question": "Why did Fellini call his film of 1963 \"8½\"?",
+      "options": [
+        "It was his age when he first saw a film",
+        "It was the length of the film in reels",
+        "It was the number of films he had made",
+        "It was the number of weeks of filming"
+      ],
+      "answer": 2,
+      "hint": "The film is about a famous director, played by Marcello Mastroianni, who has no idea what his next film will be. Fellini could not think of a title either.",
+      "explanation": "Fellini counted six full films, plus two short ones and one made together with another director, each worth a half: seven and a half. The new film was number eight and a half. Many directors have since made films about making films, but this one is the model.",
+      "image": {
+        "src": "images/day-018/p07.jpg",
+        "alt": "A black-and-white film still: a man in a dark suit looks over the top of his dark glasses, one finger on his nose.",
+        "width": 1000,
+        "height": 563,
+        "label": {
+          "artist": "Federico Fellini (director)",
+          "title": "Marcello Mastroianni in 8½",
+          "date": "1963",
+          "place": "Wikimedia Commons (public domain in Italy: a film still more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Marcello_Mastroianni_in_8%C2%BD.jpg"
+      },
+      "sources": [
+        { "label": "British Film Institute, 8½ (1963)", "url": "https://www.bfi.org.uk/film/3b1e80a4-111a-5fff-b799-7c50460d6284/812" },
+        { "label": "Sky TG24, 8½ di Fellini: le cose da sapere", "url": "https://tg24.sky.it/spettacolo/cinema/approfondimenti/8-e-mezzo-film-fellini" },
+        { "label": "The Encyclopedia of Science Fiction, 8½", "url": "https://sf-encyclopedia.com/entry/8_12" },
+        { "label": "Wikipedia, 8½", "url": "https://en.wikipedia.org/wiki/8%C2%BD" }
+      ]
+    },
+    {
+      "id": "d018-q08",
+      "difficulty": "medium",
+      "question": "In Luchino Visconti's The Leopard (1963), set in Sicily in the 1860s, who plays the ageing Prince of Salina?",
+      "options": [
+        "Alain Delon",
+        "Burt Lancaster",
+        "Marcello Mastroianni",
+        "Vittorio Gassman"
+      ],
+      "answer": 1,
+      "hint": "He had begun as a circus acrobat. Visconti did not want him at first, but the producers insisted.",
+      "explanation": "Burt Lancaster was a Hollywood star, and his voice was dubbed into Italian. Alain Delon plays his nephew Tancredi and Claudia Cardinale the beautiful Angelica. The film, from the novel by Giuseppe Tomasi di Lampedusa, won the Palme d'Or at Cannes in 1963.",
+      "image": {
+        "src": "images/day-018/p08.jpg",
+        "alt": "A black-and-white photograph of a film crew in a narrow street: a tall man in a dark suit stands with his hands behind his back beside a large camera.",
+        "width": 720,
+        "height": 996,
+        "label": {
+          "artist": "Manfredi Mazzè",
+          "title": "Luchino Visconti on the set of The Leopard in Palermo (detail)",
+          "date": "1962 or 1963",
+          "place": "Wikimedia Commons (public domain in Italy: a photograph more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Il_Gattopardo_(Visconti,_1963)_set_esterno_Croce_dei_Vespri.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Enciclopedia del Cinema, Il Gattopardo", "url": "https://www.treccani.it/enciclopedia/il-gattopardo_(Enciclopedia-del-Cinema)/" },
+        { "label": "Turner Classic Movies, The Leopard (1963)", "url": "https://www.tcm.com/articles/410114/the-leopard-1963-the-leopard" },
+        { "label": "Treccani, Enciclopedia del Cinema, Burt Lancaster", "url": "https://www.treccani.it/enciclopedia/burt-lancaster_(Enciclopedia-del-Cinema)/" },
+        { "label": "Treccani, Enciclopedia del Cinema, Luchino Visconti", "url": "https://www.treccani.it/enciclopedia/luchino-visconti_(Enciclopedia-del-Cinema)/" }
+      ]
+    },
+    {
+      "id": "d018-q09",
+      "difficulty": "hard",
+      "question": "In 1948 Luchino Visconti made a film with the real fishermen of a Sicilian village, who spoke their own dialect. It is based on Giovanni Verga's novel I Malavoglia. What is it called?",
+      "options": [
+        "La terra trema",
+        "Miracolo a Milano",
+        "Ossessione",
+        "Stromboli"
+      ],
+      "answer": 0,
+      "hint": "Visconti went to Sicily to make a short documentary with money from the Communist Party, and stayed for months. The dialect was so hard to follow that a voice in Italian was added.",
+      "explanation": "La terra trema, \"The Earth Trembles\", was shot at Aci Trezza, near Catania, the village of Verga's novel. Nobody in it was a professional actor. It failed in the cinemas, but it is now seen as one of the great works of neorealism.",
+      "image": {
+        "src": "images/day-018/p09.jpg",
+        "alt": "A black-and-white film still: fishing boats and a crowd on a shore at dusk, with a tall pointed rock rising from the sea.",
+        "width": 720,
+        "height": 544,
+        "label": {
+          "artist": "Luchino Visconti (director)",
+          "title": "The shore of Aci Trezza in La terra trema",
+          "date": "1948",
+          "place": "Wikimedia Commons (public domain in Italy: a film still more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:La_terra_trema_visconti.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Enciclopedia del Cinema, Luchino Visconti", "url": "https://www.treccani.it/enciclopedia/luchino-visconti_(Enciclopedia-del-Cinema)/" },
+        { "label": "Turner Classic Movies, La Terra Trema", "url": "https://www.tcm.com/articles/33780/la-terra-trema" },
+        { "label": "Berkeley Art Museum and Pacific Film Archive, La terra trema", "url": "https://bampfa.org/node/151542" },
+        { "label": "Treccani, Enciclopedia on line, Aci Trezza", "url": "https://www.treccani.it/enciclopedia/aci-trezza/" }
+      ]
+    },
+    {
+      "id": "d018-q10",
+      "difficulty": "hard",
+      "question": "Four of Fellini's films won the Oscar for best foreign-language film. Which of these did NOT?",
+      "options": [
+        "Amarcord",
+        "La dolce vita",
+        "La strada",
+        "Nights of Cabiria"
+      ],
+      "answer": 1,
+      "hint": "It won the Palme d'Or at Cannes, and the Vatican's newspaper attacked it as immoral. At the Oscars it took only the prize for costumes.",
+      "explanation": "La dolce vita was not even Italy's candidate for the foreign-film Oscar. Fellini's four winners were La strada, Nights of Cabiria, 8½ and Amarcord. In March 1993, seven months before he died, he received an honorary Oscar for his life's work.",
+      "image": {
+        "src": "images/day-018/p10.jpg",
+        "alt": "A colour photograph: a man in a long dark coat walks across a field holding a megaphone; behind him a man plays an accordion and people sit on the grass.",
+        "width": 1280,
+        "height": 941,
+        "label": {
+          "artist": "Unknown photographer",
+          "title": "Federico Fellini during the filming of Nights of Cabiria",
+          "date": "1956",
+          "place": "Wikimedia Commons (public domain in Italy: a photograph more than 20 years old)"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Federico_Fellini_56.jpg"
+      },
+      "sources": [
+        { "label": "Academy of Motion Picture Arts and Sciences, The 34th Academy Awards (1962)", "url": "https://www.oscars.org/oscars/ceremonies/1962" },
+        { "label": "Academy of Motion Picture Arts and Sciences, The 29th Academy Awards (1957)", "url": "https://www.oscars.org/oscars/ceremonies/1957" },
+        { "label": "Academy of Motion Picture Arts and Sciences, The 47th Academy Awards (1975)", "url": "https://www.oscars.org/oscars/ceremonies/1975" },
+        { "label": "Treccani, Enciclopedia del Cinema, Federico Fellini", "url": "https://www.treccani.it/enciclopedia/federico-fellini_(Enciclopedia-del-Cinema)/" }
+      ]
+    }
+  ]
+}

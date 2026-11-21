@@ -1,0 +1,345 @@
+{
+  "id": "day-016",
+  "number": 16,
+  "theme": "Science",
+  "title": "Galileo and Newton",
+  "questions": [
+    {
+      "id": "d016-q01",
+      "difficulty": "easy",
+      "question": "In January 1610 Galileo pointed his telescope at a planet and found four moons going round it. Which planet?",
+      "options": [
+        "Jupiter",
+        "Mercury",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": 0,
+      "hint": "He named the moons after the Medici, the ruling family of Florence. Today they are called Io, Europa, Ganymede and Callisto.",
+      "explanation": "On 7 January 1610 Galileo saw three small \"stars\" beside Jupiter. Within a week he had found a fourth and understood that they were moons. He published the discovery in March in a short book, the Starry Messenger, and they are still called the Galilean moons.",
+      "image": {
+        "src": "images/day-016/p01.jpg",
+        "alt": "A portrait of an old man with a grey beard, in black with a white collar, holding a small telescope.",
+        "width": 1260,
+        "height": 1600,
+        "label": {
+          "artist": "Justus Sustermans",
+          "title": "Galileo Galilei",
+          "date": "about 1636–1640",
+          "place": "National Maritime Museum, Greenwich"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg"
+      },
+      "sources": [
+        { "label": "The Galileo Project (Rice University), Satellites of Jupiter", "url": "https://galileo.library.rice.edu/sci/observations/jupiter_satellites.html" },
+        { "label": "NASA Science, Jupiter Moons", "url": "https://science.nasa.gov/jupiter/jupiter-moons/" },
+        { "label": "Museo Galileo, Galileo's telescope: from the workshop to the stars", "url": "https://brunelleschi.imss.fi.it/esplora/cannocchiale/dswmedia/storia/estoria2_st.html" }
+      ]
+    },
+    {
+      "id": "d016-q02",
+      "difficulty": "easy",
+      "question": "In which book, published in 1687, did Isaac Newton set out his three laws of motion and the law of universal gravitation?",
+      "options": [
+        "Novum Organum",
+        "Opticks",
+        "Principia",
+        "The Sceptical Chymist"
+      ],
+      "answer": 2,
+      "hint": "It is written in Latin, in three parts. The astronomer Edmond Halley pushed Newton to write it and paid for the printing himself.",
+      "explanation": "The full title is Philosophiae Naturalis Principia Mathematica, \"Mathematical Principles of Natural Philosophy\". It showed that the same force makes an apple fall and keeps the Moon in its orbit. Opticks is Newton's later book, of 1704.",
+      "image": {
+        "src": "images/day-016/p02.jpg",
+        "alt": "A portrait of a man with long grey hair, in a plain dark gown.",
+        "width": 1280,
+        "height": 1541,
+        "label": {
+          "artist": "Godfrey Kneller",
+          "title": "Isaac Newton",
+          "date": "1689",
+          "place": "Private collection"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg"
+      },
+      "sources": [
+        { "label": "Cambridge Digital Library, manuscript of Newton's Principia (Royal Society MS/69)", "url": "https://cudl.lib.cam.ac.uk/view/MS-ROYALSOCIETY-00069" },
+        { "label": "Stanford Encyclopedia of Philosophy, Newton's Principia", "url": "https://plato.stanford.edu/entries/newton-principia/" },
+        { "label": "MacTutor (University of St Andrews), Isaac Newton", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/" }
+      ]
+    },
+    {
+      "id": "d016-q03",
+      "difficulty": "easy",
+      "question": "In 1633 the Roman Inquisition put Galileo on trial and made him deny an idea that he had defended. Which idea?",
+      "options": [
+        "That the Earth is a sphere",
+        "That the Earth moves round the Sun",
+        "That the universe has no end",
+        "That the orbits of the planets are ellipses"
+      ],
+      "answer": 1,
+      "hint": "The idea came from the Polish astronomer Copernicus, whose book of 1543 the Church had suspended in 1616.",
+      "explanation": "On 22 June 1633 Galileo was found \"vehemently suspected of heresy\" and had to deny on his knees that the Earth moves. He spent his last years under house arrest in his villa at Arcetri, near Florence. There is no proof that he then muttered \"And yet it moves\".",
+      "image": {
+        "src": "images/day-016/p03.jpg",
+        "alt": "A painting: a man in dark red stands facing three churchmen at a table with a red cloth; a crucifix hangs on the wall.",
+        "width": 1280,
+        "height": 979,
+        "label": {
+          "artist": "Cristiano Banti",
+          "title": "Galileo before the Roman Inquisition",
+          "date": "1857",
+          "place": "Private collection"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Galileo_facing_the_Roman_Inquisition.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Galileo Galilei", "url": "https://plato.stanford.edu/entries/galileo/" },
+        { "label": "Museo Galileo, Sentence of condemnation of Galileo", "url": "https://catalogue.museogalileo.it/indepth/SentenceCondemnationGalileo.html" },
+        { "label": "Treccani, Galileo Galilei", "url": "https://www.treccani.it/enciclopedia/galileo-galilei/" },
+        { "label": "Scientific American, Did Galileo Truly Say 'And Yet It Moves'?", "url": "https://www.scientificamerican.com/blog/observations/did-galileo-truly-say-and-yet-it-moves-a-modern-detective-story/" }
+      ]
+    },
+    {
+      "id": "d016-q04",
+      "difficulty": "easy",
+      "question": "In the 1660s Newton passed a beam of sunlight through a glass prism in a dark room. What did his experiments show?",
+      "options": [
+        "That glass slows light down",
+        "That light needs time to travel through space",
+        "That light travels in waves",
+        "That white light is a mix of colours"
+      ],
+      "answer": 3,
+      "hint": "He then sent one part of the beam through a second prism, and it did not change again. He described what he saw with the Latin word \"spectrum\".",
+      "explanation": "Before Newton, people thought that white light was pure and simple, and that the prism changed it. He showed that white light already contains all the colours, and that the prism only separates them. He counted seven colours, perhaps to match the seven notes of the musical scale.",
+      "image": {
+        "src": "images/day-016/p04.jpg",
+        "alt": "A portrait of a man in a long curly wig and a loose robe over an open white shirt.",
+        "width": 787,
+        "height": 939,
+        "label": {
+          "artist": "Godfrey Kneller (photograph by Daniel Vodenitcharov)",
+          "title": "Isaac Newton",
+          "date": "1702",
+          "place": "National Portrait Gallery, London"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Isaac_Newton_by_Sir_Godfrey_Kneller.jpg"
+      },
+      "sources": [
+        { "label": "The Newton Project (Oxford), Newton's letter on light and colours, 1672", "url": "https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00006" },
+        { "label": "Whipple Library (University of Cambridge), Isaac Newton and music", "url": "https://www.whipplelib.hps.cam.ac.uk/node/216" },
+        { "label": "MacTutor (University of St Andrews), Isaac Newton", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/" }
+      ]
+    },
+    {
+      "id": "d016-q05",
+      "difficulty": "medium",
+      "question": "Through his telescope Galileo saw that one planet shows phases like the Moon, from a thin crescent to a full disc. This fitted the system of Copernicus. Which planet?",
+      "options": [
+        "Mars",
+        "Mercury",
+        "Saturn",
+        "Venus"
+      ],
+      "answer": 3,
+      "hint": "Galileo watched it at the end of 1610. He first announced the discovery as a Latin anagram, a puzzle of mixed-up letters, so that nobody could steal it.",
+      "explanation": "A planet can show the full set of phases only if it goes round the Sun and not round the Earth. Galileo later gave the solution of his anagram: \"The mother of loves imitates the shapes of Cynthia\", which means that Venus copies the Moon.",
+      "image": {
+        "src": "images/day-016/p05.jpg",
+        "alt": "A portrait of a man of about forty with short hair and a beard; gold letters beside his head give his name in Latin.",
+        "width": 1280,
+        "height": 1523,
+        "label": {
+          "artist": "Attributed to Francesco Apollodoro",
+          "title": "Galileo Galilei",
+          "date": "about 1602–1607",
+          "place": "National Maritime Museum, Greenwich"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Galileo_Galilei,_1564-1642_RMG_BHC2699.tiff"
+      },
+      "sources": [
+        { "label": "Museo Galileo, Phases of Venus", "url": "https://catalogue.museogalileo.it/indepth/PhasesVenus.html" },
+        { "label": "Museo Galileo, Galileo's telescope: the phases of Venus (the anagram)", "url": "https://brunelleschi.imss.fi.it/esplora/cannocchiale/dswmedia/simula/esimula1_3_st.html" },
+        { "label": "The Galileo Project (Rice University), Galileo timeline", "url": "https://galileo.library.rice.edu/chron/galileo.html" },
+        { "label": "Wikipedia, Phases of Venus", "url": "https://en.wikipedia.org/wiki/Phases_of_Venus" }
+      ]
+    },
+    {
+      "id": "d016-q06",
+      "difficulty": "medium",
+      "question": "At which university did Galileo teach mathematics from 1592 to 1610, years that he later called the best of his life?",
+      "options": [
+        "Bologna",
+        "Padua",
+        "Pavia",
+        "Pisa"
+      ],
+      "answer": 1,
+      "hint": "He built his first telescopes in that city. The university, founded in 1222, still shows a wooden teaching desk that, by tradition, his students built for him.",
+      "explanation": "Padua belonged to the Republic of Venice, which left its professors unusually free. In 1609 Galileo showed his telescope to the Venetian senators from the bell tower of St Mark's. In 1610 he left for Florence, to serve the Grand Duke of Tuscany.",
+      "image": {
+        "src": "images/day-016/p06.jpg",
+        "alt": "A wall painting: a man shows a long telescope to an old ruler in a gold robe and white fur, with other men watching by a window.",
+        "width": 737,
+        "height": 800,
+        "label": {
+          "artist": "Giuseppe Bertini",
+          "title": "Galileo shows the Doge of Venice how to use the telescope",
+          "date": "1858",
+          "place": "Villa Andrea Ponti, Varese"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Bertini_fresco_of_Galileo_Galilei_and_Doge_of_Venice.jpg"
+      },
+      "sources": [
+        { "label": "University of Padua, Galileo's years in Padua", "url": "https://www.unipd.it/en/galileo-anni-padovani" },
+        { "label": "University of Padua, Sala dei Quaranta (Galileo's chair)", "url": "https://www.unipd.it/en/sala-quaranta-palazzo-bo" },
+        { "label": "Museo Galileo, Galileo's telescope: from the workshop to the stars", "url": "https://brunelleschi.imss.fi.it/esplora/cannocchiale/dswmedia/storia/estoria2_st.html" },
+        { "label": "University of Padua, History", "url": "https://www.unipd.it/en/storia" }
+      ]
+    },
+    {
+      "id": "d016-q07",
+      "difficulty": "medium",
+      "question": "In 1665 the University of Cambridge closed, and the young Newton went home to his family's farm, where he did some of his greatest work. Why had the university closed?",
+      "options": [
+        "Because of a civil war",
+        "Because of a famine",
+        "Because of the plague",
+        "Because of a student revolt"
+      ],
+      "answer": 2,
+      "hint": "London suffered most that year, and Samuel Pepys described it in his famous diary.",
+      "explanation": "The Great Plague of 1665 killed perhaps 100,000 people in London. At Woolsthorpe, in Lincolnshire, Newton worked on gravity, on light and on the mathematics now called calculus. The story that a falling apple there set him thinking comes from Newton himself, late in his life.",
+      "image": {
+        "src": "images/day-016/p07.jpg",
+        "alt": "An old engraving, seen from above, of a large college with courtyards, a fountain and gardens.",
+        "width": 1280,
+        "height": 674,
+        "label": {
+          "artist": "David Loggan",
+          "title": "Trinity College, Cambridge, Newton's college, from Cantabrigia Illustrata",
+          "date": "1690",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Trinity_College_Cambridge_1690.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Isaac Newton", "url": "https://plato.stanford.edu/entries/newton/" },
+        { "label": "The National Archives (UK), The Great Plague of 1665–1666", "url": "https://www.nationalarchives.gov.uk/education/resources/great-plague/" },
+        { "label": "Linda Hall Library, Isaac Newton and the apple", "url": "https://www.lindahall.org/about/news/scientist-of-the-day/isaac-newton-4/" },
+        { "label": "MacTutor (University of St Andrews), Isaac Newton", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/" }
+      ]
+    },
+    {
+      "id": "d016-q08",
+      "difficulty": "medium",
+      "question": "In 1696 Newton left Cambridge for London to help run a royal institution. He was its Master from 1699 until his death. Which institution?",
+      "options": [
+        "The Royal Mint",
+        "The Bank of England",
+        "The Royal Observatory",
+        "The East India Company"
+      ],
+      "answer": 0,
+      "hint": "He took the job seriously and hunted down counterfeiters in person. One of them, William Chaloner, was hanged in 1699.",
+      "explanation": "Newton became Warden of the Royal Mint in 1696 and Master in 1699. He helped to run the great recoinage, when the old silver coins of England were melted down and struck again. He was knighted in 1705 and is buried in Westminster Abbey.",
+      "image": {
+        "src": "images/day-016/p08.jpg",
+        "alt": "A portrait of an old man with short white hair, in a loose golden gown, sitting by a stone column.",
+        "width": 759,
+        "height": 1124,
+        "label": {
+          "artist": "James Thornhill",
+          "title": "Sir Isaac Newton",
+          "date": "about 1709–1712",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:James_Thornhill_Portrait_of_Sir_Isaac_Newton.jpg"
+      },
+      "sources": [
+        { "label": "Royal Mint Museum, Isaac Newton", "url": "https://www.royalmintmuseum.org.uk/journal/people/isaac-newton/" },
+        { "label": "Newton & the Mint (University of Oxford), Guzman Redivivus: life of Will. Chaloner (1699)", "url": "https://newtonandthemint.history.ox.ac.uk/transcriptions/normalised/MINT01534" },
+        { "label": "Westminster Abbey, Sir Isaac Newton", "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/sir-isaac-newton" },
+        { "label": "Newton & the Mint (University of Oxford), Newton at the Mint", "url": "https://newtonandthemint.history.ox.ac.uk/newtons-london/newton-at-the-mint" }
+      ]
+    },
+    {
+      "id": "d016-q09",
+      "difficulty": "hard",
+      "question": "Which pope, once a friend and admirer of Galileo, was reigning when the Inquisition condemned him in 1633?",
+      "options": [
+        "Clement VIII",
+        "Innocent X",
+        "Paul V",
+        "Urban VIII"
+      ],
+      "answer": 3,
+      "hint": "He was born Maffeo Barberini, in Florence. Bernini made the great bronze canopy over the altar of St Peter's for him.",
+      "explanation": "As a cardinal, Maffeo Barberini had written a Latin poem in praise of Galileo. But in the Dialogue of 1632 the pope's own argument is spoken by a character called Simplicio, and it seems that Urban felt mocked. In 1992 Pope John Paul II said that the theologians of Galileo's time had made an error.",
+      "image": {
+        "src": "images/day-016/p09.jpg",
+        "alt": "The engraved title picture of a book of 1632: three men in long robes talk on a shore, under a curtain that carries the title.",
+        "width": 1157,
+        "height": 1600,
+        "label": {
+          "artist": "Stefano della Bella",
+          "title": "Frontispiece of Galileo's Dialogue: Aristotle, Ptolemy and Copernicus",
+          "date": "1632",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Frontispiece_for_Dialogo_di_Galileo_Galilei_MET_DP818095.jpg"
+      },
+      "sources": [
+        { "label": "The Galileo Project (Rice University), Pope Urban VIII", "url": "https://galileo.library.rice.edu/gal/urban.html" },
+        { "label": "Vatican, John Paul II, address to the Pontifical Academy of Sciences, 31 October 1992", "url": "https://www.vatican.va/content/john-paul-ii/fr/speeches/1992/october/documents/hf_jp-ii_spe_19921031_accademia-scienze.html" },
+        { "label": "Treccani, Urbano VIII papa", "url": "https://www.treccani.it/enciclopedia/urbano-viii-papa/" },
+        { "label": "Vatican Observatory, An Astro-Poem for Galileo", "url": "https://www.vaticanobservatory.org/sacred-space-astronomy/an-astro-poem-for-galileo" }
+      ]
+    },
+    {
+      "id": "d016-q10",
+      "difficulty": "hard",
+      "question": "\"If I have seen further, it is by standing on the shoulders of giants.\" To which scientist did Newton write these words in a letter?",
+      "options": [
+        "Robert Boyle",
+        "Robert Hooke",
+        "Christiaan Huygens",
+        "Gottfried Leibniz"
+      ],
+      "answer": 1,
+      "hint": "He was in charge of experiments at the Royal Society, and his book Micrographia has the first drawing of cells seen under a microscope. He and Newton became bitter enemies.",
+      "explanation": "Newton wrote the sentence to Robert Hooke in February 1676, during a polite pause in their quarrel about light. Later Hooke said that Newton had taken the idea of the law of gravity from him. The image of dwarfs on the shoulders of giants was already old: it goes back to Bernard of Chartres in the twelfth century.",
+      "image": {
+        "src": "images/day-016/p10.jpg",
+        "alt": "A colour print: a naked, muscular man sits on a rock and bends down to draw a diagram with a pair of compasses.",
+        "width": 1280,
+        "height": 985,
+        "label": {
+          "artist": "William Blake",
+          "title": "Newton",
+          "date": "1795 – about 1805",
+          "place": "Tate, London"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg"
+      },
+      "sources": [
+        { "label": "Linda Hall Library, Newton's letter to Hooke, 5 February 1675/76", "url": "https://www.lindahall.org/about/news/scientist-of-the-day/isaac-newton-3/" },
+        { "label": "UC Museum of Paleontology (Berkeley), Robert Hooke", "url": "https://ucmp.berkeley.edu/history/hooke.html" },
+        { "label": "Stanford Encyclopedia of Philosophy, John of Salisbury", "url": "https://plato.stanford.edu/entries/john-salisbury/" },
+        { "label": "MacTutor (University of St Andrews), Robert Hooke", "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hooke/" }
+      ]
+    }
+  ]
+}

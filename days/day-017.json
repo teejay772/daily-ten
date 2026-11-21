@@ -1,0 +1,345 @@
+{
+  "id": "day-017",
+  "number": 17,
+  "theme": "Philosophy and ideas",
+  "title": "Socrates, Plato, Aristotle",
+  "questions": [
+    {
+      "id": "d017-q01",
+      "difficulty": "easy",
+      "question": "This painting by Jacques-Louis David, of 1787, shows the last moments of a philosopher of Athens. Who is he?",
+      "options": [
+        "Aristotle",
+        "Epicurus",
+        "Plato",
+        "Socrates"
+      ],
+      "answer": 3,
+      "hint": "In 399 BC a jury of Athens condemned him to death for not believing in the city's gods and for corrupting the young. He wrote nothing himself.",
+      "explanation": "Socrates was put to death by drinking hemlock, a poison. His friends offered to help him escape, but he refused to break the law. In the painting he reaches for the cup while he goes on teaching.",
+      "image": {
+        "src": "images/day-017/p01.jpg",
+        "alt": "A painting: an old man sits upright on a bed in a stone prison, pointing upward with one hand and reaching for a cup with the other, among weeping friends.",
+        "width": 1280,
+        "height": 849,
+        "label": {
+          "artist": "Jacques-Louis David",
+          "title": "The Death of Socrates",
+          "date": "1787",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Death_of_Socrates_MET_DT40.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Socrates", "url": "https://plato.stanford.edu/entries/socrates/" },
+        { "label": "Internet Encyclopedia of Philosophy, Socrates", "url": "https://iep.utm.edu/socrates/" },
+        { "label": "Web Gallery of Art, David: The Death of Socrates", "url": "https://www.wga.hu/html_m/d/david_j/2/205david.html" },
+        { "label": "Wikipedia, The Death of Socrates", "url": "https://en.wikipedia.org/wiki/The_Death_of_Socrates" }
+      ]
+    },
+    {
+      "id": "d017-q02",
+      "difficulty": "easy",
+      "question": "Which philosopher was the teacher of the young Alexander the Great?",
+      "options": [
+        "Aristotle",
+        "Diogenes",
+        "Plato",
+        "Theophrastus"
+      ],
+      "answer": 0,
+      "hint": "King Philip II of Macedon called him to his court in about 343 BC, when the prince was 13. The philosopher's father had been doctor to an earlier Macedonian king.",
+      "explanation": "Aristotle taught Alexander for a few years at Mieza, in Macedonia. Later he went back to Athens and opened a school of his own. Alexander is said to have carried with him on his campaigns a copy of Homer's Iliad that Aristotle had prepared for him.",
+      "image": {
+        "src": "images/day-017/p02.jpg",
+        "alt": "An old illustration: a bearded man in a dark cloak, holding a scroll, talks to a young man who sits in a chair and listens.",
+        "width": 671,
+        "height": 964,
+        "label": {
+          "artist": "Jean Leon Gerome Ferris",
+          "title": "Aristotle tutoring Alexander",
+          "date": "1895",
+          "place": "Wikimedia Commons"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Aristotle_tutoring_Alexander_by_J_L_G_Ferris_1895.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Aristotle", "url": "https://plato.stanford.edu/entries/aristotle/" },
+        { "label": "Plutarch, Life of Alexander 7-8 (Loeb, LacusCurtius)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/3.html" },
+        { "label": "Diogenes Laertius, Life of Aristotle (Loeb, LacusCurtius)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/5/Aristotle*.html" },
+        { "label": "Treccani, Aristotele", "url": "https://www.treccani.it/enciclopedia/aristotele/" }
+      ]
+    },
+    {
+      "id": "d017-q03",
+      "difficulty": "easy",
+      "question": "What was the name of the school that Plato founded just outside Athens in about 387 BC?",
+      "options": [
+        "The Academy",
+        "The Garden",
+        "The Lyceum",
+        "The Painted Porch"
+      ],
+      "answer": 0,
+      "hint": "It stood by a sacred grove named after a local hero. Its name lives on in many languages as a word for places of learning.",
+      "explanation": "The Academy took its name from the grove where it met, which was said to be named after the hero Academus. A later Platonic school was still teaching in Athens when the emperor Justinian forbade pagans to teach, in AD 529. The Garden was the school of Epicurus, and the Painted Porch, in Greek the \"Stoa Poikile\", gave its name to the Stoics.",
+      "image": {
+        "src": "images/day-017/p03.jpg",
+        "alt": "An ancient mosaic: seven bearded men in cloaks sit and stand under a tree, talking, with columns and a walled city behind them.",
+        "width": 1152,
+        "height": 1156,
+        "label": {
+          "artist": "Unknown Roman artist (photograph by Jebulon)",
+          "title": "Plato's Academy, a mosaic from Pompeii",
+          "date": "1st century BC – 1st century AD",
+          "place": "National Archaeological Museum, Naples"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:MANNapoli_124545_plato%27s_academy_mosaic.jpg"
+      },
+      "sources": [
+        { "label": "Internet Encyclopedia of Philosophy, Plato: The Academy", "url": "https://iep.utm.edu/plato-academy/" },
+        { "label": "Treccani, Accademia", "url": "https://www.treccani.it/enciclopedia/accademia/" },
+        { "label": "Diogenes Laertius, Life of Plato 3.7 (Loeb, LacusCurtius)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/3/Plato*.html" },
+        { "label": "Wikipedia, Platonic Academy", "url": "https://en.wikipedia.org/wiki/Platonic_Academy" }
+      ]
+    },
+    {
+      "id": "d017-q04",
+      "difficulty": "easy",
+      "question": "In the centre of Raphael's fresco The School of Athens stand two philosophers. The younger one, on the right, is Aristotle. Who is the older man beside him, pointing to the sky?",
+      "options": [
+        "Parmenides",
+        "Plato",
+        "Pythagoras",
+        "Socrates"
+      ],
+      "answer": 1,
+      "hint": "The book in his hand is the Timaeus. Raphael is said to have given him the face of Leonardo da Vinci.",
+      "explanation": "Plato points up, to the world of ideas, while his pupil Aristotle holds his hand out over the earth, the world we can see and study. Raphael painted the fresco in the Vatican between 1509 and 1511. Socrates is there too, on the left, counting arguments on his fingers.",
+      "image": {
+        "src": "images/day-017/p04.jpg",
+        "alt": "A detail of a fresco: an old man with a white beard, in a red robe, points upward; beside him a younger man in blue holds a book and stretches out his hand.",
+        "width": 804,
+        "height": 1052,
+        "label": {
+          "artist": "Raphael",
+          "title": "The School of Athens (detail)",
+          "date": "1509–1511",
+          "place": "Vatican Museums"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Sanzio_01_Plato_Aristotle.jpg"
+      },
+      "sources": [
+        { "label": "Vatican Museums, School of Athens", "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html" },
+        { "label": "Web Gallery of Art, Raphael: The School of Athens", "url": "https://www.wga.hu/html_m/r/raphael/4stanze/1segnatu/1/athens.html" },
+        { "label": "Treccani, Raffaello Sanzio", "url": "https://www.treccani.it/enciclopedia/raffaello-sanzio/" },
+        { "label": "Wikipedia, The School of Athens", "url": "https://en.wikipedia.org/wiki/The_School_of_Athens" }
+      ]
+    },
+    {
+      "id": "d017-q05",
+      "difficulty": "medium",
+      "question": "In Plato's Republic, prisoners have been chained in a cave since childhood. What do they see and take for reality?",
+      "options": [
+        "Paintings of animals",
+        "Reflections in a pool",
+        "Shadows on a wall",
+        "Stars through a crack in the rock"
+      ],
+      "answer": 2,
+      "hint": "Plato uses the story to explain his theory of Forms. For him, the things we see around us are only poor copies of a truer reality.",
+      "explanation": "Behind the prisoners a fire burns, and people carry objects past it; the prisoners see only the shadows. One prisoner is freed, climbs out into the sunlight and understands. When he goes back, the others laugh at him. Plato adds that they would kill anyone who tried to set them free.",
+      "image": {
+        "src": "images/day-017/p05.jpg",
+        "alt": "An old engraving of a dark vault: one crowd sits huddled behind a wall, and another group of men stands talking near an opening to the daylight.",
+        "width": 1229,
+        "height": 691,
+        "label": {
+          "artist": "Jan Saenredam, after Cornelis van Haarlem",
+          "title": "Plato's Cave",
+          "date": "1604",
+          "place": "Rijksmuseum, Amsterdam"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Grot_van_Plato,_RP-P-OB-10.544.jpg"
+      },
+      "sources": [
+        { "label": "Plato, Republic, Book VII (Jowett, MIT Internet Classics Archive)", "url": "https://classics.mit.edu/Plato/republic.8.vii.html" },
+        { "label": "Internet Encyclopedia of Philosophy, Plato", "url": "https://iep.utm.edu/plato/" },
+        { "label": "Stanford Encyclopedia of Philosophy, Plato", "url": "https://plato.stanford.edu/entries/plato/" }
+      ]
+    },
+    {
+      "id": "d017-q06",
+      "difficulty": "medium",
+      "question": "In Plato's Apology, Socrates says that a friend once asked an oracle whether anyone was wiser than Socrates, and the answer was no. Which oracle?",
+      "options": [
+        "Delos",
+        "Delphi",
+        "Dodona",
+        "Olympia"
+      ],
+      "answer": 1,
+      "hint": "The friend was called Chaerephon. Socrates decided that he was wiser than others in one thing only: he knew that he did not know.",
+      "explanation": "At Delphi a priestess, the Pythia, spoke for the god Apollo. Socrates says that he went round Athens questioning politicians, poets and craftsmen to test the oracle, and made many enemies. The words \"Know yourself\" were carved on the temple at Delphi.",
+      "image": {
+        "src": "images/day-017/p06.jpg",
+        "alt": "A painting: a young woman sits on a tall three-legged seat in a temple court, with priests around her and visitors bowing low on a carpet.",
+        "width": 1280,
+        "height": 968,
+        "label": {
+          "artist": "Camillo Miola",
+          "title": "The Oracle",
+          "date": "1880",
+          "place": "J. Paul Getty Museum, Los Angeles"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Camillo_Miola_(Biacca)_-_The_Oracle_-_72.PA.32_-_J._Paul_Getty_Museum.jpg"
+      },
+      "sources": [
+        { "label": "Plato, Apology (Jowett, MIT Internet Classics Archive)", "url": "https://classics.mit.edu/Plato/apology.html" },
+        { "label": "Stanford Encyclopedia of Philosophy, Socrates", "url": "https://plato.stanford.edu/entries/socrates/" },
+        { "label": "Pausanias, Description of Greece 10.24 (Theoi Classical Texts)", "url": "https://www.theoi.com/Text/Pausanias10B.html" }
+      ]
+    },
+    {
+      "id": "d017-q07",
+      "difficulty": "medium",
+      "question": "\"All men are mortal. Socrates is a man. Therefore Socrates is mortal.\" What is the name, from Aristotle's logic, for an argument of this form?",
+      "options": [
+        "A paradox",
+        "A reductio ad absurdum",
+        "A sophism",
+        "A syllogism"
+      ],
+      "answer": 3,
+      "hint": "Aristotle studied such arguments in the books later called the Organon, \"the tool\". For two thousand years they were the heart of logic in European schools.",
+      "explanation": "A syllogism draws a conclusion from two premises. Aristotle's books are the oldest study of logic that we have, and he is usually called the founder of logic in the West. The famous example about Socrates is not found in his books: later writers added it.",
+      "image": {
+        "src": "images/day-017/p07.jpg",
+        "alt": "A marble head of a bearded man with short hair, set on a chest of coloured stone.",
+        "width": 1196,
+        "height": 1600,
+        "label": {
+          "artist": "Roman copy of a Greek bronze by Lysippos (photograph by Marie-Lan Nguyen)",
+          "title": "Bust of Aristotle",
+          "date": "original about 330 BC",
+          "place": "Palazzo Altemps, Rome"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Aristotle's Logic", "url": "https://plato.stanford.edu/entries/aristotle-logic/" },
+        { "label": "Internet Encyclopedia of Philosophy, Aristotle", "url": "https://iep.utm.edu/aristotle/" },
+        { "label": "David A. Wheeler, The Origin of \"All Men are Mortal\"", "url": "https://dwheeler.com/essays/all-men-are-mortal.html" },
+        { "label": "Wikipedia, Syllogism", "url": "https://en.wikipedia.org/wiki/Syllogism" }
+      ]
+    },
+    {
+      "id": "d017-q08",
+      "difficulty": "medium",
+      "question": "Plato's dialogue the Symposium describes a drinking party in Athens. The guests agree that each in turn will make a speech in praise of the same thing. What?",
+      "options": [
+        "Death",
+        "Justice",
+        "Love",
+        "Wine"
+      ],
+      "answer": 2,
+      "hint": "The comic poet Aristophanes tells a myth: humans were once round, double creatures, and Zeus cut each of them in two.",
+      "explanation": "The party is at the house of the poet Agathon, in 416 BC. In Aristophanes' speech each of us is a half, always looking for the other half. Socrates then reports what a wise woman, Diotima, taught him: love begins with one beautiful body and climbs step by step to beauty itself.",
+      "image": {
+        "src": "images/day-017/p08.jpg",
+        "alt": "A wide painting of a party in a Greek house: guests lie on couches round a table, while a man with a wreath welcomes a noisy group arriving with torches.",
+        "width": 1280,
+        "height": 621,
+        "label": {
+          "artist": "Anselm Feuerbach",
+          "title": "Plato's Symposium",
+          "date": "1869",
+          "place": "Staatliche Kunsthalle Karlsruhe"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Plato%27s_Symposium_-_Anselm_Feuerbach_-_Google_Cultural_Institute.jpg"
+      },
+      "sources": [
+        { "label": "Plato, Symposium (Jowett, MIT Internet Classics Archive)", "url": "https://classics.mit.edu/Plato/symposium.html" },
+        { "label": "Stanford Encyclopedia of Philosophy, Socrates", "url": "https://plato.stanford.edu/entries/socrates/" },
+        { "label": "Wikipedia, Symposium (Plato)", "url": "https://en.wikipedia.org/wiki/Symposium_(Plato)" }
+      ]
+    },
+    {
+      "id": "d017-q09",
+      "difficulty": "hard",
+      "question": "What was the name of Socrates' wife, who has gone down in legend as bad-tempered?",
+      "options": [
+        "Aspasia",
+        "Hipparchia",
+        "Hypatia",
+        "Xanthippe"
+      ],
+      "answer": 3,
+      "hint": "Part of her name is the Greek word for horse. In several languages the name has become a word for a scolding wife.",
+      "explanation": "Xanthippe was probably much younger than Socrates, who had three sons. Plato shows her weeping in the prison on his last day. Xenophon, who knew them, already calls her hard to live with. A much later story says that she poured water over his head, and he said that after thunder comes rain.",
+      "image": {
+        "src": "images/day-017/p09.jpg",
+        "alt": "A painting: an old man sits on a step with his head on his hand, while a woman at a window empties a jug of water over him and another woman stands by.",
+        "width": 1280,
+        "height": 1387,
+        "label": {
+          "artist": "Reyer van Blommendael",
+          "title": "Socrates, his two wives and Alcibiades",
+          "date": "about 1660–1675",
+          "place": "Musée des Beaux-Arts, Strasbourg"
+        },
+        "credit": "Image: Wikimedia Commons, public domain.",
+        "page": "https://commons.wikimedia.org/wiki/File:Reyer_Jacobsz._van_Blommendael,_Socrate,_ses_deux_%C3%A9pouses_et_Alcibiade,_1675._Huile_sur_toile,_210_x_198_cm._Strasbourg,_Mus%C3%A9e_des_Beaux-Art.jpg"
+      },
+      "sources": [
+        { "label": "Treccani, Santippe", "url": "https://www.treccani.it/enciclopedia/santippe/" },
+        { "label": "Diogenes Laertius, Life of Socrates 2.26 and 2.36 (Loeb, LacusCurtius)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/2/Socrates*.html" },
+        { "label": "Plato, Phaedo (Jowett, MIT Internet Classics Archive)", "url": "https://classics.mit.edu/Plato/phaedo.html" },
+        { "label": "Wikipedia, Xanthippe", "url": "https://en.wikipedia.org/wiki/Xanthippe" }
+      ]
+    },
+    {
+      "id": "d017-q10",
+      "difficulty": "hard",
+      "question": "In which town of northern Greece was Aristotle born in 384 BC?",
+      "options": [
+        "Amphipolis",
+        "Pella",
+        "Stagira",
+        "Thasos"
+      ],
+      "answer": 2,
+      "hint": "Philip II of Macedon destroyed the town in about 349 BC. It was later rebuilt, it is said as a favour to the philosopher. Writers have long called Aristotle by a name taken from it.",
+      "explanation": "Stagira was a small Greek town on the coast of Chalcidice. Because of it Aristotle is often called \"the Stagirite\". At about 17 he went to Athens and studied in Plato's school for twenty years.",
+      "image": {
+        "src": "images/day-017/p10.jpg",
+        "alt": "A dark painting: a bearded man in a wide hat and a gold chain rests his hand on the head of a marble bust.",
+        "width": 1249,
+        "height": 1315,
+        "label": {
+          "artist": "Rembrandt",
+          "title": "Aristotle with a Bust of Homer",
+          "date": "1653",
+          "place": "The Metropolitan Museum of Art, New York"
+        },
+        "credit": "Image: Wikimedia Commons, CC0.",
+        "page": "https://commons.wikimedia.org/wiki/File:Aristotle_with_a_Bust_of_Homer_MET_DP319026.jpg"
+      },
+      "sources": [
+        { "label": "Stanford Encyclopedia of Philosophy, Aristotle", "url": "https://plato.stanford.edu/entries/aristotle/" },
+        { "label": "Plutarch, Life of Alexander 7 (Loeb, LacusCurtius)", "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/3.html" },
+        { "label": "Municipality of Aristotelis, Ancient Stageira", "url": "https://dimosaristoteli.gr/en/sanaforas/ancient-stageira/" },
+        { "label": "Wikipedia, Stagira (ancient city)", "url": "https://en.wikipedia.org/wiki/Stagira_(ancient_city)" }
+      ]
+    }
+  ]
+}

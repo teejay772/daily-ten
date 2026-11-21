@@ -97,6 +97,55 @@
       "theme": "Geopolitics",
       "title": "The UN and the world after 1945",
       "file": "days/day-014.json"
+    },
+    {
+      "id": "day-015",
+      "number": 15,
+      "theme": "Music",
+      "title": "Bach, Mozart, Beethoven",
+      "file": "days/day-015.json"
+    },
+    {
+      "id": "day-016",
+      "number": 16,
+      "theme": "Science",
+      "title": "Galileo and Newton",
+      "file": "days/day-016.json"
+    },
+    {
+      "id": "day-017",
+      "number": 17,
+      "theme": "Philosophy and ideas",
+      "title": "Socrates, Plato, Aristotle",
+      "file": "days/day-017.json"
+    },
+    {
+      "id": "day-018",
+      "number": 18,
+      "theme": "Cinema",
+      "title": "Italian cinema, from neorealism to Fellini",
+      "file": "days/day-018.json"
+    },
+    {
+      "id": "day-019",
+      "number": 19,
+      "theme": "Architecture",
+      "title": "Greek temples and Roman building",
+      "file": "days/day-019.json"
+    },
+    {
+      "id": "day-020",
+      "number": 20,
+      "theme": "Greek and Roman myths",
+      "title": "The gods of Olympus",
+      "file": "days/day-020.json"
+    },
+    {
+      "id": "day-021",
+      "number": 21,
+      "theme": "World history",
+      "title": "Egypt and Mesopotamia",
+      "file": "days/day-021.json"
     }
   ]
 }

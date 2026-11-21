@@ -1,6 +1,6 @@
 # Choose the theme and the topic: short design
 
-Date: 20 November 2026. Status: waiting for approval. Nothing is built yet.
+Date: 20 November 2026. Status: approved, built and published on 20 November 2026 (commit `bfd0716`). The 50-day plan at the end was confirmed by the players the same day.
 
 ## Why
 
@@ -88,7 +88,7 @@ The players chose C, with the two steps named "Choose the theme to play" and "Ch
 
 ## The 50-day plan (a second, separate piece of work)
 
-This is content, written in batches of about seven days, each approved before it goes live. It is listed here because the choosing screen shows it. The table is a draft: the players have added themes to it but have not yet confirmed the topics. A tick means the day is live.
+This is content, written in batches of about seven days, each approved before it goes live. It is listed here because the choosing screen shows it. The players confirmed this table on 20 November 2026. A tick means the day is live.
 
 | Theme | 1 | 2 | 3 |
 |---|---|---|---|
@@ -109,6 +109,18 @@ This is content, written in batches of about seven days, each approved before it
 | Economics | Money, banks and inflation | Smith, Marx, Keynes | The crises of 1929 and 2008 |
 | Technology | The computer and the internet | Artificial intelligence | Space, from Sputnik to today |
 
-That is 48 days. Two mixed days, with questions from every theme, would bring the total to 50; they are the builder's suggestion and are not confirmed. 34 topic days remain to be written.
+That is 48 days. Two mixed days, with questions from every theme, bring the total to 50. The players confirmed "the table"; the mixed days were part of what was shown to them, but they did not speak about them separately, so check with them before writing the first one (Day 25). 34 topic days remain to be written.
 
-Order of work: the choosing screen first, because it is small and useful with the 14 days that exist; then the content, batch by batch.
+### Order of the days still to write
+
+The game proposes the lowest-numbered unplayed day, so the numbers are arranged to move between themes and to bring in the new themes first, which is what the players asked for. "Music 1" means the first topic in the Music row of the table. This order is the builder's call.
+
+| Batch | Days | Content |
+|---|---|---|
+| 3 | 15 to 21 | Music 1, Science 1, Philosophy and ideas 1, Cinema 1, Architecture 1, Greek and Roman myths 1, World history 1 |
+| 4 | 22 to 28 | Economics 1, Technology 1, Art history 3, mixed day (Day 25), Literature 3, Italian history 3, Great books 3 |
+| 5 | 29 to 35 | French history 3, Geography 3, Geopolitics 3, Music 2, Science 2, Philosophy and ideas 2, Cinema 2 |
+| 6 | 36 to 42 | Architecture 2, Greek and Roman myths 2, World history 2, Economics 2, Technology 2, Music 3, Science 3 |
+| 7 | 43 to 50 | Philosophy and ideas 3, Cinema 3, Architecture 3, Greek and Roman myths 3, World history 3, Economics 3, Technology 3, mixed day (Day 50) |
+
+Theme names in the day files must be written exactly as in the first column of the table above, because the choosing screen and the score table group days by that text.

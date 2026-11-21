@@ -2,10 +2,11 @@
 
 A daily trivia game for two players on one shared screen. Ten questions a day, each with a hint and four answers. Both players lock in an answer in secret, then reveal it. The game keeps a score for each day and an all-time score.
 
-Themes rotate through art history, literature, Italian history, great books, French history, geography and geopolitics. Two weeks are ready.
+There are fourteen themes: art history, literature, Italian history, great books, French history, geography, geopolitics, music, science, philosophy and ideas, cinema, architecture, Greek and Roman myths, and world history. Players choose the theme and the topic themselves. Twenty-one days are ready, written in three batches.
 
-- Week 1: Rembrandt and Van Gogh, *Pride and Prejudice*, Italian history from Rome to the Republic, Augustine's *Confessions*, French history from Charlemagne to de Gaulle, the world map, and the UN, NATO and the EU.
-- Week 2: Florence in the 1400s, Shakespeare's tragedies, the medieval communes and maritime republics, Dante's *Inferno*, the Hundred Years' War and Joan of Arc, the countries and capitals of Asia, and the UN and the world after 1945.
+- Days 1 to 7: Rembrandt and Van Gogh, *Pride and Prejudice*, Italian history from Rome to the Republic, Augustine's *Confessions*, French history from Charlemagne to de Gaulle, the world map, and the UN, NATO and the EU.
+- Days 8 to 14: Florence in the 1400s, Shakespeare's tragedies, the medieval communes and maritime republics, Dante's *Inferno*, the Hundred Years' War and Joan of Arc, the countries and capitals of Asia, and the UN and the world after 1945.
+- Days 15 to 21, the first day of seven new themes: Bach, Mozart and Beethoven; Galileo and Newton; Socrates, Plato and Aristotle; Italian cinema from neorealism to Fellini; Greek temples and Roman building; the gods of Olympus; and Egypt and Mesopotamia.
 
 ## Play
 
@@ -52,4 +53,4 @@ Then open `http://localhost:4173`.
 
 ## Images
 
-Every image comes from Wikimedia Commons and is in the public domain or released under CC0. Most are faithful reproductions of old works; a few are photographs released by their photographers. The artist, title, date and place are shown under each picture after the answer is revealed, and each day file keeps the link to the Commons page.
+Every image comes from Wikimedia Commons and is in the public domain or released under CC0. Most are faithful reproductions of old works; a few are photographs released by their photographers. The pictures of the cinema day are Italian film stills and set photographs from 1945 to 1963, which are in the public domain in Italy because they are more than 20 years old, and one frame of an American trailer published without a copyright notice. The artist, title, date and place are shown under each picture after the answer is revealed, and each day file keeps the link to the Commons page.
